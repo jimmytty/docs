@@ -1,14 +1,13 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [6%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [18%]
 by Alma Swan
 
-:                                     UNESCO
-:         United Nations Education, Scientific and Cultural Organization
-:                      Communication and Information Sector
+:                             UNESCO
+: United Nations Education, Scientific and Cultural Organization
+:              Communication and Information Sector
 
 [...]
 
 ** DONE FOREWORD
-# <<957f45de0590cb7bd043a9a6f175d4ad>>
 
 As stated in its Constitution, UNESCO is dedicated to "maintain, increase and diffuse knowledge". Therefore, part of its mission is to build knowledge societies by fostering universal access to information and knowledge through information and communication technologies (ICTs). The Knowledge Societies Division of the Communication and Information Sector is engaged in promoting multilingualism in cyberspace, access to information for people with disabilities, developing national policies for the information society, preservation of documentary heritage, and use of ICTs in education, science and culture, including Open Access to scientific information and research. Open Access is at the heart of the overall effort by the Organization to build peace in the minds of men and women.
 
@@ -21,392 +20,219 @@ I believe that this comprehensive document will be broadly useful to decision- a
 : for Communication and Information,
 :                             UNESCO
 
-** TODO INTRODUCTION
-# <<5933ba40c36942af6d85eae2b87d1ac5>>
+** DONE INTRODUCTION [100%]
+*** DONE Open Access to Scientific Information and Research
 
-    Open Access to Scientific Information and                         (c) Maintain, increase and diffuse knowledge: By assuring
-    Research                                                              the conservation and protection of the world"s
-                                                                          inheritance of books, works of art and monuments of
-    Scientific information is both a researcher"s greatest
-                                                                          history and science, and recommending to the nations
-    output and technological innovation"s most important
-                                                                          concerned the necessary international conventions;
-    resource. Open Access (OA) is the provision of free access
-    to peer-reviewed, scholarly and research information to              By encouraging cooperation among the nations
-    all. It requires that the rights holder grants worldwide             in all branches of intellectual activity, including the
-    irrevocable right of access to copy, use, distribute, transmit,      international exchange of persons active in the fields
-    and make derivative works in any format for any lawful               of education, science and culture and the exchange of
-    activities with proper attribution to the original author.           publications, objects of artistic and scientific interest
-    Open Access uses Information and Communication                       and other materials of information;
-    Technology (ICT) to increase and enhance the
-                                                                         By initiating methods of international cooperation
-    dissemination of scholarship. OA is about Freedom,
-                                                                         calculated to give the people of all countries access to
-    Flexibility and Fairness.
-                                                                         the printed and published materials produced by any
-    The rising cost of journal subscription is a major force             of them.
-    behind the emergence of the OA movement. The
-                                                                      While UNESCO"s mission is to contribute to the building
-    emergence of digitisation and Internet has increased the
-                                                                      of peace, the eradication of poverty, sustainable
-    possibility of making information available to anyone,
-                                                                      development and intercultural dialogue through
-    anywhere, anytime, and in any format. Through Open
-                                                                      education, the sciences, culture, communication and
-    Access, researchers and students from around the world
-                                                                      information, the Organisation has the following five
-    gain increased access to knowledge, publications receive
-                                                                      overarching objectives:
-    greater visibility and readership, and the potential impact
-    of research is heightened. Increased access to and                + Attaining quality education for all and lifelong learning
-    sharing of knowledge leads to opportunities for equitable
-    economic and social development, intercultural dialogue,          + Mobilising science knowledge and policy for
-    and has the potential to spark innovation. Open Access is           sustainable development
-    at the heart of UNESCO"s goal to provide universal access
-                                                                      + Addressing emerging social and ethical challenges
-    to information and knowledge, focussing particularly on
-    two global priorities: Africa and Gender equality. In all the     + Fostering cultural diversity, intercultural dialogue and a
-    work UNESCO does in the field of OA, the overarching goal           culture of peace
-    is to foster an enabling environment for OA in the Member
-                                                                      + Building inclusive knowledge societies through
-    States so that the benefits of research are accessible to
-                                                                        information and communication
-    everyone through the public Internet.
-                                                                      The organisation also has two global priorities -- Africa
-    UNESCO and Open Access                                            and Gender Equality within its overall mandate, as areas of
-                                                                      focus. Thus, in the areas of its competence, UNESCO"s role
-    The Constitution of United Nations Educational, Scientific
-                                                                      is to improve access to information and knowledge for the
-    and Cultural Organization (UNESCO) in Article I, Clause
-                                                                      Member States through appropriate use of information
-    2 states one of the purposes and functions of the
-                                                                      and communication technologies. While the programme
-    Organisation as:
-                                                                      sectors engage in the specific area of UNESCO"s
-                                                                      competence, the Communication and Information sector,
+Scientific information is both a researcher's greatest output and technological innovation's most important resource. Open Access (OA) is the provision of free access to peer-reviewed, scholarly and research information to all. It requires that the rights holder grants worldwide irrevocable right of access to copy, use, distribute, transmit, and make derivative works in any format for any lawful activities with proper attribution to the original author. Open Access uses Information and Communication Technology (ICT) to increase and enhance the dissemination of scholarship. OA is about Freedom, Flexibility and Fairness.
 
+The rising cost of journal subscription is a major force behind the emergence of the OA movement. The emergence of digitisation and Internet has increased the possibility of making information available to anyone, anywhere, anytime, and in any format. Through Open Access, researchers and students from around the world gain increased access to knowledge, publications receive greater visibility and readership, and the potential impact of research is heightened. Increased access to and sharing of knowledge leads to opportunities for equitable economic and social development, intercultural dialogue, and has the potential to spark innovation. Open Access is at the heart of UNESCO's goal to provide universal access to information and knowledge, focussing particularly on two global priorities: Africa and Gender equality. In all the work UNESCO does in the field of OA, the overarching goal is to foster an enabling environment for OA in the Member States so that the benefits of research are accessible to everyone through the public Internet.
 
+*** DONE UNESCO and Open Access [100%]
 
-6
-especially the Knowledge Societies Division (KSD) engages                + To facilitate preservation, by the most appropriate
-in creating an enabling environment in Member States to                    techniques, of the world"s documentary heritage.
-facilitate access to information and knowledge in order
-                                                                         + To assist universal access to documentary heritage.
-to build inclusive knowledge societies. Open Access to
-scientific information and research is one of the many                   + To increase awareness worldwide of the existence and
-programmes on which the KSD works to increase access                       significance of documentary heritage.
-to information and knowledge. Some of the other related
-areas where UNESCO works are:                                            Open Educational Resources
+The Constitution of United Nations Educational, Scientific and Cultural Organization (UNESCO) in Article I, Clause 2 states one of the purposes and functions of the Organisation as:
 
-Free and Open Source Software (FOSS)                                     Access to high quality education is key to the building
-                                                                         of peace, sustainable social and economic development,
-In the area of Free and Open Source Software (FOSS),                     and intercultural dialogue. Open Educational Resources
-UNESCO fulfils its basic functions of a laboratory of ideas              (OER) provide a strategic opportunity to improve access
-and a standard-setter to forge universal agreements on                   to quality education at all levels, and increase dialogue,
-emerging ethical issues by supporting the development                    knowledge sharing and capacity building. In the
-and use of open, interoperable, non-discriminatory                       education and research ecosystem, OER and OA forms
-standards for information handling and access as                         two important interventions that works in an integrated
-important elements in developing effective infostructures                fashion to promote the quality of learning and generate
-that contribute to democratic practices, accountability                  new knowledge. The term OER was coined at UNESCO in
-and good governance. Recognising that software plays                     the 2002 Forum on the Impact of Open Courseware for
-a crucial role in access to information and knowledge,                   Higher Education in Developing Countries.
-UNESCO supported the development and distribution
-of software such as the Micro CDS/ISIS1 (information                     Information for All Programme (IFAP)
-storage and retrieval software) and Greenstone2 (digital                 KSD also hosts the intergovernmental programme --
-library software). FOSS is the engine for the growth and                 Information for All Programme (IFAP) that is engaged in
-development of Open Access, and UNESCO encourages                        reducing the gap between information have and have not
-community approaches to software development.                            in North and South. The IFAP seeks to:
-Preservation of Digital Heritage
-                                                                         + promote international reflection and debate on the
-Preservation of digital cultural heritage, including                       ethical, legal and societal challenges of the information
-digital information is a priority area for UNESCO. Digital                 society;
-preservation consists of the processes aimed at ensuring
-                                                                         + promote and widen access to information in the public
-the continued accessibility of digital materials. Making
-                                                                           domain through the organisation, digitisation and
-information that are preserved accessible to citizens is
-                                                                           preservation of information;
-facilitated through the appropriate use of a combination
-of software and hardware tools. UNESCO"s Charter on the                  + support training, continuing education and lifelong
-Preservation of the Digital Heritage (2003) states that                    learning in the fields of communication, information
-                                                                           and informatics;
-    "the purpose of preserving the digital heritage is
-    to ensure that it remains accessible to the public.                  + support the production of local content and foster the
-    Accordingly, access to digital heritage materials,                     availability of indigenous knowledge through basic
-    especially those in the public domain, should be free of               literacy and ICT literacy training;
-    unreasonable restrictions. At the same time, sensitive
-                                                                         + promote the use of international standards and
-    and personal information should be protected from
-                                                                           best practices in communication, information and
-    any form of intrusion".
-                                                                           informatics in UNESCO"s fields of competence; and
-UNESCO"s Memory of the World (MoW) programme aims
-                                                                         + promote information and knowledge networking at
-at preserving world"s documentary heritage by making
-                                                                           local, national, regional and international levels.
-it permanently accessible to all without hindrance. The
-mission of the Memory of the World Programme is:
+(c) Maintain, increase and diffuse knowledge: By assuring the conservation and protection of the world's inheritance of books, works of art and monuments of history and science, and recommending to the nations concerned the necessary international conventions;
 
+    By encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active in the fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
 
-1   http://www.unesco.org/new/en/communication-and-information/access-
-    to-knowledge/free-and-open-source-software-foss/cdsisis/
-2   http://www.greenstone.org/
+    By initiating methods of international cooperation calculated to give the people of all countries access to the printed and published materials produced by any of them.
 
+While UNESCO's mission is to contribute to the building of peace, the eradication of poverty, sustainable development and intercultural dialogue through education, the sciences, culture, communication and information, the Organisation has the following five overarching objectives:
 
+  + Attaining quality education for all and lifelong learning.
 
-                                                                                                                                       7
-    World Summit on the Information Society                         Organisation of the Contents
-    The World Summit on the Information Society3 (WSIS),            The content of the Policy Guidelines is organized in to nine
-    Geneva (2003) declared that "the ability for all to access      sections:
-    and contribute information, ideas and knowledge is
-    essential in an inclusive Information Society". It further      + Section 1: The Development of Open Access to Scientific
-    emphasised that sharing of global knowledge for                   Information and Research, gives an overview of the
-    development can be enhanced by removing barriers                  definitions used, and the history of the OA movement
-    to equitable access to information. While a rich public           -- Budapest -- Bethesda -- Berlin.
-    domain is an essential element for the growth of the            + Section 2: Approaches to Open Access, enumerates the
-    Information Society, preservation of documentary records          "green" and "gold" routes to OA.
-    and free and equitable access to scientific information
-    is necessary for innovation, creating new business              + Section 3: The Importance of Open Access, explains
-    opportunities and provide access to collective memory of          how OA is important for scholars, research institutions
-    the civilizations.                                                and for developing knowledge societies.
+  + Mobilising science knowledge and policy for sustainable development.
 
-    In the context of Open Access, the Summit proclaimed:           + Section 4: The Benefits of Open Access, emphasizes that
-                                                                      OA enhances research process, improves visibility and
-    28. We strive to promote universal access with equal              usage of research works, and therefore, the impact of
-        opportunities for all to scientific knowledge and the         research works is also increased through citations and
-        creation and dissemination of scientific and technical        impact outside the academia.
-        information, including open access initiatives for
-        scientific publishing.                                      + Section 5: Business Models, analyses the traditional
-                                                                      business models in scientific communications and
-    Two of the Action Lines of the WSIS (Action Line 3:               describes the new emerging models in the context of
-    Access to information and knowledge and Action Line               OA.
-    7: E-Science) have been involved in promoting Open
-    Access to peer-reviewed information and research data           + Section 6: Copyright and Licensing, provides an
-    through their interventions and engagements with the              overview of the legal issues in a non-legal language to
-    stakeholders.                                                     explain that copyright is at the heart of OA. Copyright
-                                                                      owners consent is essential to make OA happen, and
-    Objective of this Document                                        authors and creators can retain rights to increase use
-                                                                      of their works through different mechanisms, including
-    The overall objective of the Policy Guidelines is to              Creative Commons licensing.
-    promote Open Access in Member States by facilitating
-    understanding of all relevant issues related to Open            + Section 7: Strategies to Promote Open Access, describes
-    Access. Specifically, it is expected that the document shall:     policy- focused, advocacy-based and infrastructural
-                                                                      approaches to OA. While all the approaches are
-    + Enable Member State institutions to review their                important, it also lists a number of organizations
-      position on access to scientific information in the light       engaged in promoting OA.
-      of the Policy Guidelines;
-                                                                    + Section 8: Policy Framework for Open Access, presents
-    + Assist in the choice of appropriate OA policy in the            an overview of the growth of policies, and a critical
-      specific contexts of Member States; and                         appraisal of the issues affecting OA policies. It also
-                                                                      presents a typology of OA policies to explain the
-    + Facilitate adoption of OA policy in research funding
-                                                                      difference in different types of policies adopted around
-      bodies and institutions by integrating relevant issues in
-                                                                      the world. The chapter should be seen along-with the
-      the national research systems.
-                                                                      examples in Appendix-1.
-    Thus, the Policy Guidelines are not prescriptive in nature,
-                                                                    + Section 9: Summary Policy Guidelines, is the key
-    but are suggestive to facilitate knowledge-based decision-
-                                                                      section of this document and explain the various
-    making to adopt OA policies and strengthen national
-                                                                      components that a standard policy should consider,
-    research systems.
-                                                                      and suggests the best policy decision to be included.
-                                                                      This section should also be seen along-with the
-    3   http://www.itu.int/wsis/docs/geneva/official/dop.html
-                                                                      templates in Appendix-2.
+  + Addressing emerging social and ethical challenges.
 
+  + Fostering cultural diversity, intercultural dialogue and a culture of peace.
 
-8
-The Policy Guidelines also gives a detailed bibliography
-and glossary of terms and abbreviations used at the end.
-An executive summary is also there in the beginning to
-provide an overview of the document to help a quick
-understanding, though it is recommended that you read
-the sections for detail.
+  + Building inclusive knowledge societies through information and communication.
 
-Using the Policy Guidelines
+The organisation also has two global priorities -- Africa and Gender Equality within its overall mandate, as areas of focus. Thus, in the areas of its competence, UNESCO's role is to improve access to information and knowledge for the Member States through appropriate use of information and communication technologies. While the programme sectors engage in the specific area of UNESCO's competence, the Communication and Information sector, especially the Knowledge Societies Division (KSD) engages in creating an enabling environment in Member States to facilitate access to information and knowledge in order to build inclusive knowledge societies. Open Access to scientific information and research is one of the many programmes on which the KSD works to increase access to information and knowledge. Some of the other related areas where UNESCO works are:
 
-The Policy Guidelines can be used by individuals as a
-basic text on Open Access and related policies. While we
-recommend that beginners to the world of Open Access
-should read it from cover to cover, people having some
-understanding of OA may like to start reading from any of
-the sections. Decision-makers, administrators and research
-managers should focus on Sections 8 and 9 that capture
-all relevant issues of OA policy development. At the end
-of this document, you will find examples of different types
-of OA policies (Appendix 1), and three policy templates
-(Appendix 2) to choose and adopt. While every institution
-may have their unique process of policy adoption, we
-recommend a more democratic, consultative and open
-approach to adopt Open Access policy, as success of the
-policy implementation will depend on the ownership
-of the stakeholders to deposit their work and/or publish
-in OA journals. We are sure that the Policy Guidelines will
-be useful to you, and we are interested in listening to
-your experiences and feedback. Please fill the attached
-feedback form at page 75-76 and return it to us to
-help improve the Policy Guidelines and also share your
-experiences with others.
+**** DONE Free and Open Source Software (FOSS)
 
-                                         Dr. Sanjaya Mishra
-                                     Programme Specialist
-                   (ICT in Education, Science and Culture)
-                             Knowledge Societies Division
-                  Communication and Information Sector
-                               United Nations Educational,
-                       Scientific and Cultural Organization
+In the area of Free and Open Source Software (FOSS), UNESCO fulfils its basic functions of a laboratory of ideas and a standard-setter to forge universal agreements on emerging ethical issues by supporting the development and use of open, interoperable, non-discriminatory standards for information handling and access as important elements in developing effective infostructures that contribute to democratic practices, accountability and good governance. Recognising that software plays a crucial role in access to information and knowledge, UNESCO supported the development and distribution of software such as the Micro CDS/ISIS[fn:1] (information storage and retrieval software) and Greenstone[fn:2] (digital library software). FOSS is the engine for the growth and development of Open Access, and UNESCO encourages community approaches to software development.
 
+**** DONE Preservation of Digital Heritage
 
+Preservation of digital cultural heritage, including digital information is a priority area for UNESCO. Digital preservation consists of the processes aimed at ensuring the continued accessibility of digital materials. Making information that are preserved accessible to citizens is facilitated through the appropriate use of a combination of software and hardware tools. UNESCO's Charter on the Preservation of the Digital Heritage (2003) states that "the purpose of preserving the digital heritage is to ensure that it remains accessible to the public. Accordingly, access to digital heritage materials, especially those in the public domain, should be free of unreasonable restrictions. At the same time, sensitive and personal information should be protected from any form of intrusion".
 
+UNESCO's Memory of the World (MoW) programme aims at preserving world's documentary heritage by making it permanently accessible to all without hindrance. The mission of the Memory of the World Programme is:
 
-                                                              9
-** TODO EXECUTIVE SUMMARY
+  + To facilitate preservation, by the most appropriate techniques, of the world's documentary heritage.
 
-     These Guidelines provide an account of the development         cultural norms have changed to support Open Access.
-     of Open Access, why it is important and desirable, how to      Open Access is achieved by two main routes:
-     attain it, and the design and effectiveness of policies.
-                                                                    + Open Access journals, the "gold" route to Open Access,
-     Open Access is a new way of disseminating research               are a particularly successful model in some disciplines,
-     information, made possible because of the World Wide             and especially in some geographical communities
-     Web. The development of the concept is summarised as
-                                                                    + The "green" route, via repositories can capture more
-     follows:
-                                                                      material, faster, if the right policies are put in place
-     + The Web offers new opportunities to build an optimal
-                                                                    Additionally, "hybrid" Open Access is offered by many
-       system for communicating science -- a fully linked,
-                                                                    publishers: this is where a fee can be paid to make a single
-       fully interoperable, fully-exploitable scientific research
-                                                                    article Open Access in an otherwise subscription-based
-       database available to all
-                                                                    journal. In some cases, the publisher will reduce the
-     + Scientists are using these opportunities both to             subscription cost in line with the new revenue coming in
-       develop Open Access routes for the formal literature         from Open Access charges, but in most cases this is not
-       and for informal types of communication                      offered. The practice of accruing new revenue from Open
-                                                                    Access charges without reducing the subscription price is
-     + For the growing body of Open Access information,
-                                                                    known as "double dipping".
-       preservation in the long-term is a key issue
-                                                                    There are a number of issues that contribute to the
-     + Essential for the acceptance and use of the Open
-                                                                    importance of Open Access:
-       Access literature are new services that provide for the
-       needs of scientists and research managers                    + There is a problem of accessibility to scientific
-                                                                      information everywhere
-     + There are already good, workable, proven-in-use
-       definitions of Open Access that can be used to               + Levels of Open Access vary by discipline, and some
-       underpin policy                                                disciplines lag behind considerably, making the effort
-                                                                      to achieve Open Access even more urgent
-     + There is also a distinction made between two types of
-       Open Access -- gratis and libre -- and this distinction        + Access problems are accentuated in developing,
-       also has policy implications                                   emerging and transition countries
+  + To assist universal access to documentary heritage.
 
-     + Two practical routes to Open Access ("green" and             + There are some schemes to alleviate access problems
-       "gold") have been formally endorsed by the research            in the poorest countries but although these provide
-       community                                                      access, they do not provide Open Access: they are not
-                                                                      permanent, they provide access only to a proportion
-     + The primary, and original, target for Open Access
-                                                                      of the literature, and they do not make the literature
-       was the journal literature (including peer-reviewed
-                                                                      open to all but only to specific institutions
-       conference proceedings). Masters and doctoral theses
-       are also welcome additions to this list and the concept      + Open Access is now joined by other concepts in a
-       is now being widened to include research data and              broader "open" agenda that encompasses issues such
-       books                                                          as Open Educational Resources, Open Science, Open
-                                                                      Innovation and Open Data
-     There is already considerable infrastructure in place to
-     enable Open Access although in some disciplines this           + Some initiatives aimed at improving access are not
-     is much further advanced than others. In these cases,            Open Access and should be clearly differentiated as
-                                                                      something different
+  + To increase awareness worldwide of the existence and significance of documentary heritage.
 
+**** DONE Open Educational Resources
 
-10
-The benefits of Open Access are summarised as follows:         require it. Evidence shows that only the latter, mandatory,
-                                                               type accumulate high levels of material. Evidence also
-+ Open Access improves the speed, efficiency and
-                                                               shows that researchers are happy to be mandated on this
-  efficacy of research
-                                                               issue.
-+ Open Access is an enabling factor in interdisciplinary
-                                                               The issues that an Open Access policy should address are
-  research
-                                                               as follows:
-+ Open Access enables computation upon the research
-                                                               + Open Access routes: policies can require "green"
-  literature
-                                                                 Open Access by self-archiving but to preserve authors"
-+ Open Access increases the visibility, usage and impact         freedom to publish where they choose policies should
-  of research                                                    only encourage "gold" Open Access through publication
-                                                                 in Open Access journals
-+ Open Access allows the professional, practitioner and
-  business communities, and the interested public, to          + Deposit locus: deposit may be required either in
-  benefit from research                                          institutional or central repositories. Institutional policies
-                                                                 naturally specify the former: funder policies may also
-As Open Access has grown, new business models have               do this, or may in some cases specify a particular
-been developed -- for journal publishing, for Open Access         central repository
-repositories, book publishing and services built to provide
-for new needs, processes and systems associated with the       + Content types covered: all policies cover journal
-new methods of dissemination.                                    articles: policies should also encourage Open Access
-                                                                 for books: funder polices are increasingly covering
-The dissemination of research depends upon the                   research data outputs
-copyright holder"s consent and this can be used to
-enhance or hamper Open Access. Copyright is a bundle           + Embargoes: Policies should specify the maximum
-of rights: authors of journal articles normally sign the         embargo length permitted and in science this should
-whole bundle of rights over to the publisher, though this is     be 6 months at most: policies should require deposit
-not normally necessary.                                          at the time of publication with the full-text of the item
-                                                                 remaining in the repository, but closed, until the end of
-Authors (or their employers or funders) can retain the           the embargo period
-rights they need to make the work Open Access, assigning
-to the journal publisher the right to publish the work         + Permissions: Open Access depends on the
-(and to have the exclusive right to do this, if required).       permission of the copyright holder, making it
-Such premeditated retention of sufficient rights to enable       vulnerable to publisher interests. To ensure that Open
-Open Access is the preferable course of action rather than       Access can be achieved without problem, sufficient
-seeking permission post-publication.                             rights to enable that should be retained by the author
-                                                                 or employer and publishers assigned a "Licence To
-Formally licensing scientific works is good practice             Publish". Where copyright is handed to the publisher,
-because it makes clear to the user -- whether human or            Open Access will always depend upon publisher
-machine -- what can be done with the work and by that             permission and policies must acknowledge this by
-can encourage use. Only a minor part of the Open Access          accommodating a "loophole" for publishers to exploit
-literature is formally licensed at present: this is the case
-even for Open Access journal content.                          + Compliance with policies: compliance levels vary
-                                                                 according to the strength of the policy and the on-
-Creative Commons licensing is best practice because the          going support that a policy is given: compliance
-system is well-understood, provides a suite of licences that     can be improved by effective advocacy and, where
-cover all needs, and the licences are machine-readable.          necessary, sanctions
-In the absence of such a licence, legal amendments to
-copyright law will be necessary in most jurisdictions to       + Advocacy to support a policy: there are proven
-enable text-mining and data-mining research material.            advocacy practices in support of an Open Access
-                                                                 policy: policymakers should ensure these are known,
-Policy development is still a relatively new activity with       understood, and appropriate ones implemented
-respect to research dissemination. Policies may request
-and encourage provision of Open Access, or they may            + Sanctions to support a policy: both institutions and
-                                                                 funders have sanctions that can be used in support of
+Access to high quality education is key to the building of peace, sustainable social and economic development, and intercultural dialogue. Open Educational Resources (OER) provide a strategic opportunity to improve access to quality education at all levels, and increase dialogue, knowledge sharing and capacity building. In the education and research ecosystem, OER and OA forms two important interventions that works in an integrated fashion to promote the quality of learning and generate new knowledge. The term OER was coined at UNESCO in the 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries.
 
+**** DONE Information for All Programme (IFAP)
 
-                                                                                                                                 11
-     an Open Access policy: policymakers should ensure
-        that these are identified, understood and appropriate
-        ones implemented where other efforts fail to produce
-        the desired outcome
+KSD also hosts the intergovernmental programme -- Information for All Programme (IFAP) that is engaged in reducing the gap between information have and have not in North and South. The IFAP seeks to:
 
-     + Waivers: where a policy is mandatory authors may not
-       always be able to comply. A waiver clause is necessary
-       in such policies to accommodate this
+  + promote international reflection and debate on the ethical, legal and societal challenges of the information society;
 
-     + "Gold" Open Access: where a funder or institution has
-       a specific commitment with respect to paying "gold"
-       article-processing fees, this should be stated in the
-       policy
+  + promote and widen access to information in the public domain through the organisation, digitisation and preservation of information;
 
+  + support training, continuing education and lifelong learning in the fields of communication, information and informatics;
 
+  + support the production of local content and foster the availability of indigenous knowledge through basic literacy and ICT literacy training;
 
+  + promote the use of international standards and best practices in communication, information and informatics in UNESCO's fields of competence; and
 
-12
+  + promote information and knowledge networking at local, national, regional and international levels.
 
-** TODO 1. The Development of Open Access to Scientific Information and Research
+**** DONE World Summit on the Information Society
+
+The World Summit on the Information Society[fn:3] (WSIS), Geneva (2003) declared that "the ability for all to access and contribute information, ideas and knowledge is essential in an inclusive Information Society". It further emphasised that sharing of global knowledge for development can be enhanced by removing barriers to equitable access to information. While a rich public domain is an essential element for the growth of the Information Society, preservation of documentary records and free and equitable access to scientific information is necessary for innovation, creating new business opportunities and provide access to collective memory of the civilizations.
+In the context of Open Access, the Summit proclaimed:
+
+28. We strive to promote universal access with equal opportunities for all to scientific knowledge and the creation and dissemination of scientific and technical information, including open access initiatives for scientific publishing.
+
+Two of the Action Lines of the WSIS (Action Line 3: Access to information and knowledge and Action Line 7: E-Science) have been involved in promoting Open Access to peer-reviewed information and research data through their interventions and engagements with the stakeholders.
+
+*** DONE Objective of this Document
+
+The overall objective of the Policy Guidelines is to promote Open Access in Member States by facilitating understanding of all relevant issues related to Open Access. Specifically, it is expected that the document shall:
+
+  + Enable Member State institutions to review their position on access to scientific information in the light of the Policy Guidelines;
+
+  + Assist in the choice of appropriate OA policy in the specific contexts of Member States; and
+
+  + Facilitate adoption of OA policy in research funding bodies and institutions by integrating relevant issues in the national research systems.
+
+Thus, the Policy Guidelines are not prescriptive in nature, but are suggestive to facilitate knowledge-based decision- making to adopt OA policies and strengthen national research systems.
+
+*** DONE Organisation of the Contents [100%]
+
+The content of the Policy Guidelines is organized in to nine sections:
+
+  + Section 1: The Development of Open Access to Scientific Information and Research, gives an overview of the definitions used, and the history of the OA movement -- Budapest -- Bethesda -- Berlin.
+
+  + Section 2: Approaches to Open Access, enumerates the "green" and "gold" routes to OA.
+
+  + Section 3: The Importance of Open Access, explains how OA is important for scholars, research institutions and for developing knowledge societies.
+
+  + Section 4: The Benefits of Open Access, emphasizes that OA enhances research process, improves visibility and usage of research works, and therefore, the impact of research works is also increased through citations and impact outside the academia.
+
+  + Section 5: Business Models, analyses the traditional business models in scientific communications and describes the new emerging models in the context of OA.
+
+  + Section 6: Copyright and Licensing, provides an overview of the legal issues in a non-legal language to explain that copyright is at the heart of OA. Copyright owners consent is essential to make OA happen, and authors and creators can retain rights to increase use of their works through different mechanisms, including Creative Commons licensing.
+
+  + Section 7: Strategies to Promote Open Access, describes policy- focused, advocacy-based and infrastructural approaches to OA. While all the approaches are important, it also lists a number of organizations engaged in promoting OA.
+
+  + Section 8: Policy Framework for Open Access, presents an overview of the growth of policies, and a critical appraisal of the issues affecting OA policies. It also presents a typology of OA policies to explain the difference in different types of policies adopted around the world. The chapter should be seen along-with the examples in Appendix-1.
+
+  + Section 9: Summary Policy Guidelines, is the key section of this document and explain the various components that a standard policy should consider, and suggests the best policy decision to be included. This section should also be seen along-with the templates in Appendix-2.
+
+The Policy Guidelines also gives a detailed bibliography and glossary of terms and abbreviations used at the end. An executive summary is also there in the beginning to provide an overview of the document to help a quick understanding, though it is recommended that you read the sections for detail.
+
+**** DONE Using the Policy Guidelines
+
+The Policy Guidelines can be used by individuals as a basic text on Open Access and related policies. While we recommend that beginners to the world of Open Access should read it from cover to cover, people having some understanding of OA may like to start reading from any of the sections. Decision-makers, administrators and research managers should focus on Sections 8 and 9 that capture all relevant issues of OA policy development. At the end of this document, you will find examples of different types of OA policies (Appendix 1), and three policy templates (Appendix 2) to choose and adopt. While every institution may have their unique process of policy adoption, we recommend a more democratic, consultative and open approach to adopt Open Access policy, as success of the policy implementation will depend on the ownership of the stakeholders to deposit their work and/or publish in OA journals. We are sure that the Policy Guidelines will be useful to you, and we are interested in listening to your experiences and feedback. Please fill the attached feedback form at page 75-76 and return it to us to help improve the Policy Guidelines and also share your experiences with others.
+
+:                       Dr. Sanjaya Mishra
+:                     Programme Specialist
+:  (ICT in Education, Science and Culture)
+:             Knowledge Societies Division
+:     Communication and Information Sector
+:              United Nations Educational,
+:     Scientific and Cultural Organization
+
+** DONE EXECUTIVE SUMMARY
+
+These Guidelines provide an account of the development of Open Access, why it is important and desirable, how to attain it, and the design and effectiveness of policies. Open Access is a new way of disseminating research information, made possible because of the World Wide Web. The development of the concept is summarised as follows:
+
+  + The Web offers new opportunities to build an optimal system for communicating science -- a fully linked, fully interoperable, fully-exploitable scientific research database available to all.
+
+  + Scientists are using these opportunities both to develop Open Access routes for the formal literature and for informal types of communication.
+
+  + For the growing body of Open Access information, preservation in the long-term is a key issue.
+
+  + Essential for the acceptance and use of the Open Access literature are new services that provide for the needs of scientists and research managers.
+
+  + There are already good, workable, proven-in-use definitions of Open Access that can be used to underpin policy.
+
+  + There is also a distinction made between two types of Open Access -- gratis and libre -- and this distinction also has policy implications.
+
+  + Two practical routes to Open Access ("green" and "gold") have been formally endorsed by the research community.
+
+  + The primary, and original, target for Open Access was the journal literature (including peer-reviewed conference proceedings). Masters and doctoral theses are also welcome additions to this list and the concept is now being widened to include research data and books.
+
+There is already considerable infrastructure in place to enable Open Access although in some disciplines this is much further advanced than others. In these cases, cultural norms have changed to support Open Access. Open Access is achieved by two main routes:
+
+  + Open Access journals, the "gold" route to Open Access, are a particularly successful model in some disciplines, and especially in some geographical communities.
+
+  + The "green" route, via repositories can capture more material, faster, if the right policies are put in place.
+
+Additionally, "hybrid" Open Access is offered by many publishers: this is where a fee can be paid to make a single article Open Access in an otherwise subscription-based journal. In some cases, the publisher will reduce the subscription cost in line with the new revenue coming in from Open Access charges, but in most cases this is not offered. The practice of accruing new revenue from Open Access charges without reducing the subscription price is known as "double dipping".
+
+There are a number of issues that contribute to the importance of Open Access:
+
+  + There is a problem of accessibility to scientific information everywhere.
+
+  + Levels of Open Access vary by discipline, and some disciplines lag behind considerably, making the effort to achieve Open Access even more urgent.
+
+  + Access problems are accentuated in developing, emerging and transition countries.
+
+  + There are some schemes to alleviate access problems in the poorest countries but although these provide access, they do not provide Open Access: they are not permanent, they provide access only to a proportion of the literature, and they do not make the literature open to all but only to specific institutions.
+
+  + Open Access is now joined by other concepts in a broader "open" agenda that encompasses issues such as Open Educational Resources, Open Science, Open Innovation and Open Data.
+
+  + Some initiatives aimed at improving access are not Open Access and should be clearly differentiated as something different.
+
+The benefits of Open Access are summarised as follows:
+
+  + Open Access improves the speed, efficiency and efficacy of research.
+
+  + Open Access is an enabling factor in interdisciplinary research.
+
+  + Open Access enables computation upon the research. literature.
+
+  + Open Access increases the visibility, usage and impact of research.
+
+  + Open Access allows the professional, practitioner and business communities, and the interested public, to benefit from research.
+
+As Open Access has grown, new business models have been developed -- for journal publishing, for Open Access repositories, book publishing and services built to provide for new needs, processes and systems associated with the new methods of dissemination.
+
+The dissemination of research depends upon the copyright holder's consent and this can be used to enhance or hamper Open Access. Copyright is a bundle of rights: authors of journal articles normally sign the whole bundle of rights over to the publisher, though this is not normally necessary.
+
+Authors (or their employers or funders) can retain the rights they need to make the work Open Access, assigning to the journal publisher the right to publish the work (and to have the exclusive right to do this, if required). Such premeditated retention of sufficient rights to enable Open Access is the preferable course of action rather than seeking permission post-publication.
+
+Formally licensing scientific works is good practice because it makes clear to the user -- whether human or machine -- what can be done with the work and by that can encourage use. Only a minor part of the Open Access literature is formally licensed at present: this is the case even for Open Access journal content.
+
+Creative Commons licensing is best practice because the system is well-understood, provides a suite of licences that cover all needs, and the licences are machine-readable. In the absence of such a licence, legal amendments to copyright law will be necessary in most jurisdictions to enable text-mining and data-mining research material.
+
+Policy development is still a relatively new activity with respect to research dissemination. Policies may request and encourage provision of Open Access, or they may require it. Evidence shows that only the latter, mandatory, type accumulate high levels of material. Evidence also shows that researchers are happy to be mandated on this issue.
+
+The issues that an Open Access policy should address are as follows:
+
+  + Open Access routes: policies can require "green" Open Access by self-archiving but to preserve authors" freedom to publish where they choose policies should only encourage "gold" Open Access through publication in Open Access journals.
+
+  + Deposit locus: deposit may be required either in institutional or central repositories. Institutional policies naturally specify the former: funder policies may also do this, or may in some cases specify a particular central repository.
+
+  + Content types covered: all policies cover journal articles: policies should also encourage Open Access for books: funder polices are increasingly covering research data outputs.
+
+  + Embargoes: Policies should specify the maximum embargo length permitted and in science this should be 6 months at most: policies should require deposit at the time of publication with the full-text of the item remaining in the repository, but closed, until the end of the embargo period.
+
+  + Permissions: Open Access depends on the permission of the copyright holder, making it vulnerable to publisher interests. To ensure that Open Access can be achieved without problem, sufficient rights to enable that should be retained by the author or employer and publishers assigned a "Licence To Publish". Where copyright is handed to the publisher, Open Access will always depend upon publisher permission and policies must acknowledge this by accommodating a "loophole" for publishers to exploit.
+
+  + Compliance with policies: compliance levels vary according to the strength of the policy and the ongoing support that a policy is given: compliance can be improved by effective advocacy and, where necessary, sanctions.
+
+  + Advocacy to support a policy: there are proven advocacy practices in support of an Open Access policy: policymakers should ensure these are known, understood, and appropriate ones implemented.
+
+  + Sanctions to support a policy: both institutions and funders have sanctions that can be used in support of an Open Access policy: policymakers should ensure that these are identified, understood and appropriate ones implemented where other efforts fail to produce the desired outcome.
+
+  + Waivers: where a policy is mandatory authors may not always be able to comply. A waiver clause is necessary in such policies to accommodate this.
+
+  + "Gold" Open Access: where a funder or institution has a specific commitment with respect to paying "gold" article-processing fees, this should be stated in the policy.
+
+** TODO Section 1. The Development of Open Access to Scientific Information and Research
 
 1.1 The development of scientific                                  insignificant, but represents a major shift: now, scientists
                                                                    were permitting access to their own files on remote
@@ -466,7 +292,7 @@ for new ways of communicating about research. By the               graphics and 
 findings on electronic archives that offered file transfer         term preservation of electronic journals have been at least
 protocol (ftp) access for other scientists. This may seem          partly allayed by arrangements between (some) publishers
 
-4   This is the number indexed by Ulrich"s Periodicals Directory   5   Developed by Berners-Lee (1989) see full reference in bibliography.
+4   This is the number indexed by Ulrich's Periodicals Directory   5   Developed by Berners-Lee (1989) see full reference in bibliography.
 
 
 
@@ -675,7 +501,7 @@ SECTION 1. The Development of Open Access to Scientific Information and Research
                                                                                                                                                       methods will dominate as science becomes more data-
                                                                                       system become economically self-sustaining. While the
                                                                                                                                                       intensive and machines need to access the literature to
-                                                                                      Open Society Institute"s commitment and resources are
+                                                                                      Open Society Institute's commitment and resources are
                                                                                                                                                       create knowledge. In other words, being able to read an
                                                                                       substantial, this initiative is very much in need of other
                                                                                                                                                       article for free will not be enough.
@@ -780,7 +606,7 @@ is in its early days, but technologies are being developed
 and refined because of the huge potential they have for
                                                                               19 For an explanation of the technologies, see Rodriguez-Esteban (2009): full
 creating new knowledge that can be beneficial18. For                             reference in the bibliography.
-                                                                              20 For an example of how the technologies work, the UK"s National Centre
+                                                                              20 For an example of how the technologies work, the UK's National Centre
                                                                                  for Text Mining (NaCTeM) and the European Bioinformatics Institute are
                                                                                  collaborating with UK PubMed Central on text-mining the biomedical
 18 For an overview of open computation, see Lynch (2006): full reference in      literature: http://www.nactem.ac.uk/ukpmc/
@@ -881,7 +707,7 @@ scientists they fund. Many research funders around the                          
 world now have Open Data policies in place, some of
 them backed by particular infrastructural arrangements                               + Scientists are using these opportunities both to develop Open
 to enable the practicalities of complying with them26.                                 Access routes for the formal literature and for informal types of
-Some researchers use their institution"s digital repository                            communication
+Some researchers use their institution's digital repository                            communication
 for depositing datasets for sharing, or place datasets on                            + For the growing body of Open Access information, preservation in
 open websites. Publishers also make space available                                    the long-term is a key issue
 on their own websites for datasets supporting journal
@@ -919,20 +745,20 @@ companies). Though this issue is nowhere approaching
 25 For example, see the databases maintained by the National Centre
    for Biotechnology Information: http://www.ncbi.nlm.nih.gov/ and the
    European Bioinformatics Institute: http://www.ebi.ac.uk/
-26 As an example, see the Natural Environment Research Council"s data centre
+26 As an example, see the Natural Environment Research Council's data centre
    network in the UK: http://www.nerc.ac.uk/research/sites/data/
 27 The journal Nature, for example, has a clause in its conditions of publishing
    that stipulates that authors must make supporting data available for others
    to see and use.                                                                 30 See the new principles on open metadata promoted by the Joint
                                                                                       Information Systems Committee in the UK: http://www.jisc.ac.uk/
 28 See: Ruusalepp (2008), Brown & Swan (2009) and Swan & Brown (2008): full           news/stories/2011/07/openmetadata.aspx and the Open Knowledge
-   references in the bibliography.                                                    Foundation"s Working Group on Open Bibliographic Data http://wiki.okfn.
+   references in the bibliography.                                                    Foundation's Working Group on Open Bibliographic Data http://wiki.okfn.
 29 http://pantonprinciples.org/                                                       org/Wg/bibliography
 
 
 
                                                                                                                                                                 19
-** TODO 2. Approaches to Open Access
+** TODO Section 2. Approaches to Open Access
 
 
 
@@ -1211,7 +1037,7 @@ from the institution or funder viewpoint for having
 material in a repository is to create a body of outputs that
 can be measured, analysed and assessed. If a repository
 is to be used for this purpose then it is important that it
-collects all the institution"s outputs, rather than having
+collects all the institution's outputs, rather than having
 
 
 
@@ -1224,7 +1050,7 @@ collects all the institution"s outputs, rather than having
 
 
                                                                                                                                                             23
-** TODO 3. The importance of Open Access
+** TODO Section 3. The importance of Open Access
 
 
 
@@ -1238,7 +1064,7 @@ collects all the institution"s outputs, rather than having
                                            on the patterns and trends with respect to
                                                                                                                          developed world will increase. Library budgets are under
                                            the generation of, and access to, scientific
-                                                                                                                         pressure, Big Deals (purchase of "bundles" of a publisher"s
+                                                                                                                         pressure, Big Deals (purchase of "bundles" of a publisher's
                                            information 50.
                                                                                                                          offerings on 2-, 3- or 5-year deals) are being cancelled53
                                                                                                                          and society-published journals are feeling the chill wind
@@ -1267,8 +1093,8 @@ collects all the institution"s outputs, rather than having
                                            (inter-library loan) or PPV (pay-per-view) systems.                           Nearly a decade later in 2008, when improvement was
                                                                                                                          still sought, the UK National Commission for UNESCO
                                            Inter-library loan expenditure on journal articles is another
-                                           indicator of lack of access. The UK"s "Elite 5" universities,
-                                                                                                                         52 e.g. The University of Salford"s new repository containing some 1500 full-
+                                           indicator of lack of access. The UK's "Elite 5" universities,
+                                                                                                                         52 e.g. The University of Salford's new repository containing some 1500 full-
                                            those with libraries expected to be the best-resourced                           text research papers, experiences 25,000 downloads of these each month;
                                                                                                                             the School of Electronics & Computer Science, University of Southampton,
                                            in the country, show inter-library loan costs for journal                        UK, which sees 30,000 downloads a months of the circa 6,000 full-text
@@ -1302,7 +1128,7 @@ access to and dissemination of research publications in                         
 that region56 that indicates that improvement is still far                      what is known as "libre" Open Access. "Libre" Open Access
 from being realised.                                                            does not yet constitute the bulk of the Open Access
                                                                                 literature. In institutional repositories the majority of
-Publisher-mediated initiatives such as the WHO"s HINARI57,
+Publisher-mediated initiatives such as the WHO's HINARI57,
                                                                                 articles are of the "gratis" type, though a small proportion
 OARE58 and AGORA59 provide free access to journals
                                                                                 carry an appropriate (usually Creative Commons) licence
@@ -1366,7 +1192,7 @@ of this topic in section 4.3.2.
 58 Online Access to research in the Environment: http://www.oaresciences.
    org/en//
 59 Access to Global Online Research in Agriculture:
-   http://www.aginternetwork.org/en/                                            61 See Robert Kiley"s summary of this in early 2011: http://ukpmc.blogspot.
+   http://www.aginternetwork.org/en/                                            61 See Robert Kiley's summary of this in early 2011: http://ukpmc.blogspot.
 60 http://www.bmj.com/content/342/bmj.d196.full                                    com/2011/04/increasing-amount-of-content-in-ukpmc.html
 
 
@@ -1514,13 +1340,13 @@ be only partly achieved if research information cannot be
 65 Where experimental scientists publish their laboratory notebooks
    containing methodologies and results openly on the Web. For example, see
    the UsefulChem site: http://usefulchem.wikispaces.com/All+Reactions and
-   Cameron"s LaBLog: http://biolab.isis.rl.ac.uk/camerons_labblog
+   Cameron's LaBLog: http://biolab.isis.rl.ac.uk/camerons_labblog
 66 For example, the OER Commons: http://www.oercommons.org/                     67 Definition from the Open Knowledge Foundation: http://okfn.org/
 
 
 
                                                                                                                                                        27
-** TODO 4. The benefits of Open Access
+** TODO Section 4. The benefits of Open Access
 
 
 
@@ -1600,13 +1426,13 @@ economic benefit to developing countries as they attempt to                     
 build their own knowledge societies71.
                                                                                          First, it is known that these people use the literature where
                                                                                          it is openly available to them. For example, the usage
-                                                                                         data for PubMed Central (the NIH"s large collection of
+                                                                                         data for PubMed Central (the NIH's large collection of
 4.3 Impact of research                                                                   biomedical literature) show that of the 420,000 unique
                                                                                          users per day of the 2 million items in that database, 25%
                                                                                          are from universities, 17% from companies, 40% from
           4.3.1           Academic impact                                                "citizens" and the rest from "Government and others".
 
-                                                                                         Second, the European Union"s Community Innovation
+                                                                                         Second, the European Union's Community Innovation
 From visibility derives usage, and from usage derives impact.
                                                                                          Surveys examine innovative businesses at regular intervals:
 A considerable body of evidence is accumulating that
@@ -1646,7 +1472,7 @@ them.                                                                           
    developed and developing world. For full reference see Guedon (2008) in
                                                                                             + Open Access increases the visibility, usage and impact of research
    the reference list
-71 As recognised by Dr Blade Nzimande, South Africa"s Minister for Higher                   + Open Access allows the professional, practitioner and business
+71 As recognised by Dr Blade Nzimande, South Africa's Minister for Higher                   + Open Access allows the professional, practitioner and business
    Education, in a speech to the 2009 World Conference on Higher Education, in
    which he drew a distinction between the knowledge societies of the developed
                                                                                               communities, and the interested public, to benefit from research
@@ -1663,7 +1489,7 @@ them.                                                                           
 
                                                                                                                                                                        29
 
-** TODO 5. Business models
+** TODO Section 5. Business models
 
 
 
@@ -1709,7 +1535,7 @@ them.                                                                           
                              Towards the end of the 20th century, a new model was
                              offered by larger publishers with sizeable journal lists, the                       + Institutional model: the operation is supported by the
                              so-called Big Deal. Under this model, libraries purchased                             institution
-                             access to all the journals in a publisher"s list -- a bundled
+                             access to all the journals in a publisher's list -- a bundled
                                                                                                                  + Community model: the operation is supported by the
                              deal -- for 2-, 3- or 5-year periods. Libraries were thus able
                                                                                                                    community by cash donations or in-kind support
@@ -1722,7 +1548,7 @@ them.                                                                           
 
                              75   In the 1970s a typical academic book would expect sales of around 1500
                                   copies; now typical print runs are between 200 and 500 copies.
-                             76 This has been dubbed the "serials crisis". See a full account in Young (2009),   77 Described in more detail in A DRIVER"s Guide to Institutional Repositories
+                             76 This has been dubbed the "serials crisis". See a full account in Young (2009),   77 Described in more detail in A DRIVER's Guide to Institutional Repositories
                                 listed in the bibliography.                                                         (2007). See full reference under Swan (2007) in the bibliography.
 
 
@@ -1794,7 +1620,7 @@ can be summarised as a set of purposes:
   including providing access to theses and dissertations           www.inasp.info/
   and providing a location for the development of               83 For example, the SHERPA RoMEO service that provides information on
                                                                    publisher policies with respect to self-archiving in repositories, funded
-  e-portfolios                                                     over a long period by the UK"s Joint Information Systems Committee (JISC):
+  e-portfolios                                                     over a long period by the UK's Joint Information Systems Committee (JISC):
                                                                    http://www.sherpa.ac.uk/romeo/
 The value proposition, which is that each repository will       84 For example, the community-created Open Access Repositories news list:
                                                                    http://www.connotea.org/tag/oa.repositories?start=10
@@ -1837,14 +1663,14 @@ Section 5. Business models
                              countries). Journals that levy an APC, though, remain in                       Access journals, conference proceedings and books91.
                              the minority86.
                                                                                                                                5.2.3.4        Journals supported by
-                             Where a charge is levied, it is paid usually from the author"s                                                   advertising or sponsorship
+                             Where a charge is levied, it is paid usually from the author's                                                   advertising or sponsorship
                              research grant or from an institutional fund specifically
                              established for this purpose. Some research funders have                       Public sponsorship is seen in Latin America, where
                              explicitly committed to providing funds specifically for the                   regional and national research journals are largely
                              payment of APCs. In other cases, funders have said that                        subsidised by state funds that cover research92.
                              research grants money may be allocated to publishing
                                                                                                             If the basic business model is a community one (section
-                             costs at the grant-holder"s discretion87. A number of
+                             costs at the grant-holder's discretion87. A number of
                                                                                                             5.2.3.3), advertising can help to defray any unavoidable
                              institutions have also established a fund to pay APCs88.
                                                                                                             overheads expenses (such as communications costs).
@@ -1868,7 +1694,7 @@ Section 5. Business models
                              in this approach. A number of variants have been                                  Corporation http://www.hindawi.com/memberships/
                              introduced so far, including: schemes where institutions                       90 For example, SciELO: www.scielo.br and Bioline International: http://www.
                                                                                                                bioline.org.br/
-                                                                                                            91 For example, the Public Knowledge Project"s open source software suite:
+                                                                                                            91 For example, the Public Knowledge Project's open source software suite:
                                                                                                                Open Journal Systems http://pkp.sfu.ca/?q=ojs, Open Conference Systems
                              86 Various studies have shown that 53% (http://www.alpsp.org/ngen_public/         http://pkp.sfu.ca/?q=ocs and, in development, Open Monograph Press
                                 article.asp?id=200&did=47&aid=270&st=&oaid=-1) and 67% (http://www.            (expected launch date September 2011) http://pkp.sfu.ca/omp
@@ -2036,7 +1862,7 @@ Section 5. Business models
                                                                                                                These economic studies have all indicated that moving to
                              remaindering costs. Sales of the hard copy support the
                                                                                                                an Open Access literature, whatever the business model,
-                             cost of a book"s production and editing. In at least one
+                             cost of a book's production and editing. In at least one
                                                                                                                would be cheaper overall due to efficiency gains and
                              case a collaborative publishing platform and digital library
                                                                                                                lower operational costs in research institutions, and would
@@ -2093,14 +1919,14 @@ be savings to be made.
 
                                                                                   35
 
-** TODO 6. Copyright and licensing
+** TODO Section 6. Copyright and licensing
 
 
 
 
                                      A
                                             lthough copyright law varies by                          restrictions on the use of the work. In some cases these
-                                            jurisdiction there is generally a clause that            can even affect the author"s own use of his/her work in
+                                            jurisdiction there is generally a clause that            can even affect the author's own use of his/her work in
                                             makes special permission for "fair use" or               teaching and research.
                                      "fair dealing" of a work, to take account of the
                                                                                                      It is perfectly possible for scientists to have their work
@@ -2138,13 +1964,13 @@ be savings to be made.
                                                                                                      albeit usually with an embargo period and a further third
                                      The ownership of the intellectual property in a journal         allow self-archiving of preprints108. So the commonly-held
                                      article or book resides normally with the author except for     belief that publishers systematically thwart Open Access is
-                                     those circumstances where the author"s employer claims          largely erroneous.
+                                     those circumstances where the author's employer claims          largely erroneous.
                                      ownership under conditions of employment. This may be           Nonetheless, some publishers do not allow authors to
                                      the case where researchers are employed by Government           provide any access themselves to their own work and
                                      research establishments, for example.                           many allow self-archiving only after an embargo period,
                                      Traditionally, however, scientists submitting an article to     put in place to protect their sales revenue. In addition,
                                      a journal have transferred copyright (which is actually a
-                                     bundle of rights) to the publisher by signing the publisher"s   106 Cox, J and Cox, L (2008) Scholarly Publishing Practice; Third survey 2008:
+                                     bundle of rights) to the publisher by signing the publisher's   106 Cox, J and Cox, L (2008) Scholarly Publishing Practice; Third survey 2008:
                                      copyright transfer agreement (CTA). Included in this                Academic journal publishers" policies and practices in online publishing.
                                                                                                          Shoreham-by-Sea, ALPSP. http://www.alpsp.org/ngen_public/article.
                                      bundle of rights is the right to publish the work, and              asp?aid=24781
@@ -2170,7 +1996,7 @@ to do so. The right can be retained either by the authors
 
 
                                                                                                                                                                     Section 6. Copyright and licensing
-themselves or by an agent for the author with the author"s
+themselves or by an agent for the author with the author's
                                                                                    the Committee for Institutional Cooperation"112 and
 permission. These are two different situations and warrant
                                                                                    the same year the University of California produced its
@@ -2181,7 +2007,7 @@ brief description.
 As noted above, at the time a paper is accepted for                                on copyright are increasing as Open Access becomes
 publication authors are asked by the publisher to sign a                           mainstream and universities seek to protect future
 CTA and the whole bundle of intellectual property rights                           research outputs from falling under publisher ownership.
-usually moves into the publisher"s hands. Open Access                              The University of Texas, for example, declares in its
+usually moves into the publisher's hands. Open Access                              The University of Texas, for example, declares in its
 from that point on is by grace of the publisher. Authors                           copyright management guidelines that its researchers
 can, however, retain the rights they need to make their                            must manage copyright in their articles for the benefit of
 work openly available by negotiating with the publisher at                         "the authors, the citizens of Texas, state government, the
@@ -2191,7 +2017,7 @@ The term "negotiation" does not imply haggling: there                           
 are tools available to help the author amend the CTA so                            though many do, including some of the largest publishers,
 that the necessary rights are retained. These are "author                          though the author needs to specifically request this: it
 addenda", specific pieces of legal wording that authors                            is not offered as an option upfront by the publisher. In
-can append to a publisher"s CTA and which state the                                the case of the NIH policy (the Wellcome Trust policy is
+can append to a publisher's CTA and which state the                                the case of the NIH policy (the Wellcome Trust policy is
 rights that the author will retain after passing an article to                     similar), which stipulates that authors must retain the non-
 a publisher for publication. Addenda vary considerably,                            exclusive right to make future articles Open Access, some
 so care must be taken to choose an addendum that suits                             publishers did indeed initially announce that they would
@@ -2212,9 +2038,9 @@ intellectual property rights altogether or to use only
 publishers that "maintain reasonable business practices"111.
                                                                                    employee, as a condition of employment, predates any
                                                                                    subsequent agreement with a publisher and renders it
-109 These two organisations have between them developed the Scholar"s              void.
+109 These two organisations have between them developed the Scholar's              void.
     Copyright Addendum Engine which includes a number of addenda,
-    including SPARC"s own Author Addendum: http://sciencecommons.org/
+    including SPARC's own Author Addendum: http://sciencecommons.org/
     projects/publishing/scae/ plus a brochure about rights http://www.arl.org/     Universities, too, can use this formula, and some are doing
     sparc/author/index.shtml
                                                                                    so. Harvard University, the most prominent example, was
@@ -2270,7 +2096,7 @@ Section 6. Copyright and licensing
                                                                                                                    article or book clarifies what users may do with it and, by
                                      ensures that the necessary rights management is in
                                                                                                                    instilling confidence in the user about how they might use
-                                     place to enable Open Access, whatever the publisher"s
+                                     place to enable Open Access, whatever the publisher's
                                                                                                                    the work, encourages use.
                                      position. Of course, the publisher is perfectly at liberty to
                                      refuse to publish the work under such conditions: that is                     The Budapest Open Access Initiative, Berlin Declaration
@@ -2299,10 +2125,10 @@ Section 6. Copyright and licensing
                                      it is not clear to users what they might do with it: can they                 and so forth completely free of charge. The only condition
                                      extract a graph or table and put it in another document?                      is proper accreditation of the source. The publisher may
                                      Can they take numerical data and add them to an existing,
-                                     separate database? Can they use passages from the text to                     118 See the UK Government"s announcement of a plan of action http://www.
+                                     separate database? Can they use passages from the text to                     118 See the UK Government's announcement of a plan of action http://www.
                                                                                                                        bis.gov.uk/news/topstories/2011/Aug/reforming-ip in response to a recent
                                                                                                                        review of intellectual property carried out for the UK Government by
-                                     116 http://osc.hul.harvard.edu/policies                                           Hargreaves (2011) (full reference in bibliography) and the Government"s
+                                     116 http://osc.hul.harvard.edu/policies                                           Hargreaves (2011) (full reference in bibliography) and the Government's
                                      117 QUT Intellectual Property Policy: http://www.mopp.qut.edu.au/D/D_03_01.       response in full: http://www.bis.gov.uk/assets/biscore/innovation/docs/
                                          jsp#D_03_01.05.mdoc                                                           g/11-1199-government-response-to-hargreaves-review
 
@@ -2343,7 +2169,7 @@ each item deposited (including Creative Commons
                                                                                  a custom one are:
 licences; see below). This is not obligatory, however, so
 many items carry no licence information at all. Others                           + There is almost certainly a ready-made licence that
-may have a standard copyright statement or one with                                will suit the publisher"s requirements, saving time and
+may have a standard copyright statement or one with                                will suit the publisher's requirements, saving time and
 some modification for specific use provision (e.g. non-                            effort in drawing up a custom licence
 commercial use only), or a formal licence of some kind.
                                                                                  + Creative Commons licences are easily understood and
@@ -2382,7 +2208,7 @@ used to best effect is provided on the Creative Commons
 
                                                                                                                                                 39
                                      Summary points on copyright
-                                     + Open Access requires the copyright holder"s consent
+                                     + Open Access requires the copyright holder's consent
 
                                      + Copyright is a bundle of rights
 
@@ -2413,7 +2239,7 @@ Section 6. Copyright and licensing
 
 
 40
-** TODO 7. Strategies to promote Open Access
+** TODO Section 7. Strategies to promote Open Access
 S
      trategies to promote Open Access fall into              very existence, policies serve to promote the aims and
      three main categories -- policy-oriented,                objectives of Open Access, to engender interest and
@@ -2439,7 +2265,7 @@ effective advocacy programme.                                There is currently 
 It is, however, becoming harder to separate the              copyright law that would assist the move to openness, in
 arguments for Open Access to the literature                  Brazil, Argentina, Germany and Poland, for example. In the
 and Open Data, since the aims are so alike and               Ukraine, there is already a law121, passed in 2007 as part
-the desired outcomes in terms of scientific                  of the country"s information society developments, and
+the desired outcomes in terms of scientific                  of the country's information society developments, and
 progress practically indistinguishable. Policy               the recent National Law of Science in Spain has a section
 development is proceeding along the same lines               specifically about Open Access (see section 8.1).
 for both issues, advocacy activities are similarly
@@ -2485,7 +2311,7 @@ Section 7. Strategies to promote Open Access
 
 
 
-                                               + The Open Access policy adopted by the US"s National       scientists but for other constituencies, too (see Section 4).
+                                               + The Open Access policy adopted by the US's National       scientists but for other constituencies, too (see Section 4).
                                                  Institutes of Health (NIH) in 2007
                                                                                                            Advocacy targets are policymakers, researchers and,
                                                International-level mandatory policies                      increasingly, students who are receptive to the notion
@@ -2582,14 +2408,14 @@ collaboration and partnership with UNESCO.
 International library community organisations
                                                                 in 2008, the CIS works on issues relating to the effect
 + SPARC (Scholarly Publishing and Academic Resources            of the Internet on society, including Open Access.
-  Coalition)126: established by the Association of Research     Although based in India, the CIS"s mission has an
+  Coalition)126: established by the Association of Research     Although based in India, the CIS's mission has an
   Libraries in the US                                           emphasis on South-South dialogues and exchanges135
 
 + SPARC Europe127: The European equivalent of SPARC in        Infrastructure organisations
   the US. This, like SPARC Japan, operates a programme
                                                               + JISC (Joint Information Systems Committee), UK: The
   of activities independently of SPARC but the three
-                                                                UK"s national ICT organisation for higher education, the
+                                                                UK's national ICT organisation for higher education, the
   organisations also work collaboratively on many
                                                                 JISC sponsors a wide-ranging programme of covering
   initiatives while pursuing their own agendas
@@ -2665,7 +2491,7 @@ Section 7. Strategies to promote Open Access
 
 
 44
-** TODO 8. Policy framework for Open Access
+** TODO Section 8. Policy framework for Open Access
 P
      olicy development is of critical importance                                 on 12 May 2011145. Laws are also under development in
      to the progress of Open Access and a                                        Argentina146, Poland and Brazil at the present time.
@@ -2678,7 +2504,7 @@ is necessary even where advocacy is at its most
 effective.
                                                                                  policies) and individual departments, faculties or schools
                                                                                  in research-based institutions (31 policies). Mandatory
-                                                                                 policies covering doctoral and master"s theses have also
+                                                                                 policies covering doctoral and master's theses have also
 8.1 Development and growth of                                                    been introduced in some institutions (82 policies).
 
     policies                                                                     Figure 7 shows the growth of mandatory Open Access
@@ -2691,7 +2517,7 @@ by the School of Electronics & Computer Science at the
 University of Southampton, UK, in 2002. This required
 authors in that School to place their postprints (the
 authors" final version of their peer-reviewed articles) in
-the School"s repository. It was followed by a similar policy
+the School's repository. It was followed by a similar policy
 covering the whole institution at Queensland University of
                                                                                  Figure 7: Growth of mandatory policies on Open Access (data for
 Technology, Brisbane, in 2004 and, later in that year, at the                               years 2006 onwards shown by year-quarter)
@@ -2898,7 +2724,7 @@ Section 8. Policy framework for Open Access
 
 
 46
-to deposit an article once and for it to be copied into                             -- that is, the author"s final version of the article once peer-
+to deposit an article once and for it to be copied into                             -- that is, the author's final version of the article once peer-
 other repositories151. UKPMC is developing the means                                review has taken place and any required changes have
 to send a copy of articles deposited there as a result of                           been made. If the policy of the journal in which the article
 funder mandates to the institutional repository of the                              will be published is to allow preprint-only Open Access,
@@ -2948,7 +2774,7 @@ As well as these things, many policies cover theses
 outputs. In some case, and in particular in Latin America,
                                                                                     of embargo allowed and not simply leave it as vague
 most policies developed so far are thesis-specific.
-                                                                                    language such as "in accordance with the publisher"s
+                                                                                    language such as "in accordance with the publisher's
 Many policies specifically mention and encourage Open                               policy".
 Access to books and book sections (chapters) but do not
                                                                                     The problem with allowing embargoes, however, is that
@@ -2964,7 +2790,7 @@ that the version that must be deposited is the postprint
                                                                                     levels, the most common types of repository software
 151 For example, SWORD (Simple Web Service Offering repository deposit):
     http://swordapp.org/
-152 The conclusion of a study on the optimal technical and organisational           153 See, for example, the Centre for Global Development"s new data policy:
+152 The conclusion of a study on the optimal technical and organisational           153 See, for example, the Centre for Global Development's new data policy:
     infrastructure to deliver Open Access on a national scale (Swan et al, 2005):       http://blogs.cgdev.org/globaldevelopment/2011/08/cgds-new-data-code-
     full reference in the bibliography.                                                 transparency-policy.php
 
@@ -3002,7 +2828,7 @@ Section 8. Policy framework for Open Access
                                               record of the research outputs of the institution, not the
                                                                                                                                   the work is created by staff members in the course of their
                                               partial one that would result from a policy that relied upon
-                                                                                                                                  employment. QUT"s ownership of copyright applies to both
+                                                                                                                                  employment. QUT's ownership of copyright applies to both
                                               researchers remembering to deposit six or twelve months
                                                                                                                                   academic and professional staff.
                                               down the line from publication.
@@ -3012,16 +2838,16 @@ Section 8. Policy framework for Open Access
                                               author asking for a copy to be emailed to the would-                                party which would prevent QUT effecting such an assignment,
                                               be user. This is allowable under "fair use": the author is                          QUT assigns the right to publish scholarly works to the creator(s)
                                               providing a single copy for private study. Through this                             of that work. The assignment is subject to a perpetual,
-                                              arrangement, the article"s usage and impact can begin to                            irrevocable, worldwide, royalty-free, non-exclusive licence
+                                              arrangement, the article's usage and impact can begin to                            irrevocable, worldwide, royalty-free, non-exclusive licence
                                               grow from the moment of deposit, despite the embargo.                               in favour of QUT to allow QUT to use that work for teaching,
                                                                                                                                   research and commercialisation purposes and to reproduce and
                                                                                                                                   communicate that work online for non-commercial purposes via
-                                                       8.2.6         Gratis and libre Open Access                                 QUT"s open access digital repository.
+                                                       8.2.6         Gratis and libre Open Access                                 QUT's open access digital repository.
                                                                                                                                 + If required, QUT will sign documents to more fully record the staff
                                               Existing mandatory policies generally avoid this
-                                                                                                                                  member"s ownership of the right of publication of the copyright in
+                                                                                                                                  member's ownership of the right of publication of the copyright in
                                               distinction154. Requiring libre Open Access is considered
-                                                                                                                                  a scholarly work and QUT"s non-exclusive licence to that work.
+                                                                                                                                  a scholarly work and QUT's non-exclusive licence to that work.
                                               a step too far at present, despite its promise for science,
                                               as it would make it very difficult for authors to publish in                      + If required, a staff member will sign documents to more fully
                                               journals of choice because of publisher resistance. It is                           record the licence in favour of QUT to use scholarly works as
@@ -3054,7 +2880,7 @@ to the University a nonexclusive, irrevocable right to                          
 distribute their scholarly articles for any non-commercial                          100% of the literature, so checking the repository content
 purpose156. This right trumps any other, subsequent                                 against what is recorded by literature indexing services
 agreement with publishers.                                                          gives only an approximation of how complete the
-                                                                                    repository"s content is.
+                                                                                    repository's content is.
 
 
 
@@ -3086,7 +2912,7 @@ compromises this by deferring to publisher interests157 is a                    
 weak one.                                                                           has been some success. Both the Wellcome Trust and the
                                                                                     NIH, for example, have sent out letters to grant-holders
 In most cases of policy development at the moment, the                              reminding them of their obligations under the policy.
-policy depends on publisher permission because rights                               Wellcome"s letter asks grant-holders why they have not
+policy depends on publisher permission because rights                               Wellcome's letter asks grant-holders why they have not
 are transferred to the publisher as a matter of routine. Best                       complied with the policy158. These funders also wrote to
 practice is for sufficient rights to be retained, as a matter of                    the grant-holders" institutions, thereby reminding them of
 routine, so that the provision of Open Access is not at all                         their responsibilities and interests in this process.
@@ -3106,7 +2932,7 @@ usually necessary to reach acceptable compliance levels.                        
 
 
 156 http://osc.hul.harvard.edu/policies                                             158 See the Wellcome Trust Open Access compliance audit 2009: http://
-157 For example, the UK"s Economic & Social Research Council"s policy states            www.wellcome.ac.uk/About-us/Publications/Grantholders-newsletter/
+157 For example, the UK's Economic & Social Research Council's policy states            www.wellcome.ac.uk/About-us/Publications/Grantholders-newsletter/
     that it requires its grant-holders to make their work Open Access "where this       WTX052748.htm
     is permitted by publishers" licensing or copyright arrangements".               159 http://publicaccess.nih.gov/citation_methods.htm
 
@@ -3158,7 +2984,7 @@ Section 8. Policy framework for Open Access
                                               programme. Precise details vary from institution to
                                               institution but ranges from publicising repository usage
                                               and impact statistics to awarding prizes. Emphasis is
-                                              placed on how opening up the institution"s outputs
+                                              placed on how opening up the institution's outputs
                                               enhances its reputation and that of the individual
 
 
@@ -3175,7 +3001,7 @@ Section 8. Policy framework for Open Access
                                                   funds". Quoted in an article in Science, 18 January 2008, 266 DOI:10.1126/
                                                   science.319.5861.266 [this article is toll-access].
                                               162 This has worked well in practice at the University of Liège in Belgium, where   163 For a range of effective advocacy activities that have been proven in use,
-                                                  the rector"s policy makes clear that when applications are made to him for          see Enabling Open Scholarship"s briefing paper for librarians: http://www.
+                                                  the rector's policy makes clear that when applications are made to him for          see Enabling Open Scholarship's briefing paper for librarians: http://www.
                                                   promotion or tenure he will use the repository to see the publication record        openscholarship.org/jcms/c_7152/making-the-case-for-open-access-
                                                   of the applicant.                                                                   guide-for-librarians
 
@@ -3301,7 +3127,7 @@ Section 8. Policy framework for Open Access
 
 
 52
-** TODO 9. Summary policy guidelines
+** TODO Section 9. Summary policy guidelines
 9.1 The context                                                 9.2 Guidelines for governments and
                                                                     other research funders
 The case for Open Access policy is built around the
@@ -3397,7 +3223,7 @@ Section 9. Summary policy guidelines
                                                                                                       it is permissible to use these funds to pay APCs for "hybrid"
                                        but only encourage "gold", since to do otherwise would
                                                                                                       journals (because most hybrid journals are published
-                                       remove the scientist"s choice of journals in which to
+                                       remove the scientist's choice of journals in which to
                                                                                                       under "double dipping" conditions, many funders do not
                                        publish. It should point to the Directory of Open Access
                                                                                                       permit this).
@@ -3424,7 +3250,7 @@ Section 9. Summary policy guidelines
                                                                                                       embargo periods (6 months). In this case, it will be usually
                                        It is best for the growth of Open Access, however, if
                                                                                                       necessary for the funder to require that some rights are
-                                       deposit is specified as the local repository in the author"s
+                                       deposit is specified as the local repository in the author's
                                                                                                       retained by itself or the author so that Open Access can
 
 
@@ -3464,7 +3290,7 @@ Funders may decide to accommodate a short embargo             should therefore r
 period after publication before an article can be made        reason for the policy and the benefits that scientists and
 Open Access. The policy should clearly state the length       the public will derive.
 of the permitted embargo. It should also make clear that
-where the publisher"s policy requires a longer embargo,              9.3.2       Scope of the policy: target
+where the publisher's policy requires a longer embargo,              9.3.2       Scope of the policy: target
 authors should publish elsewhere.                                                content
 
        9.2.10 Compliance and sanctions                        The accepted definitions of Open Access make plain
@@ -3528,7 +3354,7 @@ Section 9. Summary policy guidelines
                                                                                                      accommodate an embargo, this should be made clear.
                                        but only encourage "gold", since to do otherwise would
                                                                                                      In this case, it will be usually necessary for the institution
-                                       remove the scientist"s choice of journals in which to
+                                       remove the scientist's choice of journals in which to
                                                                                                      to require that some rights are retained by itself or the
                                        publish. It should point to the Directory of Open Access
                                                                                                      author so that Open Access can be effected immediately
@@ -3571,7 +3397,7 @@ Institutions may decide to accommodate a short embargo
 period after publication before an article can be made
 Open Access. The policy should clearly state the length
 of the permitted embargo. It should also make clear that
-where the publisher"s policy requires a longer embargo,
+where the publisher's policy requires a longer embargo,
 
 
 
@@ -3680,7 +3506,7 @@ Houghton, J., Swan, A. and Brown, S. 2011. Access to           Swan, A. 2010. Th
   Technical Report, School of Electronics & Computer              ac.uk/18516/
   Science, University of Southampton. http://eprints.ecs.      Swan, A. 2007. The business of digital repositories. In
   soton.ac.uk/22603/                                              Weenink, K., Waaijers, L. and van Godtsenhoven, K.
-International Social Science Council. 2010. World Social          (eds.), A DRIVER"s Guide to European Repositories.
+International Social Science Council. 2010. World Social          (eds.), A DRIVER's Guide to European Repositories.
     Science Report 2010. http://www.unesco.org/new/en/            Amsterdam, Amsterdam University Press. http://eprints.
     social-and-human-sciences/resources/reports/world-            ecs.soton.ac.uk/14455/
     social-science-report/                                     Swan, A., Needham, P., Probets, S., Muir, A., Oppenheim,
@@ -3775,7 +3601,7 @@ Rodriguez-Esteban, R. 2009. Biomedical text mining
 
 60
 result of peer review, but is still in the format created by
-the author (i.e. not the publisher"s formatted form).
+the author (i.e. not the publisher's formatted form).
 
 Preprint: A journal article (or book chapter or book) that
 has not yet been peer-reviewed.
@@ -3802,7 +3628,7 @@ create new knowledge.
 
      A1.1 Funder policies                                                 + will provide grantholders with additional funding, through
                                                                             their institutions, to cover open access charges, where
-     Some examples of funder policies follow here.                          appropriate, in order to meet the Trust"s requirements
+     Some examples of funder policies follow here.                          appropriate, in order to meet the Trust's requirements
 
               A1.1.1       The Wellcome Trust164                          + encourages - and where it pays an open access fee,
                                                                             requires - authors and publishers to license research
@@ -3813,7 +3639,7 @@ create new knowledge.
      Position statement in support of open and
                                                                           + affirms the principle that it is the intrinsic merit of the
      unrestricted access to published research
-                                                                            work, and not the title of the journal in which an author"s
+                                                                            work, and not the title of the journal in which an author's
      The mission of the Wellcome Trust is to support the brightest          work is published, that should be considered in making
      minds in biomedical research and the medical humanities.               funding decisions.
 
@@ -3831,7 +3657,7 @@ create new knowledge.
 
      The Wellcome Trust therefore supports unrestricted access to         The Director of the National Institutes of Health shall require
      the published output of research as a fundamental part of            that all investigators funded by the NIH submit or have
-     its charitable mission and a public benefit to be encouraged         submitted for them to the National Library of Medicine"s
+     its charitable mission and a public benefit to be encouraged         submitted for them to the National Library of Medicine's
      wherever possible.                                                   PubMed Central an electronic version of their final, peer-
                                                                           reviewed manuscripts upon acceptance for publication, to
      Specifically, the Wellcome Trust:
@@ -3845,7 +3671,7 @@ create new knowledge.
        funding, to be made available through PubMed Central                  reviewed articles that arise, in whole or in part, from
        (PMC) and UK PubMed Central (UKPMC) as soon as                        direct costs funded by NIH, or from NIH staff, that are
        possible and in any event within six months of the journal            accepted for publication on or after April 7, 2008.
-       publisher"s official date of final publication
+       publisher's official date of final publication
                                                                           2. Institutions and investigators are responsible for
                                                                              ensuring that any publishing or copyright agreements
 
@@ -3906,7 +3732,7 @@ PAPERS                                                            2. The reposit
 The Irish Research Council for Science, Engineering &
                                                                      granted to replicate to other repositories.
 Technology (IRCSET) has established and will promote
-the following policy relating to the placement of research        3. Authors should deposit post-prints (or publisher"s version
+the following policy relating to the placement of research        3. Authors should deposit post-prints (or publisher's version
 publications in Open Access Repositories.                            if permitted) plus metadata of articles accepted for
                                                                      publication in peer-reviewed journals and international
 Where a research publication arises in whole or in part
@@ -3957,7 +3783,7 @@ effect from 1st May 2008.                                            immediately
      using an internet connection. The potential readership of
                                                                               references, 70% of them with the full text. Thanks to
      Open Access material is far greater than that for publications
-                                                                              their patience, ORBi"s fine tuning could be achieved.
+                                                                              their patience, ORBi's fine tuning could be achieved.
      where the full-text is restricted to subscribers only. Open Access
      repositories are also designed to expose the details of their        From today onward, it is incumbent upon each ULg
      contents to specialised web search engines.                          member to feed ORBi with his/her own references. In this
@@ -3971,8 +3797,8 @@ effect from 1st May 2008.                                            immediately
                                                                             periodicals since 2002.
      [By the rector, Professor Bernard Rentier]
                                                                           Access to these full texts will only be granted with the
-     The policy is mandatory: the Immediate-Deposit/Optional-             author"s consent and according to the rules applicable to
-     Access (ID/OA) mandate168                                            author"s rights and copyrights. The University is indeed
+     The policy is mandatory: the Immediate-Deposit/Optional-             author's consent and according to the rules applicable to
+     Access (ID/OA) mandate168                                            author's rights and copyrights. The University is indeed
                                                                           very keen on respecting the rights of all stakeholders.
      1. All publications must be deposited.
                                                                           [ii] For future publications, deposit in ORBi will be
@@ -4000,8 +3826,8 @@ effect from 1st May 2008.                                            immediately
 Information seminars have been planned during the
 next months to allow every one of you to make the tool           Access to the full text of articles will be subject to
 your own thing. Help is also accessible online, such as the      publisher permissions. Access will not be provided if
-simplified user"s guide (also available as a leaflet) and the    permission is in doubt or not available. In such cases,
-Depositor"s Guide.                                               an abstract will be made available for external internet
+simplified user's guide (also available as a leaflet) and the    permission is in doubt or not available. In such cases,
+Depositor's Guide.                                               an abstract will be made available for external internet
                                                                  searches to achieve maximum research visibility. Access
 The development of ORBi offers multiple advantages not
                                                                  to the full text will be suppressed for a period if such an
@@ -4012,7 +3838,7 @@ teams, such as:
 -- a considerable speeding up of the dissemination and
                                                                  Adhering to archiving policies of publishers and research
   visibility of the scientific works (as soon as publication
-                                                                 funders, and managing the system"s embargo facility to
+                                                                 funders, and managing the system's embargo facility to
   approval is granted;
                                                                  delay public visibility to meet their requirements.
 -- a considerable increase in visibility for the published
@@ -4049,12 +3875,12 @@ University, supported by public funding, staff and students
 are required to:
                                                                  Education, Duke University, and others. I have added some
 -- submit peer-reviewed postprints + the metadata of              annotations explaining why the wording is chosen as it is.
-  their articles to UPSpace, the University"s institutional
+  their articles to UPSpace, the University's institutional
                                                                  Further information explaining the motivation for and
   repository, AND -- give the University permission
                                                                  implementation of the Harvard open-access policies is
   to make the content freely available and to take
-                                                                 available at the web site of Harvard"s Office for Scholarly
+                                                                 available at the web site of Harvard's Office for Scholarly
   necessary steps to preserve files in perpetuity.
                                                                  Communication (http://osc.hul.harvard.edu/). Inquiries
   Postprints are to be submitted immediately upon
@@ -4089,7 +3915,7 @@ Postprints of these articles are not excluded from the UP
        scholarly articles and to exercise
                                                                    scholarship as widely as possible: The intention of the
      5 the copyright in those articles. More specifically, each    policy is to promote the broadest possible access to the
-       Faculty member grants to                                    university"s research. The preamble emphasizes that the
+       Faculty member grants to                                    university's research. The preamble emphasizes that the
                                                                    issue is access, not finances.
      6 <university name> a nonexclusive, irrevocable,
        worldwide license to exercise any                           line 3, grants: The wording here is crucial. The policy
@@ -4114,7 +3940,7 @@ Postprints of these articles are not excluded from the UP
      12 entered into an incompatible licensing or assignment       falling outside of the scope are a wide variety of other
         agreement before the adop-                                 scholarly writings such as books and commissioned
                                                                    articles, as well as popular writings, fiction and poetry,
-     13 tion of this policy. The Provost or Provost"s designate
+     13 tion of this policy. The Provost or Provost's designate
                                                                    and pedagogical materials (lecture notes, lecture videos,
         will waive application of the
                                                                    case studies). Often, faculty express concern that the term
@@ -4131,13 +3957,13 @@ Postprints of these articles are not excluded from the UP
                                                                    line 5, grants: Again, not "shall grant".
         publication at no charge to the
                                                                    line 6, exercise any and all rights under copyright: The
-     18 appropriate representative of the Provost"s Office in an
+     18 appropriate representative of the Provost's Office in an
                                                                    license is quite broad, for two reasons. First, the breadth
         appropriate format (such
                                                                    allows flexibility in using the articles. Since new uses of
-     19 as PDF) specified by the Provost"s Office.                 scholarly articles are always being invented -- text mining
+     19 as PDF) specified by the Provost's Office.                 scholarly articles are always being invented -- text mining
                                                                    uses being a prime example -- retaining a broad set of
-     20 The Provost"s Office may make the article available to     rights maximizes the flexibility in using the materials.
+     20 The Provost's Office may make the article available to     rights maximizes the flexibility in using the materials.
         the public in an open-                                     Second, a broad set of rights allows the university to grant
      21 access repository. The Office of the Provost will be       back to an author these rights providing an alternative
         responsible for interpreting this                          method for acquiring them rather than requesting them
@@ -4221,7 +4047,7 @@ arrangements are overseen by a Provost. For a school-wide
      line 15, direction: This term replaced an earlier term
                                                                        assignment agreement before the adoption of this policy.
      "request" so as to make clear that the request cannot be
-     denied.                                                           The Vice Chancellor or the Vice Chancellor"s designate
+     denied.                                                           The Vice Chancellor or the Vice Chancellor's designate
                                                                        will waive application of the policy to a particular article
      line 16, author "s final version: The author "s final version --
                                                                        upon written request by a Faculty member explaining
@@ -4230,13 +4056,13 @@ arrangements are overseen by a Provost. For a school-wide
      and the revisions responsive thereto and any further
                                                                        copy of the final version of the article at no charge to
      copyediting in which the author has participated -- is the
-                                                                       the appropriate representative of the Vice Chancellor"s
+                                                                       the appropriate representative of the Vice Chancellor's
      appropriate version to request for distribution. Authors
                                                                        Office in an appropriate format (such as PDF) specified
      may legitimately not want to provide versions earlier than
-                                                                       by the Vice Chancellor"s Office no later than the date of
+                                                                       by the Vice Chancellor's Office no later than the date of
      the final version, and insofar as there are additional rights
-                                                                       its publication. The Vice Chancellor"s Office may make the
+                                                                       its publication. The Vice Chancellor's Office may make the
      in the publisher "s definitive version beyond the author "s
                                                                        article available to the public in an open-access repository.
      final version, that version would not fall within the license
@@ -4266,7 +4092,7 @@ arrangements are overseen by a Provost. For a school-wide
 
      Strathmore University is committed to disseminating the           The following materials must be included in QUT ePrints
      fruits of its research and scholarship as widely as possible.     + refereed research articles and conference papers
-     In keeping with that commitment, the University adopts              (author"s accepted manuscript) at the post-peer review
+     In keeping with that commitment, the University adopts              (author's accepted manuscript) at the post-peer review
      the following policy: Each University member grants to              stage
      the Vice Chancellor and Academic council of Strathmore
      University permission to make available his or her scholarly      + digital theses submitted by research higher degree
@@ -4304,7 +4130,7 @@ will be organised in QUT ePrints according to the same                          
 categories used for the reporting of research to DIISR (see
 Office of Research website ).                                                    2.2 Open access to research and external compliance
 
-QUT"s preference is to make materials available at the time                  It is a requirement to make the post-prints of journal and
+QUT's preference is to make materials available at the time                  It is a requirement to make the post-prints of journal and
 of publication. Requests for embargos of more than twelve                    conference articles open access where this is permitted
 months must be referred to the Deputy Vice-Chancellor                        by the publisher. In all cases repository staff will work with
 (Technology, Information and Learning Support).                              authors and depositors to ensure that the requirements of
@@ -4337,7 +4163,7 @@ research repository.                                                         Pol
 
 Staff are required to deposit the final, refereed, corrected,                PolyU academic and researchers are required to deposit
 accepted drafts (post-prints) of all peer-reviewed journal                   electronic copies of their peer-reviewed journal articles
-articles and peer-reviewed conference articles.                              and conference proceedings (author"s final accepted
+articles and peer-reviewed conference articles.                              and conference proceedings (author's final accepted
                                                                              manuscript) in the PolyU Institutional Repository for open
 Staff are encouraged to deposit, subject to any publishers"                  access, as of the date of paper publication. Full text of
 restrictions, the following forms of research output:                        other research outputs should also be deposited where
@@ -4390,7 +4216,7 @@ entailing provision in the policy for an embargo                in their area, n
 period. The policy requires the metadata to be visible          subscriptions their institution can afford.
 from the time of deposit so that would-be users can
 discover the existence of the article and request a copy        What are the benefits to [institution/funder/nation]?
-from the author.                                                First, [name"s] research will be more accessible to global
+from the author.                                                First, [name's] research will be more accessible to global
 [Institution/funder/government] expects the authors of          researchers, hence better known and more widely used
 papers reporting publicly-funded research to maximise           and cited. The prestige of high-profile [name] researchers
 the accessibility, usage and applications of their findings.    will increase; even lesser-known researchers will gain
@@ -4408,8 +4234,8 @@ To this end:                                                    more exposure an
     digital repository immediately upon acceptance for          What should be deposited when I have a paper
     publication.                                                ready for publication?
 
-(2) requires that the metadata (title, authors, institutional   The final manuscript of the author"s research paper
-    affiliation, name of journal that has accepted the          should be deposited. This is the author"s own final
+(2) requires that the metadata (title, authors, institutional   The final manuscript of the author's research paper
+    affiliation, name of journal that has accepted the          should be deposited. This is the author's own final
     paper) be exposed from the time of deposition of the        draft, as accepted for journal publication, including all
     research paper                                              modifications resulting from the peer-review process.
                                                                 In addition, depositing pre-peer-review preprint drafts
@@ -4425,7 +4251,7 @@ To this end:                                                    more exposure an
                                                                     The [institution/funder/other entity] or [institution/funder/
      When should papers be deposited?                               other entity] "s designate will waive application of the
                                                                     licence for a particular article or delay access for a specified
-     An electronic version of the author"s final manuscript
+     An electronic version of the author's final manuscript
                                                                     period of time upon express direction by an author. Each
      resulting from research supported, in whole or in part,
                                                                     author will provide an electronic copy of the author "s
@@ -4455,7 +4281,7 @@ To this end:                                                    more exposure an
 
      A2.2 Type 2: rights-retention policies                         What are the benefits to [institution/funder/nation]?
 
-                                                                    First, [name"s] research will be more accessible to global
+                                                                    First, [name's] research will be more accessible to global
             A2.2.1     Type 2(a): Voluntary provision of            researchers, hence better known and more widely used
                        rights to the institution / funder/          and cited. The prestige of high-profile [name] researchers
                        government by the author, with               will increase; even lesser-known researchers will gain
@@ -4470,8 +4296,8 @@ To this end:                                                    more exposure an
      the accessibility, usage and applications of their findings.   What should be provided when I have a paper ready
      To this end:                                                   for publication?
 
-     Each author grants to [institution/funder/other entity]        The final manuscript of the author"s research paper
-     permission to make available his or her scholarly articles     should be provided. This is the author"s own final
+     Each author grants to [institution/funder/other entity]        The final manuscript of the author's research paper
+     permission to make available his or her scholarly articles     should be provided. This is the author's own final
      and to exercise the copyright in those articles. More          draft, as accepted for journal publication, including all
      specifically, each author grants to [institution/funder/       modifications resulting from the peer-review process.
      government] a nonexclusive, irrevocable, worldwide             In addition, depositing pre-peer-review preprint drafts
@@ -4487,7 +4313,7 @@ is welcome, but not a requirement.                                in the course 
 
 When should papers be provided?                                   [institution/funder/government] assigns the right to
                                                                   publish scholarly works to the creator(s) of that work.
-An electronic version of the author"s final manuscript
+An electronic version of the author's final manuscript
                                                                   The assignment is subject to a perpetual, irrevocable,
 resulting from research supported, in whole or in part,
                                                                   worldwide, royalty-free, non-exclusive licence in favour
@@ -4497,7 +4323,7 @@ immediately upon acceptance for publication.
                                                                   work for teaching and research [and commercialisation]
 Will authors still be able to publish in a journal of             purposes and to reproduce and communicate that work
 their choice?                                                     online for non-commercial purposes via [institution/funder/
-                                                                  government]"s open access digital repository.
+                                                                  government]'s open access digital repository.
 Authors will of course still decide in which journal they
 choose to publish their research papers. They will merely         The version of the scholarly work that [institution/funder/
 have to ensure that a copy of the final, peer-reviewed            government] can make available via the digital repository
@@ -4515,11 +4341,11 @@ Faculty member entered into an incompatible licensing or          the creator wi
 assignment agreement before the adoption of this policy.          non-exclusive licence referred to here.
 
 Why do we need non-exclusive rights to your article?              If required, [institution/funder/government] will sign
-                                                                  documents to more fully record the author"s ownership
+                                                                  documents to more fully record the author's ownership
 The rights to your article rest with you until you assign
                                                                   of the right of publication of the copyright in a scholarly
 any or all of them to another party. Under the terms of the
-                                                                  work and [institution/funder/other entity]"s non-exclusive
+                                                                  work and [institution/funder/other entity]'s non-exclusive
 policy you vest in this institution those rights necessary
                                                                   licence to that work.
 to make the article available on your behalf through the
@@ -4546,7 +4372,7 @@ This type of policy applies where the policymaker                 subscriptions 
 already has the rights to the work produced or is
                                                                   What are the benefits to [institution/funder/nation]?
 prepared to make that the case.
-                                                                  First, [name"s] research will be more accessible to global
+                                                                  First, [name's] research will be more accessible to global
 [Institution/funder/government] expects the authors of
                                                                   researchers, hence better known and more widely used
 papers reporting publicly-funded research to maximise
@@ -4567,8 +4393,8 @@ the accessibility, usage and applications of their findings.
      What should be provided when I have a paper ready
      for publication?
 
-     The final manuscript of the author"s research paper
-     should be provided. This is the author"s own final
+     The final manuscript of the author's research paper
+     should be provided. This is the author's own final
      draft, as accepted for journal publication, including all
      modifications resulting from the peer-review process.
      In addition, depositing pre-peer-review preprint drafts
@@ -4580,7 +4406,7 @@ the accessibility, usage and applications of their findings.
 
      When should papers be provided?
 
-     An electronic version of the author"s final manuscript
+     An electronic version of the author's final manuscript
      resulting from research supported, in whole or in part,
      by public [or funder name] funding must be deposited
      immediately upon acceptance for publication.
@@ -4615,3 +4441,9 @@ the accessibility, usage and applications of their findings.
 
 
 [...]
+
+* Footnotes
+
+[fn:1] http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/free-and-open-source-software-foss/cdsisis/
+[fn:2] http://www.greenstone.org/
+[fn:3] http://www.itu.int/wsis/docs/geneva/official/dop.html
