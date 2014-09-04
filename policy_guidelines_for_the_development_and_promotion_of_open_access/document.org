@@ -1,4 +1,4 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [18%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [25%]
 by Alma Swan
 
 :                             UNESCO
@@ -232,505 +232,230 @@ The issues that an Open Access policy should address are as follows:
 
   + "Gold" Open Access: where a funder or institution has a specific commitment with respect to paying "gold" article-processing fees, this should be stated in the policy.
 
-** TODO Section 1. The Development of Open Access to Scientific Information and Research
+** DONE Section 1. The Development of Open Access to Scientific Information and Research [100%]
+*** DONE 1.1 The development of scientific communication
 
-1.1 The development of scientific                                  insignificant, but represents a major shift: now, scientists
-                                                                   were permitting access to their own files on remote
-    communication
-                                                                   computers and accessing those of other scientists in the
-                                                                   same way. The age of digital scientific communication
-The primary purposes of a formal publishing system
-                                                                   had begun, though it remained largely the domain of
-through journals or books are so that scholars may
-                                                                   computer scientists until the advent of the World Wide
-establish their right to the intellectual property contained
-                                                                   Web in the late 1980s5. The development of graphical Web
-in the articles, so that authors can lay claim to be the
-                                                                   browsers subsequently enabled anyone with a computer
-first to conduct the work and present its findings, and to
-                                                                   and online access to communicate with anyone else with
-operate a quality control system through peer review that
-                                                                   a computer and online access.
-endeavours to guarantee that the work published is bona
-fide, original and properly conducted.                             Now, with the only limiting factors being the technological
-                                                                   limits of bandwidth and computer power, scientists can
-The beginning of the modern era of scientific
-                                                                   take advantage of instant communication. They are doing
-communication can be traced back to the publication in
-                                                                   so in increasingly diverse ways through informal, self-
-1665 of the first issues of both the Journal des Sçavans in
-                                                                   or community-regulated networks utilising tools such
-Paris and the Philosophical Transactions of the Royal Society
-                                                                   as blogs, wikis, discussion groups, podcasts, webcasts,
-(of London). The number of scholarly journals grew very
-                                                                   virtual conferences and instant messaging systems. These
-slowly at first, with 100 extant titles in the mid 1800s and
-                                                                   developments are changing both the character of science
-approximately linear growth until the latter half of the
-                                                                   communication in many ways and scientists" expectations
-20th century when numbers grew very rapidly, reflecting
-                                                                   of a science communication system. We can expect
-massive investment in science that increased project
-                                                                   continuing evolution in this area.
-funding and researcher numbers.
-                                                                   At the same time, the formal components of the scientific
-The number of peer-reviewed journals currently in
-                                                                   publishing system have moved to the Web and while
-publication is generally agreed to be around 25,0004: there
-                                                                   some scientific journals are still published in print to
-are probably many more local and regional peer-reviewed
-                                                                   accompany the electronic version, new journals are
-publications in addition to this, as well as publications that
-                                                                   mostly born electronic. At the moment, at least, journals
-do not undertake formal peer review.
-                                                                   still represent the formal record of science. To improve
-Over three centuries there was little change in the system         their functionality, over the past decade or so an array of
-apart from in intensity of activity, but in the mid-20th           new features have been added to such journals, such as
-century computing developments offered opportunities               extensive hyper-linking within the text to other articles,
-for new ways of communicating about research. By the               graphics and datasets. In addition, some of the early
-1970s, scientists at Bell Laboratories were posting their          worries of librarians (and some scientists) about the long-
-findings on electronic archives that offered file transfer         term preservation of electronic journals have been at least
-protocol (ftp) access for other scientists. This may seem          partly allayed by arrangements between (some) publishers
+The primary purposes of a formal publishing system through journals or books are so that scholars may establish their right to the intellectual property contained in the articles, so that authors can lay claim to be the first to conduct the work and present its findings, and to operate a quality control system through peer review that endeavours to guarantee that the work published is bona fide, original and properly conducted.
 
-4   This is the number indexed by Ulrich's Periodicals Directory   5   Developed by Berners-Lee (1989) see full reference in bibliography.
+The beginning of the modern era of scientific communication can be traced back to the publication in 1665 of the first issues of both the Journal des Sçavans in Paris and the Philosophical Transactions of the Royal Society (of London). The number of scholarly journals grew very slowly at first, with 100 extant titles in the mid 1800s and approximately linear growth until the latter half of the 20th century when numbers grew very rapidly, reflecting massive investment in science that increased project funding and researcher numbers.
 
+The number of peer-reviewed journals currently in publication is generally agreed to be around 25,000[fn:4]: there are probably many more local and regional peer-reviewed publications in addition to this, as well as publications that do not undertake formal peer review.
 
+Over three centuries there was little change in the system apart from in intensity of activity, but in the mid-20th century computing developments offered opportunities for new ways of communicating about research. By the 1970s, scientists at Bell Laboratories were posting their findings on electronic archives that offered file transfer protocol (ftp) access for other scientists. This may seem insignificant, but represents a major shift: now, scientists were permitting access to their own files on remote computers and accessing those of other scientists in the same way. The age of digital scientific communication had begun, though it remained largely the domain of computer scientists until the advent of the World Wide Web in the late 1980s[fn:5]. The development of graphical Web browsers subsequently enabled anyone with a computer and online access to communicate with anyone else with a computer and online access.
 
-                                                                                                                                             13
-                                                                                   and national libraries and by international developments                          While many disciplines did not follow suit, there was
-                                                                                   such as CLOCKSS6.                                                                 subsequent development of Open Access collections
-                                                                                                                                                                     in biomedicine in the form of PubMed Central10 and in
-                                                                                   Alongside the move to the Web of journals there has been
-                                                                                                                                                                     economics (RePEC11 and similar services). These services
-                                                                                   the development of specialised Web-based search-and-
-                                                                                                                                                                     are all excellent examples of opening up the literature
-                                                                                   discovery tools to enable scientists to identify and locate
-                                                                                                                                                                     in specific disciplines, but there remains a great deal of
-                                                                                   articles of relevance to their work. Some of these tools
-                                                                                                                                                                     science not covered by them and so much work to be
-SECTION 1. The Development of Open Access to Scientific Information and Research
+Now, with the only limiting factors being the technological limits of bandwidth and computer power, scientists can take advantage of instant communication. They are doing so in increasingly diverse ways through informal, self-or community-regulated networks utilising tools such as blogs, wikis, discussion groups, podcasts, webcasts, virtual conferences and instant messaging systems. These developments are changing both the character of science communication in many ways and scientists" expectations of a science communication system. We can expect continuing evolution in this area.
 
+At the same time, the formal components of the scientific publishing system have moved to the Web and while some scientific journals are still published in print to accompany the electronic version, new journals are mostly born electronic. At the moment, at least, journals still represent the formal record of science. To improve their functionality, over the past decade or so an array of new features have been added to such journals, such as extensive hyper-linking within the text to other articles, graphics and datasets. In addition, some of the early worries of librarians (and some scientists) about the long-term preservation of electronic journals have been at least partly allayed by arrangements between (some) publishers and national libraries and by international developments such as CLOCKSS[fn:6].
 
+Alongside the move to the Web of journals there has been the development of specialised Web-based search-and-discovery tools to enable scientists to identify and locate articles of relevance to their work. Some of these tools others are new services altogether, such as Web search engines (for example, Google Scholar).
 
+*** DONE 1.2 The development of Open Access to scientific information
 
-                                                                                   are electronic versions of previous, paper-based services,
-                                                                                                                                                                     done in extending Open Access to these areas.
-                                                                                   others are new services altogether, such as Web search
-                                                                                   engines (for example, Google Scholar).                                            At the same time as repositories were developing as
-                                                                                                                                                                     locations for Open Access material, the alternative type
-                                                                                                                                                                     of Open Access dissemination vehicle was also on the
-                                                                                                                                                                     rise -- Open Access journals. These are journals of a new
-                                                                                   1.2 The development of Open                                                       type: they make their contents freely available online
-                                                                                       Access to scientific information                                              (though they may still charge subscriptions for printed
-                                                                                                                                                                     versions) and employ a variety of business models to cover
-                                                                                   The early use of the Internet by computer scientists was                          their costs. There are currently nearly 7,000 journals listed
-                                                                                   the forerunner of true Open Access. They made their                               in the Directory of Open Access Journals, a service that
-                                                                                   findings freely available for other computer scientists                           is compiling a verified, searchable index of this type of
-                                                                                   to use and build on. But theirs was a comparatively                               publication. Some of these journals head their categories
-                                                                                   rudimentary system and was open only to a discrete                                in the impact factor rankings published by Thomson
-                                                                                   community. The Web, however, offered the possibility for                          Reuters12.
-                                                                                   scientists to make their work available to all who might
-                                                                                                                                                                     In some cases, books are also available as Open Access
-                                                                                   wish to use it, and though academic research might be
-                                                                                                                                                                     publications and in fact one of the earliest experiments
-                                                                                   viewed as being primarily of use to academic scientists,
-                                                                                                                                                                     in Open Access was by the National Academies Press
-                                                                                   there are other constituencies that benefit from it as well --
-                                                                                                                                                                     which, in 1994, began making its books freely available
-                                                                                   independent researchers, the professional and practitioner
-                                                                                                                                                                     online while selling print copies (a model it still uses
-                                                                                   communities, industry and commerce.
-                                                                                                                                                                     though with some refinements). Recent developments
-                                                                                   In 1991, the high-energy physics preprint server, arXiv7                          in this area have been extensive: of note are the many
-                                                                                   (preprints are the pre-peer review version of journal                             advances by university presses to find a sustainable
-                                                                                   articles) was established and the practice of self-archiving                      model for producing their outputs in Open Access form13,
-                                                                                   (depositing in an Open Access archive) of scientific                              the establishment of a shared production platform and
-                                                                                   articles took root in that community. Later in that                               Open Access digital library for publishers of books in the
-                                                                                   decade, Citeseer8, a citation-linked index of the computer                        humanities in Europe14, and with commercial publishers
-                                                                                   science literature was developed to harvest articles from                         entering the scene15.
-                                                                                   websites and repositories where they were being self-
-                                                                                                                                                                     With these developments, the need to advocate a clear
-                                                                                   archived by the computer science community. These two
-                                                                                                                                                                     message to the whole scientific community led to the
-                                                                                   rapidly-growing collections9 of openly-available material
-                                                                                                                                                                     development of a formal definition of Open Access.
-                                                                                   demonstrated the demand for access to that literature --
-                                                                                   usage is extremely high -- and showed the way for the rest
-                                                                                   of the scientific disciplines.
+The early use of the Internet by computer scientists was the forerunner of true Open Access. They made their findings freely available for other computer scientists to use and build on. But theirs was a comparatively rudimentary system and was open only to a discrete community. The Web, however, offered the possibility for scientists to make their work available to all who might wish to use it, and though academic research might be viewed as being primarily of use to academic scientists, there are other constituencies that benefit from it as well -- independent researchers, the professional and practitioner communities, industry and commerce.
 
+In 1991, the high-energy physics preprint server, arXiv[fn:7] (preprints are the pre-peer review version of journal articles) was established and the practice of self-archiving (depositing in an Open Access archive) of scientific articles took root in that community. Later in that decade, Citeseer[fn:8], a citation-linked index of the computer science literature was developed to harvest articles from websites and repositories where they were being self-archived by the computer science community. These two rapidly-growing collections[fn:9] of openly-available material demonstrated the demand for access to that literature -- usage is extremely high -- and showed the way for the rest of the scientific disciplines.
 
+While many disciplines did not follow suit, there was subsequent development of Open Access collections in biomedicine in the form of PubMed Central[fn:10] and in economics (RePEC[fn:11] and similar services). These services are all excellent examples of opening up the literature in specific disciplines, but there remains a great deal of science not covered by them and so much work to be are electronic versions of previous, paper-based services, done in extending Open Access to these areas.
 
-                                                                                   6   Controlled LOCKSS (Lots of Copies Keep Stuff Safe), a community-governed      10 http://www.ncbi.nlm.nih.gov/pmc/ There are also national versions of
-                                                                                       initiative to preserve scholarly material in a sustainable, geographically-      PubMed Central (such as UK PubMed Central: http://ukpmc.ac.uk/)
-                                                                                       distributed, dark archive: http://www.clockss.org/clockss/Home
-                                                                                                                                                                     11 http://repec.org/
-                                                                                   7   The server was initially hosted at the Los Alamos Laboratory in the USA,
-                                                                                       and moved to Cornell University in 2001: www.arxiv.org It contains around     12 Web of Knowledge Journal Citation Reports: http://wokinfo.com/products_
-                                                                                       750,000 full-text documents and 75,000 new submissions each year. It             tools/analytical/jcr/
-                                                                                       serves approximately 1 million full-text downloads to around 400,000          13 OASIS (Open Access Scholarly Information Sourcebook): University
-                                                                                       individual users each week: http://www.nature.com/nature/journal/v476/           presses and Open Access Publishing: http://www.openoasis.org/index.
-                                                                                       n7359/full/476145a.html                                                          php?option=com_content&view=article&id=557&Itemid=385
-                                                                                   8   http://citeseerx.ist.psu.edu/                                                 14 OAPEN (Open Access publishing in European Networks): http://www.
-                                                                                   9   CiteSeer contains more than 750,000 documents and fulfils 1.5 million            oapen.org/home
-                                                                                       viewing requests per day. arXiv contains nearly 700,000 documents and         15 For example, Bloomsbury Academic: http://www.bloomsburyacademic.
-                                                                                       sees over a million visits per day.                                              com/
+At the same time as repositories were developing as locations for Open Access material, the alternative type of Open Access dissemination vehicle was also on the rise -- Open Access journals. These are journals of a new type: they make their contents freely available online (though they may still charge subscriptions for printed versions) and employ a variety of business models to cover their costs. There are currently nearly 7,000 journals listed in the Directory of Open Access Journals, a service that is compiling a verified, searchable index of this type of publication. Some of these journals head their categories in the impact factor rankings published by Thomson Reuters[fn:12].
 
+In some cases, books are also available as Open Access publications and in fact one of the earliest experiments in Open Access was by the National Academies Press which, in 1994, began making its books freely available online while selling print copies (a model it still uses though with some refinements). Recent developments in this area have been extensive: of note are the many advances by university presses to find a sustainable model for producing their outputs in Open Access form[fn:13], the establishment of a shared production platform and Open Access digital library for publishers of books in the humanities in Europe[fn:14], and with commercial publishers entering the scene[fn:15].
 
+With these developments, the need to advocate a clear message to the whole scientific community led to the development of a formal definition of Open Access.
 
-14
-1.3 Defining Open Access                                              online for comment or to alert colleagues to important
-                                                                          research findings. There are many degrees and kinds of
-                                                                          wider and easier access to this literature. By "open access"
-        1.3.1        The Budapest Open Access                             to this literature, we mean its free availability on the
-                     Initiative                                           public internet, permitting any users to read, download,
-                                                                          copy, distribute, print, search, or link to the full texts of
-Although there have been several different attempts at                    these articles, crawl them for indexing, pass them as data
+*** DONE 1.3 Defining Open Access [100%]
+**** DONE 1.3.1 The Budapest Open Access Initiative
 
+Although there have been several different attempts at formally defining Open Access, the working definition used by most people remains that of the Budapest Open Access Initiative (BOAI, 2002[fn:16]) which was released following a meeting in Budapest in December 2001. The Initiative is worded as follows:
 
+An old tradition and a new technology have converged to make possible an unprecedented public good. The old tradition is the willingness of scientists and scholars to publish the fruits of their research in scholarly journals without payment, for the sake of inquiry and knowledge. The new technology is the internet. The public good they make possible is the world-wide electronic distribution of the peer-reviewed journal literature and completely free and unrestricted access to it by all scientists, scholars, teachers, students, and other curious minds. Removing access barriers to this literature will accelerate research, enrich education, share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge.
 
+For various reasons, this kind of free and unrestricted online availability, which we will call open access, has so far been limited to small portions of the journal literature. But even in these limited collections, many different initiatives have shown that open access is economically feasible, that it gives readers extraordinary power to find and make use of relevant literature, and that it gives authors and their works vast and measurable new visibility, readership, and impact. To secure these benefits for all, we call on all interested institutions and individuals to help open up access to the rest of this literature and remove the barriers, especially the price barriers, that stand in the way. The more who join the effort to advance this cause, the sooner we will all enjoy the benefits of open access.
 
-                                                                                                                                          SECTION 1. The Development of Open Access to Scientific Information and Research
-formally defining Open Access, the working definition                     to software, or use them for any other lawful purpose,
-used by most people remains that of the Budapest                          without financial, legal, or technical barriers other than
-Open Access Initiative (BOAI, 200216) which was released                  those inseparable from gaining access to the internet itself.
-following a meeting in Budapest in December 2001. The                     The only constraint on reproduction and distribution, and
-Initiative is worded as follows:                                          the only role for copyright in this domain, should be to
-                                                                          give authors control over the integrity of their work and
-    An old tradition and a new technology have converged                  the right to be properly acknowledged and cited.
-    to make possible an unprecedented public good. The old
-    tradition is the willingness of scientists and scholars to           While the peer-reviewed journal literature should be
-    publish the fruits of their research in scholarly journals           accessible online without cost to readers, it is not costless
-    without payment, for the sake of inquiry and knowledge.              to produce. However, experiments show that the overall
-    The new technology is the internet. The public good they             costs of providing open access to this literature are far
-    make possible is the world-wide electronic distribution              lower than the costs of traditional forms of dissemination.
-    of the peer-reviewed journal literature and completely               With such an opportunity to save money and expand the
-    free and unrestricted access to it by all scientists, scholars,      scope of dissemination at the same time, there is today a
-    teachers, students, and other curious minds. Removing                strong incentive for professional associations, universities,
-    access barriers to this literature will accelerate research,         libraries, foundations, and others to embrace open
-    enrich education, share the learning of the rich with the            access as a means of advancing their missions. Achieving
-    poor and the poor with the rich, make this literature as             open access will require new cost recovery models and
-    useful as it can be, and lay the foundation for uniting              financing mechanisms, but the significantly lower overall
-    humanity in a common intellectual conversation and                   cost of dissemination is a reason to be confident that the
-    quest for knowledge.                                                 goal is attainable and not merely preferable or utopian.
+The literature that should be freely accessible online is that which scholars give to the world without expectation of payment. Primarily, this category encompasses their peer-reviewed journal articles, but it also includes any as-yet un-reviewed preprints that they might wish to put online for comment or to alert colleagues to important research findings. There are many degrees and kinds of wider and easier access to this literature. By "open access" to this literature, we mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited.
 
-    For various reasons, this kind of free and unrestricted              To achieve open access to scholarly journal literature, we
-    online availability, which we will call open access, has so          recommend two complementary strategies.
-    far been limited to small portions of the journal literature.        I.  Self-Archiving: First, scholars need the tools and
-    But even in these limited collections, many different                assistance to deposit their refereed journal articles in
-    initiatives have shown that open access is economically              open electronic archives, a practice commonly called,
-    feasible, that it gives readers extraordinary power to               self-archiving. When these archives conform to standards
-    find and make use of relevant literature, and that it                created by the Open Archives Initiative, then search
-    gives authors and their works vast and measurable new                engines and other tools can treat the separate archives
-    visibility, readership, and impact. To secure these benefits         as one. Users then need not know which archives exist or
-    for all, we call on all interested institutions and individuals      where they are located in order to find and make use of
-    to help open up access to the rest of this literature and            their contents.
-    remove the barriers, especially the price barriers, that
-    stand in the way. The more who join the effort to advance            II. Open-access Journals: Second, scholars need the
-    this cause, the sooner we will all enjoy the benefits of open        means to launch a new generation of journals committed
-    access.                                                              to open access, and to help existing journals that elect
-                                                                         to make the transition to open access. Because journal
-    The literature that should be freely accessible online is            articles should be disseminated as widely as possible,
-    that which scholars give to the world without expectation            these new journals will no longer invoke copyright to
-    of payment. Primarily, this category encompasses their               restrict access to and use of the material they publish.
-    peer-reviewed journal articles, but it also includes any             Instead they will use copyright and other tools to ensure
-    as-yet un-reviewed preprints that they might wish to put             permanent open access to all the articles they publish.
-                                                                         Because price is a barrier to access, these new journals will
-16 http://www.soros.org/openaccess                                       not charge subscription or access fees, and will turn to
+While the peer-reviewed journal literature should be accessible online without cost to readers, it is not costless to produce. However, experiments show that the overall costs of providing open access to this literature are far lower than the costs of traditional forms of dissemination. With such an opportunity to save money and expand the scope of dissemination at the same time, there is today a strong incentive for professional associations, universities, libraries, foundations, and others to embrace open access as a means of advancing their missions. Achieving open access will require new cost recovery models and financing mechanisms, but the significantly lower overall cost of dissemination is a reason to be confident that the goal is attainable and not merely preferable or utopian.
 
+To achieve open access to scholarly journal literature, we recommend two complementary strategies.
 
-                                                                                                                                          15
-                                                                                      other methods for covering their expenses. There are many       and distribution. Second, and related to the first, the BOAI
-                                                                                      alternative sources of funds for this purpose, including        acknowledges that there are costs to producing the peer-
-                                                                                      the foundations and governments that fund research,             reviewed literature, even though peer review services are
-                                                                                      the universities and laboratories that employ researchers,      provided for free by scientists, as is the raw material, of
-                                                                                      endowments set up by discipline or institution, friends         course.
-                                                                                      of the cause of open access, profits from the sale of add-
-                                                                                                                                                      Third, the BOAI describes two ways in which work can be
-                                                                                      ons to the basic texts, funds freed up by the demise or
-SECTION 1. The Development of Open Access to Scientific Information and Research
+I. Self-Archiving: First, scholars need the tools and assistance to deposit their refereed journal articles in open electronic archives, a practice commonly called, self-archiving. When these archives conform to standards created by the Open Archives Initiative, then search engines and other tools can treat the separate archives as one. Users then need not know which archives exist or where they are located in order to find and make use of their contents.
 
+II. Open-access Journals: Second, scholars need the means to launch a new generation of journals committed to open access, and to help existing journals that elect to make the transition to open access. Because journal articles should be disseminated as widely as possible, these new journals will no longer invoke copyright to restrict access to and use of the material they publish. Instead they will use copyright and other tools to ensure permanent open access to all the articles they publish. Because price is a barrier to access, these new journals will not charge subscription or access fees, and will turn to other methods for covering their expenses. There are many alternative sources of funds for this purpose, including the foundations and governments that fund research, the universities and laboratories that employ researchers, endowments set up by discipline or institution, friends of the cause of open access, profits from the sale of add-cancellation of journals charging traditional subscription or access fees, or even contributions from the researchers themselves. There is no need to favor one of these solutions over the others for all disciplines or nations, and no need to stop looking for other, creative alternatives.
 
+Open access to peer-reviewed journal literature is the goal. Self-archiving (I.) and a new generation of open-access journals (II.) are the ways to attain this goal. They are not only direct and effective means to this end, they are within the reach of scholars themselves, immediately, and need not wait on changes brought about by markets or legislation. While we endorse the two strategies just outlined, we also encourage experimentation with further ways to make the transition from the present methods of dissemination to open access. Flexibility, experimentation, and adaptation to local circumstances are the best ways to assure that progress in diverse settings will be rapid, secure, and long-lived.
 
+The Open Society Institute, the foundation network founded by philanthropist George Soros, is committed to providing initial help and funding to realize this goal. It will use its resources and influence to extend and promote institutional self-archiving, to launch new open-access journals, and to help an open-access journal system become economically self-sustaining. While the Open Society Institute's commitment and resources are substantial, this initiative is very much in need of other organizations to lend their effort and resources.
 
-                                                                                                                                                      made Open Access: by self-archiving, that is by depositing
-                                                                                      cancellation of journals charging traditional subscription
-                                                                                                                                                      copies of papers in Open Access archives (commonly
-                                                                                      or access fees, or even contributions from the researchers
-                                                                                                                                                      called the "green route"); and by publishing in Open Access
-                                                                                      themselves. There is no need to favor one of these
-                                                                                                                                                      journals, publications that make their content freely
-                                                                                      solutions over the others for all disciplines or nations, and
-                                                                                                                                                      available on the Web at the time of publication (referred to
-                                                                                      no need to stop looking for other, creative alternatives.
-                                                                                                                                                      as the "gold route").
-                                                                                      Open access to peer-reviewed journal literature is the
-                                                                                                                                                      Fourth, the BOAI details the kinds of access barriers that
-                                                                                      goal. Self-archiving (I.) and a new generation of open-
-                                                                                                                                                      are non-permissible in an Open Access world -- financial,
-                                                                                      access journals (II.) are the ways to attain this goal. They
-                                                                                                                                                      technical and legal. Implicit in the definition is also the
-                                                                                      are not only direct and effective means to this end, they
-                                                                                                                                                      removal of a temporal barrier, meaning that research
-                                                                                      are within the reach of scholars themselves, immediately,
-                                                                                                                                                      findings should be immediately available to would-be
-                                                                                      and need not wait on changes brought about by markets
-                                                                                                                                                      users once in publishable form, and thereafter available
-                                                                                      or legislation. While we endorse the two strategies just
-                                                                                                                                                      permanently. It is helpful to think of this also in terms of
-                                                                                      outlined, we also encourage experimentation with further
-                                                                                                                                                      "price barriers" (for example, subscription costs or pay-per-
-                                                                                      ways to make the transition from the present methods of
-                                                                                                                                                      view charges) and "permission barriers" (onerous copyright
-                                                                                      dissemination to open access. Flexibility, experimentation,
-                                                                                                                                                      or licensing restrictions on use)17.
-                                                                                      and adaptation to local circumstances are the best ways
-                                                                                      to assure that progress in diverse settings will be rapid,      Finally, the Initiative addresses the issue of use of the Open
-                                                                                      secure, and long-lived.                                         Access literature which, it says, should be available to read,
-                                                                                                                                                      download, copy, distribute, print, search, or link to the full
-                                                                                      The Open Society Institute, the foundation network
-                                                                                                                                                      texts of these articles, crawl them for indexing, pass them as
-                                                                                      founded by philanthropist George Soros, is committed
-                                                                                                                                                      data to software, or use them for any other lawful purpose.
-                                                                                      to providing initial help and funding to realize this goal.
-                                                                                                                                                      This may seem like an unnecessarily detailed list, but the
-                                                                                      It will use its resources and influence to extend and
-                                                                                                                                                      Initiative was setting in place the conditions needed for
-                                                                                      promote institutional self-archiving, to launch new
-                                                                                                                                                      digital science in the 21st century, where computational
-                                                                                      open-access journals, and to help an open-access journal
-                                                                                                                                                      methods will dominate as science becomes more data-
-                                                                                      system become economically self-sustaining. While the
-                                                                                                                                                      intensive and machines need to access the literature to
-                                                                                      Open Society Institute's commitment and resources are
-                                                                                                                                                      create knowledge. In other words, being able to read an
-                                                                                      substantial, this initiative is very much in need of other
-                                                                                                                                                      article for free will not be enough.
-                                                                                      organizations to lend their effort and resources.
-                                                                                                                                                      This has led to an extension of the definition of Open
-                                                                                      We invite governments, universities, libraries, journal
-                                                                                                                                                      Access, distinguishing between free-to-read and free-
-                                                                                      editors, publishers, foundations, learned societies,
-                                                                                                                                                      to-do more types of access. These are explained in the
-                                                                                      professional associations, and individual scholars who
-                                                                                                                                                      section below.
-                                                                                      share our vision to join us in the task of removing the
-                                                                                      barriers to open access and building a future in which
-                                                                                      research and education in every part of the world are that               1.3.2         Gratis and Libre Open Access
-                                                                                      much more free to flourish.
-                                                                                                                                                      From the viewpoint of policy development, this issue is
-                                                                                   The BOAI addresses a number of issues that are important
-                                                                                                                                                      important. Policies may explicitly acknowledge it, requiring
-                                                                                   and need to be highlighted.
-                                                                                                                                                      material to be made Open Access with provision for re-use
-                                                                                   First, it acknowledges that the reason Open Access is              in ways over and above simply reading. This most liberal
-                                                                                   now possible is because the Web offers a means for free            definition of Open Access has been called, by agreement
-                                                                                   dissemination of goods. In the days of print-on-paper, free        within the Open Access advocacy community, "libre" Open
-                                                                                   dissemination was not possible because each copy had
-                                                                                   an identifiable cost associated with it in terms of printing       17 From "Overview of Open Access (2010) by Peter Suber. See bibliography for
-                                                                                                                                                         full reference.
+We invite governments, universities, libraries, journal editors, publishers, foundations, learned societies, professional associations, and individual scholars who share our vision to join us in the task of removing the barriers to open access and building a future in which research and education in every part of the world are that much more free to flourish.
 
+The BOAI addresses a number of issues that are important and need to be highlighted.
 
+First, it acknowledges that the reason Open Access is now possible is because the Web offers a means for free dissemination of goods. In the days of print-on-paper, free dissemination was not possible because each copy had an identifiable cost associated with it in terms of printing and distribution. Second, and related to the first, the BOAI acknowledges that there are costs to producing the peer-reviewed literature, even though peer review services are provided for free by scientists, as is the raw material, of course.
 
-16
-Access. The other variant, where material is free to read but                 example, text-mining of the biomedical literature19 has
-does not explicitly permit further types of re-use, is called                 the potential to identify avenues to discovering new
-"gratis" Open Access.                                                         drugs and other therapies20. It is worth noting that these
-                                                                              technologies do not work well on texts in PDF format,
-The difference between the two may seem subtle, but the
-                                                                              which unfortunately is the format that most Open Access
-implications are rather profound. In terms of scientists"
-                                                                              articles are available in at the moment. The preferred
-behaviour in respect of their own interests, all scientists
-                                                                              format is XML (Extensible Markup Language). This
+Third, the BOAI describes two ways in which work can be ons to the basic texts, funds freed up by the demise or made Open Access: by self-archiving, that is by depositing copies of papers in Open Access archives (commonly called the "green route"); and by publishing in Open Access journals, publications that make their content freely available on the Web at the time of publication (referred to as the "gold route").
 
+Fourth, the BOAI details the kinds of access barriers that are non-permissible in an Open Access world -- financial, technical and legal. Implicit in the definition is also the removal of a temporal barrier, meaning that research findings should be immediately available to would-be users once in publishable form, and thereafter available permanently. It is helpful to think of this also in terms of "price barriers" (for example, subscription costs or pay-per-view charges) and "permission barriers" (onerous copyright or licensing restrictions on use)[fn:17].
 
+Finally, the Initiative addresses the issue of use of the Open Access literature which, it says, should be available to read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose. This may seem like an unnecessarily detailed list, but the Initiative was setting in place the conditions needed for digital science in the 21st century, where computational methods will dominate as science becomes more data-intensive and machines need to access the literature to create knowledge. In other words, being able to read an article for free will not be enough.
 
+This has led to an extension of the definition of Open Access, distinguishing between free-to-read and free-to-do more types of access. These are explained in the section below.
 
-                                                                                                                                                              SECTION 1. The Development of Open Access to Scientific Information and Research
-want their work to be read and built upon by others. That
-                                                                              may seem a trivial point, but in policy terms it is rather
-is precisely why they publish: unless they work in industry
-                                                                              significant. In the future, as this area develops, policies
-or in another private capacity, contributing to the general
-                                                                              are likely to discourage PDF and insist on a format that is
-knowledge base is the purpose of their employment
-                                                                              either XML or can be easily converted to it.
-as public servants. Gratis Open Access thus presents no
-conflict with the normal aims of scientists to make their
-findings available and to have as much impact as possible.                             1.3.3         Other formal definitions of
-The argument goes that they may not, however, be so                                                  Open Access
-clear about the issue of liberal re-use rights for their work.
-Making their articles available for other scientists to read is               Subsequent definitions of Open Access have been offered.
-one thing, it is said, but allowing more may be a step too                    The Bethesda Statement on Open Access Publishing21
-far.                                                                          built upon the BOAI by specifying in detail the ways in
-                                                                              which Open Access material can be used. In particular, it
-It is worth examining here what is implicated. There are
-                                                                              specifies what an Open Access publication is and which
-two fundamental types of re-use. First, what we might
-                                                                              rights the owners or creators of the work grant to users
-term "human re-use", by which is meant that scientists may
-                                                                              through the attachment of particular licences. It says, an
-use an article in ways other than just reading it to find
-                                                                              Open Access Publication is one that meets the following
-out what its messages are. We can imagine a number of
-                                                                              two conditions:
-possibilities.
-                                                                              1. The author(s) and copyright holder(s) grant(s) to all users
+**** DONE 1.3.2 Gratis and Libre Open Access
+
+From the viewpoint of policy development, this issue is important. Policies may explicitly acknowledge it, requiring material to be made Open Access with provision for re-use in ways over and above simply reading. This most liberal definition of Open Access has been called, by agreement within the Open Access advocacy community, "libre" Open Access. The other variant, where material is free to read but does not explicitly permit further types of re-use, is called "gratis" Open Access. The difference between the two may seem subtle, but the implications are rather profound. In terms of scientists" behaviour in respect of their own interests, all scientists want their work to be read and built upon by others. That is precisely why they publish: unless they work in industry or in another private capacity, contributing to the general knowledge base is the purpose of their employment as public servants. Gratis Open Access thus presents no conflict with the normal aims of scientists to make their findings available and to have as much impact as possible. The argument goes that they may not, however, be so clear about the issue of liberal re-use rights for their work. Making their articles available for other scientists to read is one thing, it is said, but allowing more may be a step too far.
+
+It is worth examining here what is implicated. There are two fundamental types of re-use. First, what we might term "human re-use", by which is meant that scientists may use an article in ways other than just reading it to find out what its messages are. We can imagine a number of possibilities.
+
 A scientist might:
-                                                                                 a free, irrevocable, worldwide, perpetual right of access to,
-+ extract a component of the article (a graph or table,                          and a license to copy, use, distribute, transmit and display
-  photograph or list) and carry out further analysis or                          the work publicly and to make and distribute derivative
-  modification for the purpose of research                                       works, in any digital medium for any responsible purpose,
-                                                                                 subject to proper attribution of authorship, as well as the
-+ use one of these components alongside others like it                           right to make small numbers of printed copies for their
-  to form a public collection                                                    personal use.
-+ use one or other of those components in presentations                       2. A complete version of the work and all supplemental
-  or teaching materials that are made widely available                           materials, including a copy of the permission as stated
-                                                                                 above, in a suitable standard electronic format is
-+ use a component in an article for publication
-                                                                                 deposited immediately upon initial publication in at least
-+ extract large chunks of text for use in other articles                         one online repository that is supported by an academic
-                                                                                 institution, scholarly society, government agency, or other
-But fellow scientists are not the only potential users.
-                                                                                 well-established organization that seeks to enable open
-There may be people who could make commercial use of
-                                                                                 access, unrestricted distribution, interoperability, and
-material in the article, too.
-                                                                                 long-term archiving (for the biomedical sciences, PubMed
-Second, there is what we can term "machine re-use", by                           Central is such a repository).
-which is meant that computers can also use what is in
-                                                                              The Bethesda Statement therefore reinforces the emphasis
-the literature. Computation upon the scientific literature
-                                                                              on barrier-free dissemination of scientific works and
-is in its early days, but technologies are being developed
-and refined because of the huge potential they have for
-                                                                              19 For an explanation of the technologies, see Rodriguez-Esteban (2009): full
-creating new knowledge that can be beneficial18. For                             reference in the bibliography.
-                                                                              20 For an example of how the technologies work, the UK's National Centre
-                                                                                 for Text Mining (NaCTeM) and the European Bioinformatics Institute are
-                                                                                 collaborating with UK PubMed Central on text-mining the biomedical
-18 For an overview of open computation, see Lynch (2006): full reference in      literature: http://www.nactem.ac.uk/ukpmc/
-   the bibliography.                                                          21 http://www.earlham.edu/~peters/fos/bethesda.htm
+
++ extract a component of the article (a graph or table, photograph or list) and carry out further analysis or modification for the purpose of research.
+
++ use one of these components alongside others like it to form a public collection.
+
++ use one or other of those components in presentations or teaching materials that are made widely available.
+
++ use a component in an article for publication.
+
++ extract large chunks of text for use in other articles.
+
+But fellow scientists are not the only potential users. There may be people who could make commercial use of material in the article, too.
+
+Second, there is what we can term "machine re-use", by which is meant that computers can also use what is in the literature. Computation upon the scientific literature is in its early days, but technologies are being developed and refined because of the huge potential they have for creating new knowledge that can be beneficial[fn:18]. For example, text-mining of the biomedical literature[fn:19] has the potential to identify avenues to discovering new drugs and other therapies[fn:20]. It is worth noting that these technologies do not work well on texts in PDF format, which unfortunately is the format that most Open Access articles are available in at the moment. The preferred format is XML (Extensible Markup Language). This may seem a trivial point, but in policy terms it is rather significant. In the future, as this area develops, policies are likely to discourage PDF and insist on a format that is either XML or can be easily converted to it.
+
+**** DONE 1.3.3 Other formal definitions of Open Access
+
+Subsequent definitions of Open Access have been offered. The Bethesda Statement on Open Access Publishing[fn:21] built upon the BOAI by specifying in detail the ways in which Open Access material can be used. In particular, it specifies what an Open Access publication is and which rights the owners or creators of the work grant to users through the attachment of particular licences. It says, an Open Access Publication is one that meets the following two conditions:
+
+  1. The author(s) and copyright holder(s) grant(s) to all users a free, irrevocable, worldwide, perpetual right of access to, and a license to copy, use, distribute, transmit and display the work publicly and to make and distribute derivative works, in any digital medium for any responsible purpose, subject to proper attribution of authorship, as well as the right to make small numbers of printed copies for their personal use.
+
+  2. A complete version of the work and all supplemental materials, including a copy of the permission as stated above, in a suitable standard electronic format is deposited immediately upon initial publication in at least one online repository that is supported by an academic institution, scholarly society, government agency, or other well-established organization that seeks to enable open access, unrestricted distribution, interoperability, and long-term archiving (for the biomedical sciences, PubMed Central is such a repository).
+
+
+The Bethesda Statement therefore reinforces the emphasis on barrier-free dissemination of scientific works and expressly details the types of re-use that Open Access permits, including the making of derivative works, and the rights/licensing conditions that apply.
+
+Finally, the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities was published in 2003[fn:22]. This is essentially the same as the Bethesda Statement but at the third of the annual Berlin Conferences on Open Access (which are held in different cities each year) the conference agreed to an additional recommendation for research institutions, as follows:
+
+  In order to implement the Berlin Declaration institutions should implement a policy to:
+
+    1. require their researchers to deposit a copy of all their published articles in an open access repository
+
+    and
+
+    2. encourage their researchers to publish their research articles in open access journals where a suitable journal exists (and provide the support to enable that to happen).
+
+Although there have been further attempts to define Open Access, these three (Budapest, Bethesda and Berlin), usually used together and referred to as the "BBB definition of Open Access", have become established as the working definition.
+
+This account of the definition of Open Access has been thorough because the issue is critically important to policy development, whether by research funders, institutions or other bodies. It is easy for policies to specify too little -- in which case what results is not a true Open Access body of literature; or too much -- in which case there are too many hurdles to clear to achieve Open Access satisfactorily.
+
+Reflection on the definitions above makes it clear that there are three main issues to deal with in policy development:
+
+  + what should be covered by a policy
+
+  + what should be specified with regard to timing, costs,
+
+and how Open Access should be provided
+
+  + and what conditions should be applied with respect to copyright and licensing
+
+These issues are further discussed in section 8.
+
+**** 1.4 Target content for Open Access [%]
+
+Central to making policy on Open Access is what types of
+research outputs are to be covered. The general term that
+is used to describe the target of Open Access is "the peer-
+reviewed research literature". In broadest terms, this would
+cover journals, peer-reviewed conference proceedings
 
 
 
-                                                                                                                                                              17
-                                                                                   expressly details the types of re-use that Open Access              1.4 Target content for Open Access
-                                                                                   permits, including the making of derivative works, and the
-                                                                                   rights/licensing conditions that apply.                             Central to making policy on Open Access is what types of
-                                                                                   Finally, the Berlin Declaration on Open Access to                   research outputs are to be covered. The general term that
-                                                                                   Knowledge in the Sciences and Humanities was                        is used to describe the target of Open Access is "the peer-
-                                                                                   published in 200322. This is essentially the same as the            reviewed research literature". In broadest terms, this would
-                                                                                                                                                       cover journals, peer-reviewed conference proceedings
-SECTION 1. The Development of Open Access to Scientific Information and Research
+(the primary dissemination route in some disciplines,
+such as engineering) and books. Using this general term
+"literature", though, brings the need for some caveats.
+
+First, there is the issue of how to deal with scholarly books.
+Journals are simple: scientists write articles for publication
+in journals and do not expect payment for this. Indeed,
+their purpose in writing for journals is to gain reputational
+capital and benefit personally in the currency of academic
+research -- citations. Book authors, however, do sometimes
+
+expect a financial reward as well as reputational capital to
+come to them from writing books. The financial reward
+is certainly very small in the vast majority of cases, and
+most authors in the humanities (which is the discipline
+most affected since books are the primary dissemination
+tool) acknowledge that their expectations of financial
+reward are hardly high[fn:23], but the fact that the potential for
+financial payoff exists means that what can be required in
+policy terms with respect to journal articles cannot be the
+same for books. Nonetheless, policies usually do mention
+books (and book chapters), complete with caveat (see
+section 8 for further discussion on this).
+
+Second, there is another category of research output
+that is increasingly becoming a focus for policy, and
+that is research data. Science is now data-intensive and
+becoming ever more so. In some disciplines (but not all)
+there is an acknowledged need to share data in order
+to effect progress. Science is simply too big in some
+fields to move forward without collaborative intent. The
+
+Human Genome Project illustrates this point: thousands
+
+of scientists around the world worked on the effort to
+
+sequence the whole human DNA complement and the
+principles of data sharing were agreed at the now-famous
+Bermuda meeting in 1996[fn:24]. There is excellent provision of
+
+public data storage and preservation facilities for scientists
 
 
+in biomedical research[fn:25], as there is in some other data-
+intensive disciplines.
 
-
-                                                                                   Bethesda Statement but at the third of the annual Berlin
-                                                                                   Conferences on Open Access (which are held in different             (the primary dissemination route in some disciplines,
-                                                                                   cities each year) the conference agreed to an additional            such as engineering) and books. Using this general term
-                                                                                   recommendation for research institutions, as follows:               "literature", though, brings the need for some caveats.
-
-                                                                                       In order to implement the Berlin Declaration institutions       First, there is the issue of how to deal with scholarly books.
-                                                                                       should implement a policy to:                                   Journals are simple: scientists write articles for publication
-                                                                                                                                                       in journals and do not expect payment for this. Indeed,
-                                                                                       1. require their researchers to deposit a copy of all their     their purpose in writing for journals is to gain reputational
-                                                                                          published articles in an open access repository              capital and benefit personally in the currency of academic
-                                                                                                                                                       research -- citations. Book authors, however, do sometimes
-                                                                                       and
-                                                                                                                                                       expect a financial reward as well as reputational capital to
-                                                                                       2. encourage their researchers to publish their research        come to them from writing books. The financial reward
-                                                                                          articles in open access journals where a suitable            is certainly very small in the vast majority of cases, and
-                                                                                          journal exists (and provide the support to enable that       most authors in the humanities (which is the discipline
-                                                                                          to happen).                                                  most affected since books are the primary dissemination
-                                                                                                                                                       tool) acknowledge that their expectations of financial
-                                                                                   Although there have been further attempts to define                 reward are hardly high23, but the fact that the potential for
-                                                                                   Open Access, these three (Budapest, Bethesda and Berlin),           financial payoff exists means that what can be required in
-                                                                                   usually used together and referred to as the "BBB definition        policy terms with respect to journal articles cannot be the
-                                                                                   of Open Access", have become established as the working             same for books. Nonetheless, policies usually do mention
-                                                                                   definition.                                                         books (and book chapters), complete with caveat (see
-                                                                                                                                                       section 8 for further discussion on this).
-                                                                                   This account of the definition of Open Access has been
-                                                                                   thorough because the issue is critically important to policy        Second, there is another category of research output
-                                                                                   development, whether by research funders, institutions or           that is increasingly becoming a focus for policy, and
-                                                                                   other bodies. It is easy for policies to specify too little -- in    that is research data. Science is now data-intensive and
-                                                                                   which case what results is not a true Open Access body of           becoming ever more so. In some disciplines (but not all)
-                                                                                   literature; or too much -- in which case there are too many          there is an acknowledged need to share data in order
-                                                                                   hurdles to clear to achieve Open Access satisfactorily.             to effect progress. Science is simply too big in some
-                                                                                                                                                       fields to move forward without collaborative intent. The
-                                                                                   Reflection on the definitions above makes it clear
-                                                                                                                                                       Human Genome Project illustrates this point: thousands
-                                                                                   that there are three main issues to deal with in policy
-                                                                                                                                                       of scientists around the world worked on the effort to
-                                                                                   development:
-                                                                                                                                                       sequence the whole human DNA complement and the
-                                                                                   + what should be covered by a policy                                principles of data sharing were agreed at the now-famous
-                                                                                                                                                       Bermuda meeting in 199624. There is excellent provision of
-                                                                                   + what should be specified with regard to timing, costs,
-                                                                                                                                                       public data storage and preservation facilities for scientists
-                                                                                     and how Open Access should be provided
-
-                                                                                   + and what conditions should be applied with respect to
-                                                                                     copyright and licensing
-
-                                                                                   These issues are further discussed in section 8.
-                                                                                                                                                       23 Anecdotally, most cheerfully agree that reputational capital far outweighs
-                                                                                                                                                          financial reward as the main hoped-for benefit from publishing their work
-                                                                                                                                                          in book form.
-                                                                                                                                                       24 1st International Strategy Meeting on Human Genome Sequencing: This
-                                                                                                                                                          included a principle that no-one would claim intellectual property rights
-                                                                                                                                                          over genome data and that data would be made publicly-available within
-                                                                                                                                                          24 hours of being produced: http://www.ornl.gov/sci/techresources/
-                                                                                   22 http://oa.mpg.de/lang/en-uk/berlin-prozess/berliner-erklarung/      Human_Genome/research/bermuda.shtml#1
-
-
-
-18
-in biomedical research25, as there is in some other data-                          the stage where policy development can take place, the
-intensive disciplines.                                                             groundwork is being done to build an Open Bibliography
-                                                                                   system30.
 As well as the significant policy and infrastructure
 developments to support Open Data seen in some
 disciplines there is a more general awakening of interest in
-                                                                                     Summary points on the development of
-                                                                                     Open Access
+
+
 this topic. Research funders, keen to optimise conditions
 
 
 
 
-                                                                                                                                                                SECTION 1. The Development of Open Access to Scientific Information and Research
-for scientific progress, are also working on policy support                          + The Web offers new opportunities to build an optimal system for
-to ensure that research data are made accessible by the                                communicating science -- a fully linked, fully interoperable, fully-
-scientists they fund. Many research funders around the                                 exploitable scientific research database available to all
-world now have Open Data policies in place, some of
-them backed by particular infrastructural arrangements                               + Scientists are using these opportunities both to develop Open
-to enable the practicalities of complying with them26.                                 Access routes for the formal literature and for informal types of
-Some researchers use their institution's digital repository                            communication
-for depositing datasets for sharing, or place datasets on                            + For the growing body of Open Access information, preservation in
-open websites. Publishers also make space available                                    the long-term is a key issue
-on their own websites for datasets supporting journal
-articles and in some cases journals require data to be                               + Essential for the acceptance and use of the Open Access literature
-made openly available as a condition of publication27. It                              are new services that provide for the needs of scientists and
-must be emphasised, however, that data sharing is by no                                research managers
-means ubiquitous and data management practices and
-                                                                                     + There are already good, workable, proven-in-use definitions of
-norms vary considerably from one discipline to another,
-                                                                                       Open Access that can be used to underpin policy
-as many studies have demonstrated28. There is, however,
-growing organisation and formalisation of this field and                             + There is also a distinction made between two types of Open
-the recently-developed Panton Principles define the aims                               Access -- gratis and libre -- and this distinction also has policy
-and principles of Open Data concept29.                                                 implications
 
-Third, there are other types of research literature for                              + Two practical routes to Open Access ("green" and "gold") have been
-which openness is considered desirable. These are                                      formally endorsed by the research community
+for scientific progress, are also working on policy support
+to ensure that research data are made accessible by the
+scientists they fund. Many research funders around the
+world now have Open Data policies in place, some of
+them backed by particular infrastructural arrangements
+to enable the practicalities of complying with them26.
+Some researchers use their institution's digital repository
+for depositing datasets for sharing, or place datasets on
+open websites. Publishers also make space available
+on their own websites for datasets supporting journal
+articles and in some cases journals require data to be
+made openly available as a condition of publication27. It
+must be emphasised, however, that data sharing is by no
+means ubiquitous and data management practices and
+
+norms vary considerably from one discipline to another,
+
+as many studies have demonstrated28. There is, however,
+growing organisation and formalisation of this field and
+the recently-developed Panton Principles define the aims
+and principles of Open Data concept29.
+
+Third, there are other types of research literature for
+which openness is considered desirable. These are
 theses (masters and doctoral) and the "grey" literature (the
-research literature not destined for peer-reviewed journals                          + The primary, and original, target for Open Access was the journal
-such as working papers, pamphlets, etc). Whilst these                                  literature (including peer-reviewed conference proceedings).
-are not covered by the formal definition of Open Access,                               Masters and doctoral theses are also welcome additions to this list
-they are second-tier targets and it should be noted that in                            and the concept is now being widened to include research data
-some disciplines this tier of outputs is of very considerable                          and books
+research literature not destined for peer-reviewed journals
+such as working papers, pamphlets, etc). Whilst these
+are not covered by the formal definition of Open Access,
+they are second-tier targets and it should be noted that in
+some disciplines this tier of outputs is of very considerable
 significance.
 
 Finally, though this is till very much in its infancy, there
@@ -741,21 +466,42 @@ a properly constructed, fully-open bibliographic service
 (currently, the most comprehensive bibliographic services
 are paid-for services produced by commercial publishing
 companies). Though this issue is nowhere approaching
+the stage where policy development can take place, the
+groundwork is being done to build an Open Bibliography
+system30.
 
-25 For example, see the databases maintained by the National Centre
-   for Biotechnology Information: http://www.ncbi.nlm.nih.gov/ and the
-   European Bioinformatics Institute: http://www.ebi.ac.uk/
-26 As an example, see the Natural Environment Research Council's data centre
-   network in the UK: http://www.nerc.ac.uk/research/sites/data/
-27 The journal Nature, for example, has a clause in its conditions of publishing
-   that stipulates that authors must make supporting data available for others
-   to see and use.                                                                 30 See the new principles on open metadata promoted by the Joint
-                                                                                      Information Systems Committee in the UK: http://www.jisc.ac.uk/
-28 See: Ruusalepp (2008), Brown & Swan (2009) and Swan & Brown (2008): full           news/stories/2011/07/openmetadata.aspx and the Open Knowledge
-   references in the bibliography.                                                    Foundation's Working Group on Open Bibliographic Data http://wiki.okfn.
-29 http://pantonprinciples.org/                                                       org/Wg/bibliography
+***** Summary points on the development of Open Access
 
++ The Web offers new opportunities to build an optimal system for
+communicating science -- a fully linked, fully interoperable, fully-
+exploitable scientific research database available to all
 
++ Scientists are using these opportunities both to develop Open
+Access routes for the formal literature and for informal types of
+communication
++ For the growing body of Open Access information, preservation in
+the long-term is a key issue
+
++ Essential for the acceptance and use of the Open Access literature
+are new services that provide for the needs of scientists and
+research managers
+
++ There are already good, workable, proven-in-use definitions of
+
+Open Access that can be used to underpin policy
+
++ There is also a distinction made between two types of Open
+Access -- gratis and libre -- and this distinction also has policy
+implications
+
++ Two practical routes to Open Access ("green" and "gold") have been
+formally endorsed by the research community
+
++ The primary, and original, target for Open Access was the journal
+literature (including peer-reviewed conference proceedings).
+Masters and doctoral theses are also welcome additions to this list
+and the concept is now being widened to include research data
+and books
 
                                                                                                                                                                 19
 ** TODO Section 2. Approaches to Open Access
@@ -4442,8 +4188,35 @@ the accessibility, usage and applications of their findings.
 
 [...]
 
-* Footnotes
+** Footnotes
 
 [fn:1] http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/free-and-open-source-software-foss/cdsisis/
 [fn:2] http://www.greenstone.org/
 [fn:3] http://www.itu.int/wsis/docs/geneva/official/dop.html
+[fn:4] This is the number indexed by Ulrich's Periodicals Directory
+[fn:5] Developed by Berners-Lee (1989) see full reference in bibliography.
+[fn:6] Controlled LOCKSS (Lots of Copies Keep Stuff Safe), a community-governed initiative to preserve scholarly material in a sustainable, geographically-distributed, dark archive: http://www.clockss.org/clockss/Home
+[fn:7] The server was initially hosted at the Los Alamos Laboratory in the USA, and moved to Cornell University in 2001: www.arxiv.org It contains around 750,000 full-text documents and 75,000 new submissions each year. It serves approximately 1 million full-text downloads to around 400,000 individual users each week: http://www.nature.com/nature/journal/v476/n7359/full/476145a.html
+[fn:8] http://citeseerx.ist.psu.edu/
+[fn:9] CiteSeer contains more than 750,000 documents and fulfils 1.5 million viewing requests per day. arXiv contains nearly 700,000 documents and sees over a million visits per day.
+[fn:10] http://www.ncbi.nlm.nih.gov/pmc/ There are also national versions of PubMed Central (such as UK PubMed Central: http://ukpmc.ac.uk/)
+[fn:11] http://repec.org/
+[fn:12] Web of Knowledge Journal Citation Reports: http://wokinfo.com/products_tools/analytical/jcr/
+[fn:13] OASIS (Open Access Scholarly Information Sourcebook): University presses and Open Access Publishing: http://www.openoasis.org/index.php?option=com_content&view=article&id=557&Itemid=385
+[fn:14] OAPEN (Open Access publishing in European Networks): http://www.oapen.org/home
+[fn:15] For example, Bloomsbury Academic: http://www.bloomsburyacademic.com/
+[fn:16] http://www.soros.org/openaccess
+[fn:17] From "Overview of Open Access (2010) by Peter Suber. See bibliography for full reference.
+[fn:18] For an overview of open computation, see Lynch (2006): full reference in the bibliography.
+[fn:19] For an explanation of the technologies, see Rodriguez-Esteban (2009): full reference in the bibliography.
+[fn:20] For an example of how the technologies work, the UK's National Centre for Text Mining (NaCTeM) and the European Bioinformatics Institute are collaborating with UK PubMed Central on text-mining the biomedical literature: http://www.nactem.ac.uk/ukpmc/
+[fn:21] http://www.earlham.edu/~peters/fos/bethesda.htm
+[fn:23] Anecdotally, most cheerfully agree that reputational capital far outweighs financial reward as the main hoped-for benefit from publishing their work in book form.
+[fn:24] 1st International Strategy Meeting on Human Genome Sequencing: This included a principle that no-one would claim intellectual property rights over genome data and that data would be made publicly-available within 24 hours of being produced: http://www.ornl.gov/sci/techresources/Human_Genome/research/bermuda.shtml#1
+[fn:22] http://oa.mpg.de/lang/en-uk/berlin-prozess/berliner-erklarung/
+[fn:25] For example, see the databases maintained by the National Centre for Biotechnology Information: http://www.ncbi.nlm.nih.gov/ and the European Bioinformatics Institute: http://www.ebi.ac.uk/
+[fn:26] As an example, see the Natural Environment Research Council's data centre network in the UK: http://www.nerc.ac.uk/research/sites/data/
+[fn:27] The journal Nature, for example, has a clause in its conditions of publishing that stipulates that authors must make supporting data available for others to see and use.
+[fn:28] See: Ruusalepp (2008), Brown & Swan (2009) and Swan & Brown (2008): full references in the bibliography.
+[fn:29] http://pantonprinciples.org/
+[fn:30] See the new principles on open metadata promoted by the Joint Information Systems Committee in the UK: http://www.jisc.ac.uk/news/stories/2011/07/openmetadata.aspx and the Open Knowledge Foundation's Working Group on Open Bibliographic Data http://wiki.okfn.org/Wg/bibliography
