@@ -1,4 +1,4 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [37%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [43%]
 by Alma Swan
 
 :                             UNESCO
@@ -687,7 +687,7 @@ Importantly, there is interdependency between these things. Opening up teaching 
 
 Open Knowledge is perhaps the best term of all to use to indicate the scope of what is trying to be achieved. Open Knowledge is any kind of information -- sonnets to statistics, genes to geodata -- that can be freely used, reused, and redistributed[fn:67]. It is the sum of intellectual endeavour -- research, teaching, creating, innovating -- made open. Open Access is a crucial piece of this jigsaw.
 
-**** TODO Summary points on the importance of Open Access
+**** DONE Summary points on the importance of Open Access
 
 + There is a problem of accessibility to scientific information everywhere.
 
@@ -751,435 +751,158 @@ Third, some recent work studying the access needs and problems of R&D-based SMEs
 
 + Open Access allows the professional, practitioner and business communities, and the interested public, to benefit from research.
 
-** TODO Section 5. Business models
+** DONE Section 5. Business models [100%]
+*** DONE 5.1 The context: traditional business models in scientific communication
 
+Traditionally, and because scientific communication was carried out through print-on-paper methods which carried a cost for every copy produced, access to scientific information was achieved through subscriptions for journals (whereby libraries and other subscribers paid a fee -- usually on an annual basis -- to receive the journal issues throughout the year as they were published, and through a one-off cash transaction for books.
 
+Inherent in that system was the problem that access was only for those who could afford it, but, until the second half of the twentieth century, at least prices were not considered to be excessive. In the last few decades, however, journal prices have spiralled, increasing by many times the rate of inflation and other price indices. The upshot initially was that libraries struggled to maintain journal subscriptions, generally by plundering the budget for buying books. Book sales suffered as a result[fn:75]. The humanities have paid the price for the rocketing prices of journals in the sciences. But the book budget could not forever be plundered and journal subscriptions eventually began to fall when libraries could no longer keep up with the annual price rises[fn:76].
 
+Towards the end of the 20th century, a new model was offered by larger publishers with sizeable journal lists, the so-called Big Deal. Under this model, libraries purchased access to all the journals in a publisher's list -- a bundled deal -- for 2-, 3- or 5-year periods. Libraries were thus able to offer their patrons access to far more material from a single publisher than hitherto, but the cost was also much greater than buying individual subscriptions to selected journals. The Big Deal has persisted successfully for more than a decade but is now starting to suffer as library budgets are once again under severe pressure.
 
-                             5.1 The context: traditional                                                        than a decade but is now starting to suffer as library
-                                                                                                                 budgets are once again under severe pressure.
-                                 business models in scientific
-                                 communication                                                                   Against this background, in the interests of science and
-                                                                                                                 scientists, began the move to open up the scientific
-                             Traditionally, and because scientific communication                                 literature.
-                             was carried out through print-on-paper methods which
-                             carried a cost for every copy produced, access to scientific
-                             information was achieved through subscriptions for
-                             journals (whereby libraries and other subscribers paid a fee                        5.2 New business models in
-                             -- usually on an annual basis -- to receive the journal issues                            scientific communication
-                             throughout the year as they were published, and through
-                             a one-off cash transaction for books.                                               Having largely relinquished academic publishing activities
-                                                                                                                 to large commercial publishers (this category includes
-                             Inherent in that system was the problem that access
-                                                                                                                 some learned society publishers) over the past 50 years,
-                             was only for those who could afford it, but, until the
-                                                                                                                 the research community is taking the activity back under
-                             second half of the twentieth century, at least prices were
-                                                                                                                 its control in some areas. Three types of institutional player
-                             not considered to be excessive. In the last few decades,
-                                                                                                                 are engaged in this effort -- the library, the university
-                             however, journal prices have spiralled, increasing by many
-                                                                                                                 press (if there is one), and individual scientists or groups
-                             times the rate of inflation and other price indices. The
-                                                                                                                 of scientists. In addition to this institution-level approach,
-                             upshot initially was that libraries struggled to maintain
-                                                                                                                 new players are entering the commercial publishing scene
-                             journal subscriptions, generally by plundering the budget
-                                                                                                                 with new business models aimed at offering Open Access
-                             for buying books. Book sales suffered as a result75. The
-                                                                                                                 to their products.
-                             humanities have paid the price for the rocketing prices of
-                             journals in the sciences. But the book budget could not                             Where operations are not cash-centred, such as in the
-                             forever be plundered and journal subscriptions eventually                           case of repositories and some Open Access journals, a
-                             began to fall when libraries could no longer keep up with                           range of new business models has developed, some of
-                             the annual price rises76.                                                           them commonly used by Web-based businesses in other
-                                                                                                                 sectors77. In brief, these are:
-                             Towards the end of the 20th century, a new model was
-                             offered by larger publishers with sizeable journal lists, the                       + Institutional model: the operation is supported by the
-                             so-called Big Deal. Under this model, libraries purchased                             institution
-                             access to all the journals in a publisher's list -- a bundled
-                                                                                                                 + Community model: the operation is supported by the
-                             deal -- for 2-, 3- or 5-year periods. Libraries were thus able
-                                                                                                                   community by cash donations or in-kind support
-                             to offer their patrons access to far more material from a
-                             single publisher than hitherto, but the cost was also much                          + Public sponsors model: the operation is supported
-                             greater than buying individual subscriptions to selected                              by ongoing sponsorship from a public body such as a
-                             journals. The Big Deal has persisted successfully for more                            national ICT organisation
+Against this background, in the interests of science and scientists, began the move to open up the scientific literature.
 
+*** DONE 5.2 New business models in scientific communication [100%]
 
+Having largely relinquished academic publishing activities to large commercial publishers (this category includes some learned society publishers) over the past 50 years, the research community is taking the activity back under its control in some areas. Three types of institutional player are engaged in this effort -- the library, the university press (if there is one), and individual scientists or groups of scientists. In addition to this institution-level approach, new players are entering the commercial publishing scene with new business models aimed at offering Open Access to their products.
 
-                             75   In the 1970s a typical academic book would expect sales of around 1500
-                                  copies; now typical print runs are between 200 and 500 copies.
-                             76 This has been dubbed the "serials crisis". See a full account in Young (2009),   77 Described in more detail in A DRIVER's Guide to Institutional Repositories
-                                listed in the bibliography.                                                         (2007). See full reference under Swan (2007) in the bibliography.
+Where operations are not cash-centred, such as in the case of repositories and some Open Access journals, a range of new business models has developed, some of them commonly used by Web-based businesses in other sectors[fn:77]. In brief, these are:
 
+  + Institutional model: the operation is supported by the institution.
 
+  + Community model: the operation is supported by the community by cash donations or in-kind support.
 
-30
-+ Subscription model: the operation trades, and is              position of commitment to the knowledge commons and
-  supported through subscription payments from its              to sharing the outcomes of publicly-funded work.
-  users
-                                                                Business models for repositories are either institutional
-+ Commercial model: the organisation trades, and is             -- that is, the individual institution finances and supports
-  supported through cash payments from users and/or             the repository because the repository returns value to the
-  advertising                                                   institution in terms of impact and reputation -- or they are
+  + Public sponsors model: the operation is supported by ongoing sponsorship from a public body such as a national ICT organisation.
 
+  + Subscription model: the operation trades, and is supported through subscription payments from its users.
 
+  + Commercial model: the organisation trades, and is supported through cash payments from users and/or advertising.
 
+**** DONE 5.2.1 Repositories
 
-                                                                                                                                                    Section 5. Business models
-                                                                public sponsorship or community models.
+Repositories sell nothing, at least for cash, but they return value in other ways to the institution or community that supports them. The business case for repositories is usually made around maximising visibility and impact and optimising research monitoring and management. Where an institutional repository is concerned, the business case may also be anchored in the imperative to properly preserve information and to improve teaching. And where a repository also covers educational materials, there is the additional agenda of supporting learning. The overall case can be summarised as a set of purposes:
 
-       5.2.1      Repositories                                  An example of public sponsorship is the CLACSO (Latin
-                                                                America Social Science Council) regional repository for
-Repositories sell nothing, at least for cash, but they return   social science research in Latin America78, which has been
-value in other ways to the institution or community             supported over a decade by development funds from
-that supports them. The business case for repositories is       Sweden (SIDA79), Norway (NORAD80), Canada (IDRC81) and
-usually made around maximising visibility and impact and        the UK (INASP82).
-optimising research monitoring and management. Where
-an institutional repository is concerned, the business
-case may also be anchored in the imperative to properly
-                                                                          5.2.2          Repository services
-preserve information and to improve teaching. And where
-                                                                Repository services are one of the main keys to success
-a repository also covers educational materials, there is the
-                                                                for repositories. Useful, popular services can really boost
-additional agenda of supporting learning. The overall case
-                                                                the use of repositories, both by information creators and
-can be summarised as a set of purposes:
-                                                                information seekers.
-+ To open up and offer the outputs of the institution or
-                                                                Examples of services that can be provided are usage
-  community to the world
-                                                                statistics, impact (citation) statistics, policy advice, CV
-+ To impact on and influence developments by                    generation, search-and-retrieve, rankings, and journal/
-  maximising the visibility of outputs and providing the        book publishing (from the repository).
-  greatest possible chance of enhanced impact as a
-                                                                Business models vary, though most are based on a free-
-  result
-                                                                to-use sponsored83 or community-developed84 model.
-+ To showcase and sell the institution to interested            There is concern that some or most of these may not be
-  constituencies -- prospective staff, prospective               sustainable in the long term, and considerable thought is
-  students and other stakeholders                               now going into how to secure that sustainability for the
-                                                                most-used services. Community financial support has
-+ To collect and curate digital outputs (or inputs, in the
-                                                                been shown to be forthcoming for some Open Access
-  case of special collections)
-                                                                services85 and this may be one way forward.
-+ To manage and measure research and teaching
-  activities
+  + To open up and offer the outputs of the institution or community to the world.
 
-+ To provide and promote a workspace for work-in-
-  progress, and for collaborative or large-scale projects       78 http://www.clacso.edu.ar
-                                                                79 Swedish International Development Cooperation Agency: http://www.sida.
-                                                                   se/English/
-+ To facilitate and further the development and
-                                                                80 Norwegian Agency for Development Cooperation: http://www.norad.no/
-  sharing of digital teaching materials and aids                   en/
-                                                                81 International Development Research Center: http://www.idrc.ca/EN/Pages/
-+ To support and sustain student endeavours,                       default.aspx
-                                                                82 International Network for the Availability of Scientific Publications: http://
-  including providing access to theses and dissertations           www.inasp.info/
-  and providing a location for the development of               83 For example, the SHERPA RoMEO service that provides information on
-                                                                   publisher policies with respect to self-archiving in repositories, funded
-  e-portfolios                                                     over a long period by the UK's Joint Information Systems Committee (JISC):
-                                                                   http://www.sherpa.ac.uk/romeo/
-The value proposition, which is that each repository will       84 For example, the community-created Open Access Repositories news list:
-                                                                   http://www.connotea.org/tag/oa.repositories?start=10
-make available free of charge to all the results of the
-                                                                85 For example, the arXiv, supported by donations from research institutions
-research effort of the community it represents, is made            http://arxiv.org/help/support/arxiv_busplan_Apr2011 and the Stanford
-                                                                   Encyclopaedia of Philosophy, an Open Access resource compiled and kept
-by repositories to the wider research community from a             up to date by experts in the community and sustained by donations from
-                                                                   foundations and research institutions: http://plato.stanford.edu/
+  + To impact on and influence developments by maximising the visibility of outputs and providing the greatest possible chance of enhanced impact as a result.
 
+  + To showcase and sell the institution to interested constituencies -- prospective staff, prospective students and other stakeholders.
 
+  + To collect and curate digital outputs (or inputs, in the case of special collections).
 
-                                                                                                                                                    31
-                                      5.2.3         Open Access journals                                    pay a lump sum in advance to cover the cost of articles
-                                                                                                            that their authors will publish in the forthcoming year;
-                             Open Access journals use a variety of business models.                         schemes where institutions are invoiced at regular
-                             The lower the cost base, the easier it is to develop a way                     intervals in arrears for articles published in the preceding
-                             of doing business that is sustainable, so smaller publishers                   period; flat rate annual payments based on researcher (or
-                             and society publishers that do not have a strong                               student) numbers at the institution89.
-                             imperative to maximise shareholder value find it is easier
-Section 5. Business models
+  + To manage and measure research and teaching activities.
 
+  + To provide and promote a workspace for work-in-progress, and for collaborative or large-scale projects.
 
+  + To facilitate and further the development and sharing of digital teaching materials and aids.
 
+  + To support and sustain student endeavours, including providing access to theses and dissertations and providing a location for the development of e-portfolios.
 
-                             to switch to an Open Access model than large commercial                                           5.2.3.3        Community publishing
-                             publishers. The main types of business model for Open
-                                                                                                            Relatively common for journals in the humanities, this is a
-                             Access journals are as follows.
-                                                                                                            model under which journals are produced entirely within
-                                                                                                            the academy as a result of voluntary efforts by researchers
-                                               5.2.3.1       Article-processing charges
-                                                                                                            who provide editing, peer review and production services.
-                             Many Open Access journals levy a charge at the "front end"                     They are published online for free (Open Access) and
-                             of the publishing process. This article-processing charge                      in addition they are sometimes sold on subscription
-                             (APC) is paid by authors, their institutions or their research                 in print. There is a huge number of new Open Access
-                             funders (though most bona fide Open Access journals                            publishing ventures of this type, many of them spurred
-                             will waive this in case of genuine hardship and some do                        by community electronic publishing platforms90 or open
-                             so as a matter of routine for authors from developing                          source, easy-to-use technology for publishing Open
-                             countries). Journals that levy an APC, though, remain in                       Access journals, conference proceedings and books91.
-                             the minority86.
-                                                                                                                               5.2.3.4        Journals supported by
-                             Where a charge is levied, it is paid usually from the author's                                                   advertising or sponsorship
-                             research grant or from an institutional fund specifically
-                             established for this purpose. Some research funders have                       Public sponsorship is seen in Latin America, where
-                             explicitly committed to providing funds specifically for the                   regional and national research journals are largely
-                             payment of APCs. In other cases, funders have said that                        subsidised by state funds that cover research92.
-                             research grants money may be allocated to publishing
-                                                                                                            If the basic business model is a community one (section
-                             costs at the grant-holder's discretion87. A number of
-                                                                                                            5.2.3.3), advertising can help to defray any unavoidable
-                             institutions have also established a fund to pay APCs88.
-                                                                                                            overheads expenses (such as communications costs).
-                             Each institution has its own policy on how authors may
-                                                                                                            Advertising sales can help to support Open Access, and
-                             access this fund. The long-term outcomes -- that is, the
-                                                                                                            although the great majority of journals cannot hope
-                             long-term sustainability -- of such initiatives are as yet
-                                                                                                            to attract sufficient advertising revenue to support an
-                             unclear.
-                                                                                                            operation with substantial overhead costs, advertising can
-                                                                                                            be a partial solution. An example of a prestigious journal
-                                               5.2.3.2       Institutional membership                       that makes its research content Open Access online
-                                                             schemes
-                                                                                                            helped by an advertising revenue stream is the British
-                             Some Open Access publishers have also introduced                               Medical Journal93.
-                             an institutional membership scheme. Details vary from
-                             publisher to publisher and though not suitable for very
-                             small publishers, larger ones have found some purchase                         89 See, for example, the schemes offered by BioMed Central http://www.
-                                                                                                               biomedcentral.com/info/about/membership and Hindawi Publishing
-                             in this approach. A number of variants have been                                  Corporation http://www.hindawi.com/memberships/
-                             introduced so far, including: schemes where institutions                       90 For example, SciELO: www.scielo.br and Bioline International: http://www.
-                                                                                                               bioline.org.br/
-                                                                                                            91 For example, the Public Knowledge Project's open source software suite:
-                                                                                                               Open Journal Systems http://pkp.sfu.ca/?q=ojs, Open Conference Systems
-                             86 Various studies have shown that 53% (http://www.alpsp.org/ngen_public/         http://pkp.sfu.ca/?q=ocs and, in development, Open Monograph Press
-                                article.asp?id=200&did=47&aid=270&st=&oaid=-1) and 67% (http://www.            (expected launch date September 2011) http://pkp.sfu.ca/omp
-                                sennoma.net/main/archives/2007/12/if_it_wont_sink_in_maybe_we_              92 For example, the SciELO Open Access journal collection (Scientific
-                                ca.php) of Open Access journals charge no fees, and that 83% of Open           Electronic Library Online www.scielo.br) is supported by the Foundation
-                                Access journals published by learned society publishers make no APC fee        for Research Support of the State of Sao Paolo (FAPESP), the National
-                                http://www.earlham.edu/~peters/fos/newsletter/11-02-07.htm#list.               Council of Scientific and Technological Development (CNPq) and the Latin
-                             87 BioMed Central, a large Open Access publisher, maintains a list of             American and Caribbean Center on Health Sciences Information.
-                                foundations that support Open Access publishing by having some              93 This title earns income from selling advertising (it is a prime vehicle for
-                                mechanism for allowing payment of APCs from funder grants: http://www.         job advertisements in the UK medical arena) and subscriptions to libraries
-                                biomedcentral.com/info/about/apcfaq#grants                                     and the revenue enables it to offer its research content free online without
-                             88 For example, the University of Nottingham, UK: http://eprints.nottingham.      any author or reader charges: https://mx2.arl.org/Lists/SPARC-OAForum/
-                                ac.uk/UniversityOpenAccessPublicationFund.pdf                                  Message/4634.html
+The value proposition, which is that each repository will make available free of charge to all the results of the research effort of the community it represents, is made by repositories to the wider research community from a position of commitment to the knowledge commons and to sharing the outcomes of publicly-funded work.
 
+Business models for repositories are either institutional -- that is, the individual institution finances and supports the repository because the repository returns value to the institution in terms of impact and reputation -- or they are public sponsorship or community models.
 
+An example of public sponsorship is the CLACSO (Latin America Social Science Council) regional repository for social science research in Latin America[fn:78], which has been supported over a decade by development funds from Sweden (SIDA[fn:79]), Norway (NORAD[fn:80]), Canada (IDRC[fn:81]) and the UK (INASP[fn:82]).
 
-32
-                  5.2.3.5      Institutional subsidy                      in the planning at the moment, the SCOAP3 (Sponsoring
-                                                                          Consortium for Open Access Publishing in Particle
-Institutions formally subsidise journal publishing wherever
-                                                                          Physics)96 initiative in high-energy physics. The SCOAP3
-they are supporting, even if it is by subventing overhead
-                                                                          initiative has brought together a collection of institutions,
-costs, Open Access journal publishing operations by
-                                                                          research laboratories and scholarly societies that, together
-a university press or by the library. As well as these,
-                                                                          with national research funders, will pay certain sums to
-universities often informally support community
-                                                                          the publishers of journals in high-energy physics in return
+**** DONE 5.2.2 Repository services
 
+Repository services are one of the main keys to success for repositories. Useful, popular services can really boost the use of repositories, both by information creators and information seekers.
 
+Examples of services that can be provided are usage statistics, impact (citation) statistics, policy advice, CV generation, search-and-retrieve, rankings, and journal/book publishing (from the repository).
 
+Business models vary, though most are based on a free-to-use sponsored[fn:83] or community-developed[fn:84] model. There is concern that some or most of these may not be sustainable in the long term, and considerable thought is now going into how to secure that sustainability for the most-used services. Community financial support has been shown to be forthcoming for some Open Access services[fn:85] and this may be one way forward.
 
-                                                                                                                                                             Section 5. Business models
-publishing ventures (section 5.2.3.3) by providing space,
-                                                                          for making the entire contents of those journals Open
-heat, light and telecoms services.
-                                                                          Access. The project is now preparing its tendering exercise.
-Although the sustainability of this model may                             High-energy physics is a discrete field served by a very
-seem unclear at this stage, the model is likely to                        small number of journals and is mainly concentrated in a
-grow in importance as shifts occur in scholarly                           small number of large research centres, which makes this
-communication and researchers take a greater control                      approach potentially viable. Its potential to scale to other
-over the communication process. There is increasing                       fields and disciplines, however, would seem low.
-acknowledgment by research institutions and funders
-that the communication of research should be considered
-                                                                                   5.2.4           "Hybrid" Open Access
-part of the research process, with the concomitant tacit
-(and occasionally explicit94) acknowledgment that the
-                                                                          "Hybrid" Open Access is the situation where article-
-costs will need to be directly borne by the producers of
-                                                                          processing charges are paid to make individual articles
-research rather than the consumers. Of course, in some
-                                                                          Open Access within otherwise subscription-based
-cases these two entities are the same, though in general
-                                                                          journals. Publishers list this option in order to be able
-there is not a direct relationship between research
-                                                                          to say they offer authors a route to Open Access if they
-intensiveness (of institutions or nations) and expenditure
-                                                                          wish to take it up. In some cases, publishers reduce
-on communication: research institutions in less research-
-                                                                          their subscription prices as revenue from the Open
-intensive countries, for example, still need to buy access
-                                                                          Access option rises but in most cases this does not
-to research information and the cost is disproportionate in
-                                                                          happen and publishers benefit from the Open Access
-relation to their research programmes.
-                                                                          article-processing fee as extra income. Funders97 and
-                                                                          institutions98 can be loathe to pay APCs to publishers who
-                  5.2.3.6      Hard copy sales                            engage in this practice, commonly referred to as "double
-Some journals support their Open Access publishing                        dipping".
-model wholly or partly by sales of the print version. Where
-this subscription income covers costs, journals have no
-                                                                                   5.2.5          Open Access books
-need to levy an article-processing charge (APC) at the
-front end of the publishing process.
-                                                                          Increasingly, experiments are being carried out to
-MedKnow, a Mumbai-based medical publisher, has                            find viable and sustainable models for Open Access
-adopted this model very successfully. All the contents                    book publishing. Initiatives have come from university
-are freely accessible online and subscriptions are sold to                presses, libraries99 and even commercial publishers. The
-libraries around the world for the hard copy version. Since               development of new technologies and platforms for
-adopting this Open Access model, Medknow has seen                         book production in an Open Access environment has
-sales, submissions and impact all rise95.                                 progressed over recent years. To cite just two examples,
-                                                                          there is open source software now available specifically for
-                  5.2.3.7      Collaborative purchasing                   Open Access book production100; and a new cooperative
-                               models                                     publishing platform for university presses and other
-                                                                          small publishers enables them to take advantage of a
-It is also possible for a specific community to act in a
-coordinated fashion to provide Open Access for that                       96 http://scoap3.org/
-                                                                          97 Wellcome Trust calls for greater transparency on journal Open Access
-specific field. There is just one example of such a model                    publishing costs: http://www.wellcome.ac.uk/News/Media-office/Press-
-                                                                             releases/2009/WTX057058.htm
+**** DONE 5.2.3 Open Access journals [100%]
 
-94 The Wellcome Trust, for example, provides money to cover Open Access   98 http://tillje.wordpress.com/2009/12/14/policies-of-oa-journal-funds-about-
-   journal article-processing fees: http://www.wellcome.ac.uk/about-us/      hybrid-oa/
-   policy/spotlight-issues/Open-access/Guides/wtx036803.htm               99 Sometimes referred to as "librishers", having taken on a publishing role. see
-95 See case study on Medknow: http://www.openoasis.org/index.                Adema and Schmidt 2010) in the bibliography.
-   php?option=com_content&view=article&id=553&Itemid=378                  100 For example, Open Monograph Press: http://pkp.sfu.ca/omp
+Open Access journals use a variety of business models. The lower the cost base, the easier it is to develop a way of doing business that is sustainable, so smaller publishers and society publishers that do not have a strong imperative to maximise shareholder value find it is easier to switch to an Open Access model than large commercial publishers. The main types of business model for Open Access journals are as follows.
 
+***** DONE 5.2.3.1 Article-processing charges
 
+Many Open Access journals levy a charge at the "front end" of the publishing process. This article-processing charge (APC) is paid by authors, their institutions or their research funders (though most bona fide Open Access journals will waive this in case of genuine hardship and some do so as a matter of routine for authors from developing countries). Journals that levy an APC, though, remain in the minority[fn:86].
 
-                                                                                                                                                             33
-                             full set of publishing services in return for a fee, leaving                      be shared, cutting overheads for each participating
-                             them to concentrate on commissioning and editorial                                publisher103.
-                             work101 as their core activities. In all, there is a great deal of
-                             development and activity in this area102.                                                         5.2.5.4         Other possible models
+Where a charge is levied, it is paid usually from the author's research grant or from an institutional fund specifically established for this purpose. Some research funders have explicitly committed to providing funds specifically for the payment of APCs. In other cases, funders have said that research grants money may be allocated to publishing costs at the grant-holder's discretion[fn:87]. A number of institutions have also established a fund to pay APCs[fn:88].
 
-                             The main business models are listed below.                                        Books offer scope for other innovative pricing and
-                                                                                                               business models. For example, the notion of a book can
-Section 5. Business models
+Each institution has its own policy on how authors may access this fund. The long-term outcomes -- that is, the long-term sustainability -- of such initiatives are as yet unclear.
 
+***** DONE 5.2.3.2 Institutional membership schemes
 
+Some Open Access publishers have also introduced an institutional membership scheme. Details vary from publisher to publisher and though not suitable for very small publishers, larger ones have found some purchase in this approach. A number of variants have been introduced so far, including: schemes where institutions pay a lump sum in advance to cover the cost of articles that their authors will publish in the forthcoming year; schemes where institutions are invoiced at regular intervals in arrears for articles published in the preceding period; flat rate annual payments based on researcher (or student) numbers at the institution[fn:89].
 
+***** DONE 5.2.3.3 Community publishing
 
-                                                5.2.5.1        Subsidy                                         be deconstructed so that there is a basic product -- the
-                                                                                                               text -- plus various levels of added value. Examples could
-                             This is a model used by some university presses whose
-                                                                                                               be extensive hyper-linking, additional graphics, linked
-                             parent institution recognises the value of dissemination
-                                                                                                               datasets, teaching aids, translations and so forth, with
-                             of research outputs (books) even though there is a cost
-                                                                                                               buyers opting to pay extra for whichever extras they want.
-                             to the institution in doing this. The trend now is for
-                                                                                                               This model will be used by the World Bank as it moves
-                             universities to acknowledge that the role of the press is
-                                                                                                               from a sales-based book publisher to an Open Access
-                             to support the overall mission of the parent institution
-                                                                                                               book publisher over the next twelve months.
-                             by returning value in terms of impact and prestige rather
-                             than by striving for profit per se. Reputational capital is
-                             as valuable to a university as cash and a press can play a
-                             major role in maximising that. In many cases there may                            5.3 Open data
-                             not be a cash return to the university at any meaningful
-                             level, but subvention has traditionally played a part in                          Where there is organised infrastructure to support Open
-                             academic publishing and can now be viewed with even                               Data the business model is one based on sponsorship by
-                             greater confidence as investment in the reputation and                            public bodies (such as the data services operated by the
-                             brand of the institution.                                                         National Centre for Biotechnology Information and the
-                             Some scholarly societies may also work in this way if the                         UK Research Councils" data centres) or are community-
-                             society is large enough to be able to support some of the                         supported (such as the data services run by the European
-                             costs of dissemination.                                                           Bioinformatics Institute).
+Relatively common for journals in the humanities, this is a model under which journals are produced entirely within the academy as a result of voluntary efforts by researchers who provide editing, peer review and production services. They are published online for free (Open Access) and in addition they are sometimes sold on subscription in print. There is a huge number of new Open Access publishing ventures of this type, many of them spurred by community electronic publishing platforms[fn:90] or open source, easy-to-use technology for publishing Open Access journals, conference proceedings and books[fn:91].
 
-                                                                                                               Institutions may establish dedicated data repositories,
-                                                5.2.5.2        Sponsorship                                     though this is a relatively new development and only a
-                                                                                                               few institutions have moved in this direction so far. More
-                             Though rare, it may sometimes be possible to find
-                                                                                                               commonly, data are deposited and stored in the general
-                             sponsorship for the occasional volume where a sponsor
-                                                                                                               institutional repository, so their curation and preservation
-                             wishes to support the publication for philanthropic
-                                                                                                               are supported by the institution.
-                             reasons or to increase the reach of a particular message.
-                                                                                                               Research groups may post datasets on their research
-                                                5.2.5.3        Hard copy sales                                 websites: in these cases the model is still institutional.
+***** DONE 5.2.3.4 Journals supported by advertising or sponsorship
 
-                             This is the model most commonly in use at the moment.
-                             University presses tend to use this model and there is at
-                             least one example of a commercial publisher that has                              5.4 System costs
-                             employed it, too. Publishers make the digital version of
-                             their books Open Access online and earn revenue from
-                                                                                                               A number of studies have been carried out over the past
-                             print sales. Modern print-on-demand (POD) technology
-                                                                                                               5 years that have examined the costs and benefits of
-                             means that fixed-length print runs are no longer
-                                                                                                               traditional and new forms of scholarly communication.
-                             necessary and there are no inventory (warehousing) and
-                                                                                                               These economic studies have all indicated that moving to
-                             remaindering costs. Sales of the hard copy support the
-                                                                                                               an Open Access literature, whatever the business model,
-                             cost of a book's production and editing. In at least one
-                                                                                                               would be cheaper overall due to efficiency gains and
-                             case a collaborative publishing platform and digital library
-                                                                                                               lower operational costs in research institutions, and would
-                             (i.e. the delivery and marketing tool) has been developed
-                                                                                                               have a societal benefit.
-                             for use by multiple publishers, so that these costs can
+Public sponsorship is seen in Latin America, where regional and national research journals are largely subsidised by state funds that cover research[fn:92].
 
+If the basic business model is a community one (section 5.2.3.3), advertising can help to defray any unavoidable overheads expenses (such as communications costs). Advertising sales can help to support Open Access, and although the great majority of journals cannot hope to attract sufficient advertising revenue to support an operation with substantial overhead costs, advertising can be a partial solution. An example of a prestigious journal that makes its research content Open Access online helped by an advertising revenue stream is the British Medical Journal[fn:93].
 
-                             101 Developed and offered by OAPEN: http://project.oapen.org/
-                             102 .See Adema and Schmidt 2010): reference listed in full in the bibliography.   103 http://www.oapen.org/home
+***** DONE 5.2.3.5 Institutional subsidy
 
+Institutions formally subsidise journal publishing wherever they are supporting, even if it is by subventing overhead costs, Open Access journal publishing operations by a university press or by the library. As well as these, universities often informally support community publishing ventures (section 5.2.3.3) by providing space, heat, light and telecoms services.
 
+Although the sustainability of this model may seem unclear at this stage, the model is likely to grow in importance as shifts occur in scholarly communication and researchers take a greater control over the communication process. There is increasing acknowledgment by research institutions and funders that the communication of research should be considered part of the research process, with the concomitant tacit (and occasionally explicit[fn:94]) acknowledgment that the costs will need to be directly borne by the producers of research rather than the consumers. Of course, in some cases these two entities are the same, though in general there is not a direct relationship between research intensiveness (of institutions or nations) and expenditure on communication: research institutions in less research-intensive countries, for example, still need to buy access to research information and the cost is disproportionate in relation to their research programmes.
 
-34
-The studies were done for Australia, the UK, Denmark,
-The Netherlands, and the US104. In all cases, substantial
-economic savings were shown to be achievable, whether
-through Open Access journal publishing or through using
-the network of institutional repositories to disseminate
-knowledge105. The move to Open Access will therefore
-not only be more effective for communicating scientific
+***** DONE 5.2.3.6 Hard copy sales
 
+Some journals support their Open Access publishing model wholly or partly by sales of the print version. Where this subscription income covers costs, journals have no need to levy an article-processing charge (APC) at the front end of the publishing process.
 
+MedKnow, a Mumbai-based medical publisher, has adopted this model very successfully. All the contents are freely accessible online and subscriptions are sold to libraries around the world for the hard copy version. Since adopting this Open Access model, Medknow has seen sales, submissions and impact all rise[fn:95].
 
+***** DONE 5.2.3.7 Collaborative purchasing models
 
-                                                                                  Section 5. Business models
-knowledge, but will not require more money to be
-pumped into the dissemination system: indeed, there will
-be savings to be made.
+It is also possible for a specific community to act in a coordinated fashion to provide Open Access for that specific field. There is just one example of such a model in the planning at the moment, the SCOAP3 (Sponsoring Consortium for Open Access Publishing in Particle Physics)[fn:96] initiative in high-energy physics. The SCOAP3 initiative has brought together a collection of institutions, research laboratories and scholarly societies that, together with national research funders, will pay certain sums to the publishers of journals in high-energy physics in return for making the entire contents of those journals Open Access. The project is now preparing its tendering exercise. High-energy physics is a discrete field served by a very small number of journals and is mainly concentrated in a small number of large research centres, which makes this approach potentially viable. Its potential to scale to other fields and disciplines, however, would seem low.
 
+**** DONE 5.2.4 "Hybrid" Open Access
 
-   Summary points on business models for Open
-   Access
-   + New business models are being developed to service the "open"
-     agenda
+"Hybrid" Open Access is the situation where article-processing charges are paid to make individual articles Open Access within otherwise subscription-based journals. Publishers list this option in order to be able to say they offer authors a route to Open Access if they wish to take it up. In some cases, publishers reduce their subscription prices as revenue from the Open Access option rises but in most cases this does not happen and publishers benefit from the Open Access article-processing fee as extra income. Funders[fn:97] and institutions[fn:98] can be loathe to pay APCs to publishers who engage in this practice, commonly referred to as "double dipping".
 
-   + New business models are being developed and tried for Open
-     Access journals, books, repositories, repository services and data
+**** DONE 5.2.5 Open Access books [100%]
 
-   + These new business models will not require more money to be
-     found for scientific communication
+Increasingly, experiments are being carried out to find viable and sustainable models for Open Access book publishing. Initiatives have come from university presses, libraries[fn:99] and even commercial publishers. The development of new technologies and platforms for book production in an Open Access environment has progressed over recent years. To cite just two examples, there is open source software now available specifically for Open Access book production[fn:100]; and a new cooperative publishing platform for university presses and other small publishers enables them to take advantage of a full set of publishing services in return for a fee, leaving them to concentrate on commissioning and editorial work[fn:101] as their core activities. In all, there is a great deal of development and activity in this area[fn:102].
 
+The main business models are listed below.
 
+***** DONE 5.2.5.1 Subsidy
 
+This is a model used by some university presses whose parent institution recognises the value of dissemination of research outputs (books) even though there is a cost to the institution in doing this. The trend now is for universities to acknowledge that the role of the press is to support the overall mission of the parent institution by returning value in terms of impact and prestige rather than by striving for profit per se. Reputational capital is as valuable to a university as cash and a press can play a major role in maximising that. In many cases there may not be a cash return to the university at any meaningful level, but subvention has traditionally played a part in academic publishing and can now be viewed with even greater confidence as investment in the reputation and brand of the institution.
 
-104 See Houghton et al (2006a), (2006b), (2009a), (2009b), Knowledge Exchange
-    (2009) and CEPA (2011). Full references in the bibliography.
-105 For example, the UK study demonstrated a forty-fold benefit/cost ratio from
-    "green" Open Access and for the US the benefit from Open Access to all
-    research published by the main Federal agencies would be between 4 and
-    25 times the cost.
+Some scholarly societies may also work in this way if the society is large enough to be able to support some of the costs of dissemination.
 
+***** DONE 5.2.5.2 Sponsorship
 
+Though rare, it may sometimes be possible to find sponsorship for the occasional volume where a sponsor wishes to support the publication for philanthropic reasons or to increase the reach of a particular message.
 
-                                                                                  35
+***** DONE 5.2.5.3 Hard copy sales
+
+This is the model most commonly in use at the moment. University presses tend to use this model and there is at least one example of a commercial publisher that has employed it, too. Publishers make the digital version of their books Open Access online and earn revenue from print sales. Modern print-on-demand (POD) technology means that fixed-length print runs are no longer necessary and there are no inventory (warehousing) and remaindering costs. Sales of the hard copy support the cost of a book's production and editing. In at least one case a collaborative publishing platform and digital library (i.e. the delivery and marketing tool) has been developed for use by multiple publishers, so that these costs can be shared, cutting overheads for each participating publisher[fn:103].
+
+***** DONE 5.2.5.4 Other possible models
+
+Books offer scope for other innovative pricing and business models. For example, the notion of a book can be deconstructed so that there is a basic product -- the text -- plus various levels of added value. Examples could be extensive hyper-linking, additional graphics, linked datasets, teaching aids, translations and so forth, with buyers opting to pay extra for whichever extras they want. This model will be used by the World Bank as it moves from a sales-based book publisher to an Open Access book publisher over the next twelve months.
+
+*** DONE 5.3 Open data
+
+Where there is organised infrastructure to support Open Data the business model is one based on sponsorship by public bodies (such as the data services operated by the National Centre for Biotechnology Information and the UK Research Councils" data centres) or are community-supported (such as the data services run by the European Bioinformatics Institute).
+
+Institutions may establish dedicated data repositories, though this is a relatively new development and only a few institutions have moved in this direction so far. More commonly, data are deposited and stored in the general institutional repository, so their curation and preservation are supported by the institution.
+
+Research groups may post datasets on their research websites: in these cases the model is still institutional.
+
+*** DONE 5.4 System costs
+
+A number of studies have been carried out over the past 5 years that have examined the costs and benefits of traditional and new forms of scholarly communication. These economic studies have all indicated that moving to an Open Access literature, whatever the business model, would be cheaper overall due to efficiency gains and lower operational costs in research institutions, and would have a societal benefit.
+
+The studies were done for Australia, the UK, Denmark, The Netherlands, and the US[fn:104]. In all cases, substantial economic savings were shown to be achievable, whether through Open Access journal publishing or through using the network of institutional repositories to disseminate knowledge[fn:105]. The move to Open Access will therefore not only be more effective for communicating scientific knowledge, but will not require more money to be pumped into the dissemination system: indeed, there will be savings to be made.
+
+**** Summary points on business models for Open Access
+
+  + New business models are being developed to service the "open" agenda
+
+  + New business models are being developed and tried for Open Access journals, books, repositories, repository services and data
+
+  + These new business models will not require more money to be found for scientific communication
 
 ** TODO Section 6. Copyright and licensing
 
@@ -3780,3 +3503,34 @@ the accessibility, usage and applications of their findings.
 [fn:72] A summary of studies carried out up to the beginning of 2010 showed that 27 studies demonstrated a citation advantage from Open Access and 4 did not. See Swan (2010) in the Bibliography.
 [fn:73] Parvan, S-V (2007) Statistics in Focus: Science and technology, 81/2007. http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-SF-07-081/EN/KS-SF-07-081-EN.PDF
 [fn:74] See more details in Houghton et al (2011) in the bibliography
+[fn:75] In the 1970s a typical academic book would expect sales of around 1500 copies; now typical print runs are between 200 and 500 copies.
+[fn:76] This has been dubbed the "serials crisis". See a full account in Young (2009), listed in the bibliography.
+[fn:77] Described in more detail in A DRIVER's Guide to Institutional Repositories (2007). See full reference under Swan (2007) in the bibliography.
+[fn:78] http://www.clacso.edu.ar
+[fn:79] Swedish International Development Cooperation Agency: http://www.sida.se/English/
+[fn:80] Norwegian Agency for Development Cooperation: http://www.norad.no/en/
+[fn:81] International Development Research Center: http://www.idrc.ca/EN/Pages/default.aspx
+[fn:82] International Network for the Availability of Scientific Publications: http://www.inasp.info/
+[fn:83] For example, the SHERPA RoMEO service that provides information on publisher policies with respect to self-archiving in repositories, funded over a long period by the UK's Joint Information Systems Committee (JISC): http://www.sherpa.ac.uk/romeo/
+[fn:84] For example, the community-created Open Access Repositories news list: http://www.connotea.org/tag/oa.repositories?start=10
+[fn:85] For example, the arXiv, supported by donations from research institutions http://arxiv.org/help/support/arxiv_busplan_Apr2011 and the Stanford Encyclopaedia of Philosophy, an Open Access resource compiled and kept up to date by experts in the community and sustained by donations from foundations and research institutions: http://plato.stanford.edu/
+[fn:86] Various studies have shown that 53% (http://www.alpsp.org/ngen_public/article.asp?id=200&did=47&aid=270&st=&oaid=-1) and 67% (http://www.sennoma.net/main/archives/2007/12/if_it_wont_sink_in_maybe_we_ca.php) of Open Access journals charge no fees, and that 83% of Open Access journals published by learned society publishers make no APC fee http://www.earlham.edu/~peters/fos/newsletter/11-02-07.htm#list.
+[fn:87] BioMed Central, a large Open Access publisher, maintains a list of foundations that support Open Access publishing by having some mechanism for allowing payment of APCs from funder grants: http://www.biomedcentral.com/info/about/apcfaq#grants
+[fn:88] For example, the University of Nottingham, UK: http://eprints.nottingham.ac.uk/UniversityOpenAccessPublicationFund.pdf
+[fn:89] See, for example, the schemes offered by BioMed Central http://www.biomedcentral.com/info/about/membership and Hindawi Publishing Corporation http://www.hindawi.com/memberships/
+[fn:90] For example, SciELO: www.scielo.br and Bioline International: http://www.bioline.org.br/
+[fn:91] For example, the Public Knowledge Project's open source software suite: Open Journal Systems http://pkp.sfu.ca/?q=ojs, Open Conference Systems http://pkp.sfu.ca/?q=ocs and, in development, Open Monograph Press (expected launch date September 2011) http://pkp.sfu.ca/omp
+[fn:92] For example, the SciELO Open Access journal collection (Scientific Electronic Library Online www.scielo.br) is supported by the Foundation for Research Support of the State of Sao Paolo (FAPESP), the National Council of Scientific and Technological Development (CNPq) and the Latin American and Caribbean Center on Health Sciences Information.
+[fn:93] This title earns income from selling advertising (it is a prime vehicle for job advertisements in the UK medical arena) and subscriptions to libraries and the revenue enables it to offer its research content free online without any author or reader charges: https://mx2.arl.org/Lists/SPARC-OAForum/Message/4634.html
+[fn:94] The Wellcome Trust, for example, provides money to cover Open Access journal article-processing fees: http://www.wellcome.ac.uk/about-us/policy/spotlight-issues/Open-access/Guides/wtx036803.htm
+[fn:95] See case study on Medknow: http://www.openoasis.org/index.php?option=com_content&view=article&id=553&Itemid=378
+[fn:96] http://scoap3.org/
+[fn:97] Wellcome Trust calls for greater transparency on journal Open Access publishing costs: http://www.wellcome.ac.uk/News/Media-office/Press-releases/2009/WTX057058.htm
+[fn:98] http://tillje.wordpress.com/2009/12/14/policies-of-oa-journal-funds-about-hybrid-oa/
+[fn:99] Sometimes referred to as "librishers", having taken on a publishing role. see Adema and Schmidt 2010) in the bibliography.
+[fn:100] For example, Open Monograph Press: http://pkp.sfu.ca/omp
+[fn:101] Developed and offered by OAPEN: http://project.oapen.org/
+[fn:102] .See Adema and Schmidt 2010): reference listed in full in the bibliography.
+[fn:103] http://www.oapen.org/home
+[fn:104] See Houghton et al (2006a), (2006b), (2009a), (2009b), Knowledge Exchange (2009) and CEPA (2011). Full references in the bibliography.
+[fn:105] For example, the UK study demonstrated a forty-fold benefit/cost ratio from "green" Open Access and for the US the benefit from Open Access to all research published by the main Federal agencies would be between 4 and 25 times the cost.
