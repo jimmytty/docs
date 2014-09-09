@@ -1,4 +1,4 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [31%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [37%]
 by Alma Swan
 
 :                             UNESCO
@@ -587,444 +587,169 @@ Although these methods do make papers publicly available, these sites lack the s
 
 + The "green" route, via repositories can capture more material, faster, if the right policies are put in place + "Hybrid" Open Access is offered by many publishers. Predominantly these publishers are "double-dipping".
 
-** TODO Section 3. The importance of Open Access
+** TODO Section 3. The importance of Open Access [60%]
 
+The importance of access to research in the context of building a sustainable global future has been highlighted by UNESCO previously, and data have been produced on the patterns and trends with respect to the generation of, and access to, scientific information[fn:50].
 
+*** DONE 3.1 Access problems
 
+Probably no scientist, wherever they may live and work, would claim that he or she has access to all the information they need. Many studies have shown that this is so even in wealthy research-intensive countries. The Research Information Network (RIN) in the UK, concluded in a meta-report that brought together the findings from five RIN-sponsored studies carried out on discovery and access[fn:51], that "the key finding is that access is still a major concern for researchers".
 
-                                           T
-                                                he importance of access to research in the                               the extent that access is being fulfilled through that Open
-                                                context of building a sustainable global                                 Access route for those who are unable to access the
-                                                future has been highlighted by UNESCO                                    original journal52.
-                                           previously, and data have been produced
-                                                                                                                         We may also assume that journal access problems in the
-                                           on the patterns and trends with respect to
-                                                                                                                         developed world will increase. Library budgets are under
-                                           the generation of, and access to, scientific
-                                                                                                                         pressure, Big Deals (purchase of "bundles" of a publisher's
-                                           information 50.
-                                                                                                                         offerings on 2-, 3- or 5-year deals) are being cancelled53
-                                                                                                                         and society-published journals are feeling the chill wind
-                                                                                                                         of recession in the form of attrition of prestigious but
-                                           3.1 Access problems                                                           unaffordable titles.
+On a global scale, the SOAP study, a large, 3-year, publisher-led, EU-funded project looking at Open Access and publishing, surveyed 40,000 researchers across the world and found that 37% of respondents said they could find all the articles they need "only rarely or with difficulty". This presumably even takes into account the workarounds that researchers use -- emailing authors, asking colleagues in other institutions, or using paid-for access through ILL (inter-library loan) or PPV (pay-per-view) systems.
 
-                                                                                                                         In the developing world, the situation is even more
-                                           Probably no scientist, wherever they may live and                             serious. A World Health Organization survey carried out
-                                           work, would claim that he or she has access to all the                        in the year 2000 found that researchers in developing
-                                           information they need. Many studies have shown that                           countries claim access to subscription-based journals to
-                                           this is so even in wealthy research-intensive countries. The                  be one of their most pressing problems. This survey found
-                                           Research Information Network (RIN) in the UK, concluded                       that in countries where the per capita income is less than
-                                           in a meta-report that brought together the findings from                      USD 1000 per annum, 56% of research institutions had no
-                                           five RIN-sponsored studies carried out on discovery and                       current subscriptions to international journals, nor had for
-                                           access51, that "the key finding is that access is still a major               the previous 5 years (Aronson, 2004).
-                                           concern for researchers".
-                                                                                                                         This problem was already acknowledged and understood,
-                                           On a global scale, the SOAP study, a large, 3-year,                           of course. The World Conference on Science, held in 1999
-                                           publisher-led, EU-funded project looking at Open Access                       under the auspices of UNESCO and the ICSU, declared,
-                                           and publishing, surveyed 40,000 researchers across the                        "Equal access to science is not only a social and ethical
-                                           world and found that 37% of respondents said they could                       requirement for human development, but also essential for
-                                           find all the articles they need "only rarely or with difficulty".             realizing the full potential of scientific communities worldwide
-                                           This presumably even takes into account the workarounds                       and for orienting scientific progress towards meeting the
-                                           that researchers use -- emailing authors, asking colleagues                    needs of humankind"54.
-                                           in other institutions, or using paid-for access through ILL
-                                           (inter-library loan) or PPV (pay-per-view) systems.                           Nearly a decade later in 2008, when improvement was
-                                                                                                                         still sought, the UK National Commission for UNESCO
-                                           Inter-library loan expenditure on journal articles is another
-                                           indicator of lack of access. The UK's "Elite 5" universities,
-                                                                                                                         52 e.g. The University of Salford's new repository containing some 1500 full-
-                                           those with libraries expected to be the best-resourced                           text research papers, experiences 25,000 downloads of these each month;
-                                                                                                                            the School of Electronics & Computer Science, University of Southampton,
-                                           in the country, show inter-library loan costs for journal                        UK, which sees 30,000 downloads a months of the circa 6,000 full-text
-                                           articles currently averaging around USD 50,000 per year.                         items in its repository; and the University of Liege in Belgium, with 35,000
-                                                                                                                            downloads per month of the 30,000 articles it holds.
-                                           And Open Access repository download figures indicate                          53 In the US: http://chronicle.com/article/Libraries-Abandon-
-                                                                                                                            Expensive/128220/ and in the UK: http://chronicle.com/blogs/
-                                                                                                                            wiredcampus/british-research-libraries-say-no-to-big-deal-serials-
-                                           50 Reported in the UNESCO Science Report 2010 and the World Social Science       packages/32371
-                                              Report 2010: see UNESCO (2010) and International Social Science Council    54 UNESCO and the International Council of Scientific Unions (1999):
-                                              (2010) in bibliography for full reference                                     World Conference on Science; Declaration on Science and the Use of
-                                           51 http://www.rin.ac.uk/our-work/using-and-accessing-information-resources/      Scientific Knowledge (July 1). http://www.unesco.org/science/wcs/eng/
-                                              overcoming-barriers-access-research-information                               declaration_e.htm.
+Inter-library loan expenditure on journal articles is another indicator of lack of access. The UK's "Elite 5" universities, those with libraries expected to be the best-resourced in the country, show inter-library loan costs for journal articles currently averaging around USD 50,000 per year.
 
+And Open Access repository download figures indicate the extent that access is being fulfilled through that Open Access route for those who are unable to access the original journal[fn:52]. We may also assume that journal access problems in the developed world will increase. Library budgets are under pressure, Big Deals (purchase of "bundles" of a publisher's offerings on 2-, 3- or 5-year deals) are being cancelled[fn:53] and society-published journals are feeling the chill wind of recession in the form of attrition of prestigious but unaffordable titles.
 
+In the developing world, the situation is even more serious. A World Health Organization survey carried out in the year 2000 found that researchers in developing countries claim access to subscription-based journals to be one of their most pressing problems. This survey found that in countries where the per capita income is less than USD 1000 per annum, 56% of research institutions had no current subscriptions to international journals, nor had for the previous 5 years (Aronson, 2004).
 
-24
-concluded, "Strengthening scientific capacity in developing                     As well as the issue of access per se, the type of access is
-countries has therefore been greatly hampered by their                          important. Being able to read a simple PDF representation
-inability to afford essential scientific literature due to the                  of a journal article is helpful and may be all that is
-combined forces of the high cost of journal subscriptions,                      necessary for many researchers. The formal definition
-declining institutional budgets and currency weaknesses"55.                     of Open Access, however, does require re-use rights to
-More recently, a study by the Southern African Regional                         enable the article to be re-used in various ways (text-
-Universities Association (SARUA) revealed a picture on                          mined, translated into other languages, used in part in
+This problem was already acknowledged and understood, of course. The World Conference on Science, held in 1999 under the auspices of UNESCO and the ICSU, declared, "Equal access to science is not only a social and ethical requirement for human development, but also essential for realizing the full potential of scientific communities worldwide and for orienting scientific progress towards meeting the needs of humankind"[fn:54].
 
+Nearly a decade later in 2008, when improvement was still sought, the UK National Commission for UNESCO concluded, "Strengthening scientific capacity in developing countries has therefore been greatly hampered by their inability to afford essential scientific literature due to the combined forces of the high cost of journal subscriptions, declining institutional budgets and currency weaknesses"[fn:55]. More recently, a study by the Southern African Regional Universities Association (SARUA) revealed a picture on access to and dissemination of research publications in that region[fn:56] that indicates that improvement is still far from being realised.
 
+Publisher-mediated initiatives such as the WHO's HINARI[fn:57], OARE[fn:58] and AGORA[fn:59] provide free access to journals for some developing world users. They are not Open Access by definition, however, since access is available only to some users in some countries. The programmes differentiate between countries that have a per capita GNI above and below USD 1250, charging a USD 1000 per institution subscription to those with a per capita GNI between USD 1250 and 3500. Countries whose per capita GNI is above USD 3500 pay the normal subscription rate, however relatively poor they are: Brazil and India, for example, do not qualify for these schemes, despite their developing country status. And if a country manages to raise its economic status a little it can find itself cut off from these programmes, as the recent experience of Bangladesh demonstrated[fn:60].
 
+All of the above discussion relates to academic scientists and their institutions. There are other constituencies that can benefit from access to the scientific literature as well. These are what the BOAI terms "other curious minds". They include the professional community (for example, family doctors, legal practices, accountancy firms, healthcare workers), the practitioner community (for example, civil engineering companies, horticulturalists, consultancies), the education community (middle and high school teachers) and independent scholars and consultants whose work is research-based. There is further discussion of this topic in section 4.3.2.
 
-                                                                                                                                                                  Section 3. The importance of Open Access
-access to and dissemination of research publications in                         other products, etc.), as discussed in section 1.3.2. This is
-that region56 that indicates that improvement is still far                      what is known as "libre" Open Access. "Libre" Open Access
-from being realised.                                                            does not yet constitute the bulk of the Open Access
-                                                                                literature. In institutional repositories the majority of
-Publisher-mediated initiatives such as the WHO's HINARI57,
-                                                                                articles are of the "gratis" type, though a small proportion
-OARE58 and AGORA59 provide free access to journals
-                                                                                carry an appropriate (usually Creative Commons) licence
-for some developing world users. They are not Open
-                                                                                and are "libre". Where specific policies and processes are in
-Access by definition, however, since access is available
-                                                                                place to ensure that the material collected is "libre" then the
-only to some users in some countries. The programmes
-                                                                                level can be raised considerably. The best example of such
-differentiate between countries that have a per capita
-                                                                                an effort is UKPMC, which has systems in place to secure
-GNI above and below USD 1250, charging a USD 1000
-                                                                                "libre" status wherever possible. The proportion of articles
-per institution subscription to those with a per capita
-                                                                                in that collection that are "libre" has increased greatly over
-GNI between USD 1250 and 3500. Countries whose per
-                                                                                the last few years61 (Se Figure 3).
-capita GNI is above USD 3500 pay the normal subscription
-rate, however relatively poor they are: Brazil and India, for
-                                                                                140000
-example, do not qualify for these schemes, despite their
-                                                                                120000
-developing country status. And if a country manages
-to raise its economic status a little it can find itself cut                    100000
+As well as the issue of access per se, the type of access is important. Being able to read a simple PDF representation of a journal article is helpful and may be all that is necessary for many researchers. The formal definition of Open Access, however, does require re-use rights to enable the article to be re-used in various ways (text-mined, translated into other languages, used in part in other products, etc.), as discussed in section 1.3.2. This is what is known as "libre" Open Access. "Libre" Open Access does not yet constitute the bulk of the Open Access literature. In institutional repositories the majority of articles are of the "gratis" type, though a small proportion carry an appropriate (usually Creative Commons) licence and are "libre". Where specific policies and processes are in place to ensure that the material collected is "libre" then the level can be raised considerably. The best example of such an effort is UKPMC, which has systems in place to secure "libre" status wherever possible. The proportion of articles in that collection that are "libre" has increased greatly over the last few years[fn:61] (Se Figure 3).
 
-off from these programmes, as the recent experience of                          80000
+*** TODO Figure 3
+Figure 3: Proportions of "gratis" (orange) and "libre" (blue) articles in UKPMC 2001-2009 (courtesy of Robert Kiley, Wellcome Trust)
+(PAGE 26)
 
-Bangladesh demonstrated60.                                                      60000
+*** DONE 3.2 Levels of Open Access
 
-                                                                                40000
-All of the above discussion relates to academic scientists
-                                                                                20000
-and their institutions. There are other constituencies that
-can benefit from access to the scientific literature as well.                        0
-                                                                                         1      2        3        4       5        6       7        8         9
-These are what the BOAI terms "other curious minds". They
-include the professional community (for example, family                                         Non-OA articles (per year)      OA articles (per year)
+The level of material that is openly accessible varies considerably from discipline to discipline and field to field. In some cases there is a long-established culture of sharing, such as in high-energy physics, astronomy and computer science. To others, the concept is newer and practice lags behind.
 
-doctors, legal practices, accountancy firms, healthcare
-                                                                                    Figure 3: Proportions of "gratis" (orange) and "libre" (blue)
-workers), the practitioner community (for example, civil                                          articles in UKPMC 2001-2009
-engineering companies, horticulturalists, consultancies),                                     (courtesy of Robert Kiley, Wellcome Trust)
-the education community (middle and high school
-teachers) and independent scholars and consultants
-whose work is research-based. There is further discussion
-of this topic in section 4.3.2.
+Infrastructure plays a role here, as does community culture and norms, and the interplay between the two can help to strongly drive developments, particularly where there is funding and easily-identifiable scientific and societal benefits to be had from Open Access. Open Access is virtually ubiquitous in the fields of high-energy physics and astronomy because depositing findings in the arXiv repository (see section 1.2) has become a community norm. In the biomedical sciences, a field that has enjoyed rapid and extensive Open Access developments over recent years, there is a well-developed and sophisticated infrastructure in place to enable the sharing of journal articles through PubMed Central (and research datasets, see section 1.4).
 
-55 UNESCO (2008) Improving Access to Scientific Information for Developing
-   Countries: UK Learned Societies and Journal Access Programmes. Report by
-   Improving Access to Scientific Information Working Group (Natural Sciences
-   Committee)
-   http://www.unesco.org.uk/uploads/Improving%20Access%20to%20
-   Scientific%20Information%20-%20May%2008.pdf
-56 Abrahams, L, Burke, M, Gray, E & Rens, A (2008). Opening access to
-   knowledge in Southern African universities. In SARUA 2008 Study Series,
-   Southern African Regional Universities Association, Johannesburg, http://
-   www.sarua.org/?q=content/opening-access-knowledge-southern-african-
-   universities
-57 Health InterNetwork Access to Research Initiative http://www.who.int/
-   hinari/en/
-58 Online Access to research in the Environment: http://www.oaresciences.
-   org/en//
-59 Access to Global Online Research in Agriculture:
-   http://www.aginternetwork.org/en/                                            61 See Robert Kiley's summary of this in early 2011: http://ukpmc.blogspot.
-60 http://www.bmj.com/content/342/bmj.d196.full                                    com/2011/04/increasing-amount-of-content-in-ukpmc.html
+The current levels of Open Access material in repositories (the "green" route) and in journals (the "gold" route) have been measured in various ways. Figure 4 shows the levels in repositories (green bars) and journals (gold bars) for different disciplines.
 
+Figure 5 shows the levels in repositories (the "green" route). The bars show the % Open Access, in the year 2008, of the literature from the years 1998-2006. Figure 6 shows these percentages broken down by discipline. Note that these studies have been carried out by two research groups using different methodologies, which explains the variances in the results. Altogether, however, the current overall percentage of the literature that is openly available can be assumed to be currently around 30%.
 
+#+CAPTION: Figure 4: Percentage of the total scholarly literature in the form of Open Access articles, by discipline and mode of dissemination in 2008[fn:62]
+#+LABEL: figure-04
+% articles that are Open Access
+| Discipline                                | OA journals ('gold' OA) | OA repositories ('green' OA) |
+|-------------------------------------------+-------------------------+------------------------------|
+| Medicine                                  |                    13.9 |                          7.8 |
+| Biochemistry, genetics, molecular biology |                    13.7 |                          6.2 |
+| Other areas related to medicine           |                    10.6 |                          4.6 |
+| Mathematics                               |                     8.1 |                         17.5 |
+| Earth sciences                            |                       7 |                         25.9 |
+| Social sciences                           |                     5.6 |                         17.9 |
+| Chemistry and Chemical engineering        |                     5.5 |                          7.4 |
+| Engineering                               |                     4.8 |                         13.6 |
+| Physics and astronomy                     |                       3 |                         20.5 |
+(N = c1850 articles)
 
-                                                                                                                                                                  25
-                                           3.2 Levels of Open Access                                                                           % articles that are Open Access
-                                                                                                                                               0              10               20          30     40
-                                           The level of material that is openly accessible varies
-                                           considerably from discipline to discipline and field to                              Medicine                   13,9           7,8
-                                           field. In some cases there is a long-established culture of       Biochemistry, genetics,
-                                                                                                                                                           13,7          6,2
-                                           sharing, such as in high-energy physics, astronomy and                molecular biology
-                                           computer science. To others, the concept is newer and               Other areas related to
-Section 3. The importance of Open Access
+Alternative view:
+#+BEGIN_SRC yaml
+  # % articles that are Open Access
+  - [ {Discipline: "Medicine"}, {OA journals ('gold' OA): 13.9}, {OA repositories ('green' OA): 7.8} ]
+  - [ {Discipline: "Biochemistry, genetics, molecular biology"}, {OA journals ('gold' OA): 13.7}, {OA repositories ('green' OA): 6.2} ]
+  - [ {Discipline: "Other areas related to medicine"}, {OA journals ('gold' OA): 10.6}, {OA repositories ('green' OA): 4.6} ]
+  - [ {Discipline: "Mathematics"}, {OA journals ('gold' OA): 8.1}, {OA repositories ('green' OA): 17.5} ]
+  - [ {Discipline: "Earth sciences"}, {OA journals ('gold' OA): 7}, {OA repositories ('green' OA): 25.9} ]
+  - [ {Discipline: "Social sciences"}, {OA journals ('gold' OA): 5.6}, {OA repositories ('green' OA): 17.9} ]
+  - [ {Discipline: "Chemistry and Chemical engineering"}, {OA journals ('gold' OA): 5.5}, {OA repositories ('green' OA): 7.4} ]
+  - [ {Discipline: "Engineering"}, {OA journals ('gold' OA): 4.8}, {OA repositories ('green' OA): 13.6} ]
+  - [ {Discipline: "Physics and astronomy"}, {OA journals ('gold' OA): 3}, {OA repositories ('green' OA): 20.5} ]
+  # (N = c1850 articles)
+#+END_SRC
 
+#+CAPTION: Figure 5: Percentage of the total scholarly literature available in Open Access repositories in 2010[fn:63]
+#+LABEL: figure-05
+| Publication year |     |
+|------------------+-----|
+|             1998 | 14% |
+|             1999 | 16% |
+|             2000 | 18% |
+|             2001 | 20% |
+|             2002 | 20% |
+|             2003 | 22% |
+|             2004 | 23% |
+|             2005 | 22% |
+|             2006 | 21% |
+(N = 210,212 articles)
 
+*** TODO Figure 6 (PAGE 27)
 
+Figure 6: Percentage of the total scholarly literature available in Open Access repositories in 2010, by year of publication, broken down by discipline[fn:64]
 
-                                                                                                                                                       10,6        4,6
-                                           practice lags behind.                                                           medicine
+Levels of Open Access are also likely to vary by country or region, though little data have been published on this yet.
 
-                                                                                                                           Mathematics                 8,1            17,5
-                                           Infrastructure plays a role here, as does community culture
-                                           and norms, and the interplay between the two can help                          Earth sciences               7                   25,9
-                                           to strongly drive developments, particularly where there
-                                           is funding and easily-identifiable scientific and societal                     Social sciences          5,6              17,9
-                                           benefits to be had from Open Access. Open Access is              Chemistry and Chemical
-                                           virtually ubiquitous in the fields of high-energy physics                                               5,5       7,4
-                                                                                                                       engineering
-                                           and astronomy because depositing findings in the arXiv
-                                                                                                                            Engineering            4,8        13,6
-                                           repository (see section 1.2) has become a community
-                                           norm. In the biomedical sciences, a field that has enjoyed        Physics and astronomy                 3               20,5
-                                           rapid and extensive Open Access developments over
-                                           recent years, there is a well-developed and sophisticated
-                                                                                                                   OA journals ('gold' OA)                        OA repositories ('green' OA)
-                                           infrastructure in place to enable the sharing of journal
-                                                                                                                                          ;E с ĐϭϴϱϬ ĂƌƟĐůĞƐͿ
-                                           articles through PubMed Central (and research datasets,
-                                           see section 1.4).                                                       Figure 4: Percentage of the total scholarly literature in
-                                                                                                                  the form of Open Access articles, by discipline and mode
-                                           The current levels of Open Access material in repositories                            of dissemination in 200862
-                                           (the "green" route) and in journals (the "gold" route) have
-                                           been measured in various ways. Figure 4 shows the levels
-                                           in repositories (green bars) and journals (gold bars) for
-                                                                                                                                                 (N = 210,212 articles)
-                                           different disciplines.                                           25%                                                                     23%     22%
-                                                                                                                                                                         22%
-                                                                                                                                               20%           20%                                  21%
-                                           Figure 5 shows the levels in repositories (the "green" route).   20%                       18%
-                                                                                                                             16%
-                                           The bars show the % Open Access, in the year 2008, of
-                                                                                                            15%     14%
-                                           the literature from the years 1998-2006. Figure 6 shows
-                                           these percentages broken down by discipline. Note that           10%
-                                           these studies have been carried out by two research
-                                                                                                            5%
-                                           groups using different methodologies, which explains the
-                                           variances in the results. Altogether, however, the current       0%
-                                                                                                                   1998      1999     2000     2001          2002        2003       2004   2005   2006
-                                           overall percentage of the literature that is openly available
-                                                                                                                                                   Publication year
-                                           can be assumed to be currently around 30%.
-                                                                                                              Figure 5: Percentage of the total scholarly literature available
-                                                                                                                           in Open Access repositories in 201063
+*** DONE 3.3 Open Access in the wider "open" agenda
 
+Open Access to research outputs is not an isolated concept. It sits within a broad ecosystem of "open" issues that are taking root in the scientific research sphere and, indeed, in the wider society with its open agenda focused on open public domain information. Alongside Open Access in the scientific domain are such things as Open Data, Open Notebooks (or Open Science)[fn:65], Open Educational Resources (OER; teaching and learning materials)[fn:66], Open Innovation and Open Source Software.
 
+Importantly, there is interdependency between these things. Opening up teaching and learning materials can be only partly achieved if research information cannot be included because it is still locked behind proprietary toll barriers: research results are teaching materials in many cases. Open laboratory notebooks only go some of the way towards making experimental results available to all: the context and synthesis of findings in that domain are found in research articles that should be Open Access alongside the notebooks" content. So Open Access is an important early step in a move towards creating a knowledge commons and building true knowledge societies.
 
+Open Knowledge is perhaps the best term of all to use to indicate the scope of what is trying to be achieved. Open Knowledge is any kind of information -- sonnets to statistics, genes to geodata -- that can be freely used, reused, and redistributed[fn:67]. It is the sum of intellectual endeavour -- research, teaching, creating, innovating -- made open. Open Access is a crucial piece of this jigsaw.
 
-                                                                                                            62 Data from Björk et al, 2010 (see bibliography for full reference). This research
-                                                                                                               group estimates that in 2008, 20.4% of the literature was available in some
-                                                                                                               form of Open Access. The same group measured Open Access in 2006 and
-                                                                                                               estimated that the level of Open Access material was 19.4% of the total
-                                                                                                               literature (Björk et al, 2009: see bibliography for full reference). The difference is
-                                                                                                               within confidence limits.
-                                                                                                            63 Data from Gargouri et al, 2011 (unpublished; personal communication from
-                                                                                                               Yassine Gargouri, Université du Québec à Montréal)
+**** TODO Summary points on the importance of Open Access
 
++ There is a problem of accessibility to scientific information everywhere.
 
++ Levels of Open Access vary by discipline.
 
-26
-                                                                                included because it is still locked behind proprietary toll
-45
-                                                                                barriers: research results are teaching materials in many
-                                                                                cases. Open laboratory notebooks only go some of the
-40
-                                                                                way towards making experimental results available to all:
-35                                                                              the context and synthesis of findings in that domain are
-                                                                                found in research articles that should be Open Access
-30                                                                              alongside the notebooks" content. So Open Access is
++ Access problems are accentuated in developing, emerging and transition countries.
 
++ There are some schemes to alleviate access problems in the poorest countries but although these provide access, they do not provide Open Access: they are not permanent, they provide access only to a proportion of the literature, and they do not make the literature open to all but only to specific institutions.
 
++ Open Access is now joined by other concepts in a broader "open" agenda that encompasses issues such as Open Educational Resources, Open Science, Open Innovation and Open Data.
 
++ Some initiatives aimed at improving access are not Open Access and should be clearly differentiated as something different.
 
-                                                                                                                                                       Section 3. The importance of Open Access
-                                                                                an important early step in a move towards creating a
-25                                                                              knowledge commons and building true knowledge
-                                                                                societies.
-20
-                                                                                Open Knowledge is perhaps the best term of all to use
-15                                                                              to indicate the scope of what is trying to be achieved.
-                                                                                Open Knowledge is any kind of information -- sonnets to
-10                                                                              statistics, genes to geodata -- that can be freely used, reused,
-                                                                                and redistributed67. It is the sum of intellectual endeavour
- 5
-                                                                                -- research, teaching, creating, innovating -- made open.
-                                                                                Open Access is a crucial piece of this jigsaw.
- 0
-       1998 1999 2000 2001 2002 2003 2004 2005 2006
-                                                                                  Summary points on the importance of Open Access
-     All fields      Engineering             Physics          Health
-     Biology         Mathematics             Psychology       Social sciences     + There is a problem of accessibility to scientific information
-     Chemistry       Clinical medicine       Biomedicine      Earth sciences
-                                                                                    everywhere
+** DONE Section 4. The benefits of Open Access [100%]
 
- Figure 6: Percentage of the total scholarly literature available                 + Levels of Open Access vary by discipline
-  in Open Access repositories in 2010, by year of publication,
-                  broken down by discipline64
-                                                                                  + Access problems are accentuated in developing, emerging and
-                                                                                    transition countries
-Levels of Open Access are also likely to vary by country or
-region, though little data have been published on this yet.                       + There are some schemes to alleviate access problems in the
-                                                                                    poorest countries but although these provide access, they do not
-                                                                                    provide Open Access: they are not permanent, they provide access
-                                                                                    only to a proportion of the literature, and they do not make the
-3.3 Open Access in the wider "open"                                                 literature open to all but only to specific institutions
-    agenda                                                                        + Open Access is now joined by other concepts in a broader "open"
-                                                                                    agenda that encompasses issues such as Open Educational
-Open Access to research outputs is not an isolated
-                                                                                    Resources, Open Science, Open Innovation and Open Data
-concept. It sits within a broad ecosystem of "open" issues
-that are taking root in the scientific research sphere                            + Some initiatives aimed at improving access are not Open Access
-and, indeed, in the wider society with its open agenda                              and should be clearly differentiated as something different
-focused on open public domain information. Alongside
-Open Access in the scientific domain are such things as
-Open Data, Open Notebooks (or Open Science)65, Open
-Educational Resources (OER; teaching and learning
-materials)66, Open Innovation and Open Source Software.
+An open approach to scientific communication brings a number of benefits for research itself and for scientists, their institutions and research funders.
 
-Importantly, there is interdependency between these
-things. Opening up teaching and learning materials can
-be only partly achieved if research information cannot be
+*** DONE 4.1 Enhancing the research process
 
-64 Data from Gargouri et al, 2011 (op cit)
-65 Where experimental scientists publish their laboratory notebooks
-   containing methodologies and results openly on the Web. For example, see
-   the UsefulChem site: http://usefulchem.wikispaces.com/All+Reactions and
-   Cameron's LaBLog: http://biolab.isis.rl.ac.uk/camerons_labblog
-66 For example, the OER Commons: http://www.oercommons.org/                     67 Definition from the Open Knowledge Foundation: http://okfn.org/
+An open research literature enhances the research process in a number of ways.
 
+First, open literature means that research can move faster and more efficiently. Scientists do not have to spend time seeking out articles that they cannot access through their own library. In a subscription-based world, this entails asking colleagues in other institutions, writing to the author or using inter-library loan systems to obtain an article. In an Open Access world the article is available with a few clicks of the mouse. This speeds up not only the research process itself, but peer review, when reviewers look up supporting articles cited in the paper, and other research-related activities such as reviewing the literature for a new project. Authors cite a number of problems that Open Access overcomes[fn:68], enhancing the efficacy of the research process and "returning their faith in the integrity of their own work".
 
+Second, interdisciplinary research is generally considered to be growing in importance as scientific problems increasingly require the input and technologies from various disciplines to resolve. Open Access enhances interdisciplinary research because it makes it easy for scientists in one discipline to locate and use the literature of another (their institution may not cater for this need if there is no strong research programme in the other discipline). Also, in business terms, it is easier to launch successful interdisciplinary journals using an Open Access model because, with little strong community identity and therefore demand, it has always been difficult to sell subscription-based titles that cover a broad scientific base because libraries find it difficult to assess demand within their institution.
 
-                                                                                                                                                       27
-** TODO Section 4. The benefits of Open Access
+Third, the new computational technologies can only work on an open literature, such things as text-mining and data-mining technologies. These computational tools extract information from articles -- often across disparate fields of research -- and create new knowledge. They are, of course, capable of processing and bringing together information at speeds and in ways that the human brain cannot. These computational applications are already used extensively in pharmaceutical research and some areas of chemistry, and will form the basis of a new approach to research for the future. Their promise, however, is hampered by the fact that they cannot "see" most of the literature at the moment. Access to abstracts and bibliographic details is not enough: these tools need to be able to "read" the full text of a research article, including any data within it and supporting it.
 
+*** DONE 4.2 Visibility and usage of research
 
+Open Access maximises visibility of research outputs and through this increases their chances of usage. Articles that are in repositories or Open Access journals are easily and immediately discoverable through a Web search using appropriate keywords and are retrievable, in their entirety, with one click.
 
+Data on repository usage demonstrates the levels of interest in research and at the same time is an indicator of the severity of the access. Would-be users with library access to subscription journals or books have no need to visit repositories. Some examples of repository usage were given in section 3.1. These were from repositories in the developed world, but the same phenomenon can be seen for developing world science: for example, the repository at the Universidad de Los Andes in Venezuela enjoyed over 4 million article downloads in 2010[fn:69]. Importantly, Open Access provides this much-needed visibility for developing world research, which has always been hampered by the lack of channels for reaching developed world scientists and the bias of the large abstracting and indexing services towards developed world outputs[fn:70]. Open Access changes this and redresses the balance, making developing world research just as visible as that from wealthy, research-intensive regions. This will help to change roles and perceptions in the scientific community and in time deliver an economic benefit to developing countries as they attempt to build their own knowledge societies[fn:71].
 
-                                         A
-                                              n open approach to scientific                                                model because, with little strong community identity
-                                              communication brings a number of                                             and therefore demand, it has always been difficult to sell
-                                              benefits for research itself and for                                         subscription-based titles that cover a broad scientific base
-                                         scientists, their institutions and research                                       because libraries find it difficult to assess demand within
-                                         funders.                                                                          their institution.
+*** DONE 4.3 Impact of research [100%]
 
-                                                                                                                           Third, the new computational technologies can only work
-                                                                                                                           on an open literature, such things as text-mining and data-
-                                         4.1 Enhancing the research process                                                mining technologies. These computational tools extract
-                                                                                                                           information from articles -- often across disparate fields of
-                                         An open research literature enhances the research process                         research -- and create new knowledge. They are, of course,
-                                         in a number of ways.                                                              capable of processing and bringing together information
-                                                                                                                           at speeds and in ways that the human brain cannot. These
-                                         First, open literature means that research can move faster                        computational applications are already used extensively
-                                         and more efficiently. Scientists do not have to spend time                        in pharmaceutical research and some areas of chemistry,
-                                         seeking out articles that they cannot access through their                        and will form the basis of a new approach to research
-                                         own library. In a subscription-based world, this entails                          for the future. Their promise, however, is hampered by
-                                         asking colleagues in other institutions, writing to the author                    the fact that they cannot "see" most of the literature at the
-                                         or using inter-library loan systems to obtain an article. In an                   moment. Access to abstracts and bibliographic details is
-                                         Open Access world the article is available with a few clicks                      not enough: these tools need to be able to "read" the full
-                                         of the mouse. This speeds up not only the research process                        text of a research article, including any data within it and
-                                         itself, but peer review, when reviewers look up supporting                        supporting it.
-                                         articles cited in the paper, and other research-related
-                                         activities such as reviewing the literature for a new project.
-                                         Authors cite a number of problems that Open Access
-                                         overcomes68, enhancing the efficacy of the research process                       4.2 Visibility and usage of research
-                                         and "returning their faith in the integrity of their own work".
-                                                                                                                           Open Access maximises visibility of research outputs and
-                                         Second, interdisciplinary research is generally considered
-                                                                                                                           through this increases their chances of usage. Articles that
-                                         to be growing in importance as scientific problems
-                                                                                                                           are in repositories or Open Access journals are easily and
-                                         increasingly require the input and technologies from
-                                                                                                                           immediately discoverable through a Web search using
-                                         various disciplines to resolve. Open Access enhances
-                                                                                                                           appropriate keywords and are retrievable, in their entirety, with
-                                         interdisciplinary research because it makes it easy for
-                                                                                                                           one click.
-                                         scientists in one discipline to locate and use the literature
-                                         of another (their institution may not cater for this need                         Data on repository usage demonstrates the levels of interest in
-                                         if there is no strong research programme in the other                             research and at the same time is an indicator of the severity of
-                                         discipline). Also, in business terms, it is easier to launch                      the access. Would-be users with library access to subscription
-                                         successful interdisciplinary journals using an Open Access                        journals or books have no need to visit repositories. Some
-                                                                                                                           examples of repository usage were given in section 3.1. These
-                                         68 These include: avoiding duplication, going up blind alleys and redundancy
-                                            in their work; avoiding disruptions to their work due to the need to search
-                                                                                                                           were from repositories in the developed world, but the same
-                                            for an article, losing their thread and having to revisit issues; avoiding     phenomenon can be seen for developing world science:
-                                            delays in the submission of papers to journal and funding bids; avoiding
-                                            hindrances to peer review; avoiding resource bias (see full reference to RIN   for example, the repository at the Universidad de Los Andes
-                                            (2009) in bibliography)
+**** DONE 4.3.1 Academic impact
 
+From visibility derives usage, and from usage derives impact. A considerable body of evidence is accumulating that indicates that Open Access can increase impact in the form of citations as well as the usage impact discussed above. There have been around 35 studies conducted on this topic, a few of which do not show any increase in citations from open Access. The rest, however -- about 30 studies -- do demonstrate that Open Access increases citations impact with an increase of up to 600% found in some cases, though most showed an increase of up to 200%[fn:72].
 
+Two things are of great importance here. First, not every article that is Open Access will gain additional citations. This is intuitive, since not every article is worthy of citations in the first place, however many people read it. What Open Access does is to maximise audience size so that articles that are worthy of citing stand the maximum chance of being seen by anyone who might have reason to cite them.
 
-28
-in Venezuela enjoyed over 4 million article downloads in                                          4.3.2         Impact outside academia
-201069. Importantly, Open Access provides this much-needed
-visibility for developing world research, which has always been                          As well as citation impact, Open Access can have
-hampered by the lack of channels for reaching developed                                  beneficial impact on other constituencies. The most-
-world scientists and the bias of the large abstracting and                               often used example of this kind of impact is the benefit
-indexing services towards developed world outputs70. Open                                to patients from access to health research information,
-Access changes this and redresses the balance, making                                    but the education, professional, practitioner and business
+**** DONE 4.3.2 Impact outside academia
 
+As well as citation impact, Open Access can have beneficial impact on other constituencies. The most-often used example of this kind of impact is the benefit to patients from access to health research information, but the education, professional, practitioner and business sectors are potential users and beneficiaries of scientific research. It is early in our understanding of their needs and the benefits that can accrue to these constituencies, but there are pointers.
 
+First, it is known that these people use the literature where it is openly available to them. For example, the usage data for PubMed Central (the NIH's large collection of biomedical literature) show that of the 420,000 unique users per day of the 2 million items in that database, 25% are from universities, 17% from companies, 40% from "citizens" and the rest from "Government and others".
 
+Second, the European Union's Community Innovation Surveys examine innovative businesses at regular intervals: a recent survey showed that "innovative enterprises find the information they need more easily from suppliers or customers than from universities or public research institutes"[fn:73].
 
-                                                                                                                                                                       Section 4. The benefits of Open Access
-developing world research just as visible as that from wealthy,                          sectors are potential users and beneficiaries of scientific
-research-intensive regions. This will help to change roles and                           research. It is early in our understanding of their needs and
-perceptions in the scientific community and in time deliver an                           the benefits that can accrue to these constituencies, but
-economic benefit to developing countries as they attempt to                              there are pointers.
-build their own knowledge societies71.
-                                                                                         First, it is known that these people use the literature where
-                                                                                         it is openly available to them. For example, the usage
-                                                                                         data for PubMed Central (the NIH's large collection of
-4.3 Impact of research                                                                   biomedical literature) show that of the 420,000 unique
-                                                                                         users per day of the 2 million items in that database, 25%
-                                                                                         are from universities, 17% from companies, 40% from
-          4.3.1           Academic impact                                                "citizens" and the rest from "Government and others".
+Third, some recent work studying the access needs and problems of R&D-based SMEs in Denmark provides some data on how important it is for these companies, and the Danish economy, to have quick, easy and free access to the scientific literature[fn:74]. There is no reason to believe that the Danish situation is so vastly different from any other developed, knowledge-based economy, so the global effect of lack of access to scientific information on innovative businesses can be expected to be huge.
 
-                                                                                         Second, the European Union's Community Innovation
-From visibility derives usage, and from usage derives impact.
-                                                                                         Surveys examine innovative businesses at regular intervals:
-A considerable body of evidence is accumulating that
-                                                                                         a recent survey showed that "innovative enterprises find
-indicates that Open Access can increase impact in the form
-                                                                                         the information they need more easily from suppliers
-of citations as well as the usage impact discussed above.
-                                                                                         or customers than from universities or public research
-There have been around 35 studies conducted on this topic,
-                                                                                         institutes"73.
-a few of which do not show any increase in citations from
-open Access. The rest, however -- about 30 studies -- do                                   Third, some recent work studying the access needs and
-demonstrate that Open Access increases citations impact                                  problems of R&D-based SMEs in Denmark provides some
-with an increase of up to 600% found in some cases, though                               data on how important it is for these companies, and
-most showed an increase of up to 200%72.                                                 the Danish economy, to have quick, easy and free access
-                                                                                         to the scientific literature74. There is no reason to believe
-Two things are of great importance here. First, not every
-                                                                                         that the Danish situation is so vastly different from any
-article that is Open Access will gain additional citations.
-                                                                                         other developed, knowledge-based economy, so the
-This is intuitive, since not every article is worthy of citations
-                                                                                         global effect of lack of access to scientific information on
-in the first place, however many people read it. What Open
-                                                                                         innovative businesses can be expected to be huge.
-Access does is to maximise audience size so that articles
-that are worthy of citing stand the maximum chance of
-being seen by anyone who might have reason to cite
-                                                                                            Summary points on the benefits of Open Access
-them.                                                                                       + Open Access improves the speed, efficiency and efficacy of
-                                                                                              research
-69 This repository publishes its usage statistics: http://www.saber.ula.ve/                 + Open Access is an enabling factor in interdisciplinary research
-   stats?level=general&type=access&page=down-series&start=01-08-
-   2011&end=02-08-2011&pyear=2011&pmonth=08&anoinicio=2011&anofi
-   m=2011&mesinicio=01&mesfim=08                                                            + Open Access enables computation upon the research literature
-70 And Open Access is expected to overcome the general divide between
-   mainstream and peripheral in science, including the divide between the
-   developed and developing world. For full reference see Guedon (2008) in
-                                                                                            + Open Access increases the visibility, usage and impact of research
-   the reference list
-71 As recognised by Dr Blade Nzimande, South Africa's Minister for Higher                   + Open Access allows the professional, practitioner and business
-   Education, in a speech to the 2009 World Conference on Higher Education, in
-   which he drew a distinction between the knowledge societies of the developed
-                                                                                              communities, and the interested public, to benefit from research
-   world and those of the African continent. Specifically, he said that the former are
-   producers of knowledge and the latter are consumers. Open Access will change
-   this, enabling the developed world to discover and consume easily -- for the first
-   time -- the scientific knowledge created by the developing world. http://www.
-   education.gov.za/dynamic/dynamic.aspx?pageid=306&id=8720                              73 Parvan, S-V (2007) Statistics in Focus: Science and technology, 81/2007.
-72 A summary of studies carried out up to the beginning of 2010 showed that                 http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-SF-07-081/EN/KS-
-   27 studies demonstrated a citation advantage from Open Access and 4 did                  SF-07-081-EN.PDF
-   not. See Swan (2010) in the Bibliography.                                             74 See more details in Houghton et al (2011) in the bibliography
+**** DONE Summary points on the benefits of Open Access
 
++ Open Access improves the speed, efficiency and efficacy of research.
 
++ Open Access is an enabling factor in interdisciplinary research.
 
-                                                                                                                                                                       29
++ Open Access enables computation upon the research literature.
+
++ Open Access increases the visibility, usage and impact of research.
+
++ Open Access allows the professional, practitioner and business communities, and the interested public, to benefit from research.
 
 ** TODO Section 5. Business models
 
@@ -4021,12 +3746,37 @@ the accessibility, usage and applications of their findings.
 [fn:38] http://www.hefce.ac.uk/research/ref/
 [fn:39] At the time called the Research Quality Framework (RQF); now called the Excellence in Research for Australia Initiative (ERA) http://www.arc.gov.au/era/
 [fn:40] Specialised repositories may collect material on a particular topic from a number of sources, or may focus on one type of content, such as theses.
-[fn:45] http://www.plos.org/
-[fn:46] http://www.nature.com/srep/marketing/index.html
-[fn:47] http://www.bioline.org.br/
 [fn:41] The Directory of Open Access Journals maintains a list and a search facility: http://www.doaj.org
 [fn:42] SciELO is an electronic publishing cooperative that offers a collection of Latin American and Caribbean journals and associated services: http://www.scielo.org/php/index.php?lang=en
 [fn:43] http://www.biomedcentral.com/
 [fn:44] http://www.hindawi.com/
+[fn:45] http://www.plos.org/
+[fn:46] http://www.nature.com/srep/marketing/index.html
+[fn:47] http://www.bioline.org.br/
 [fn:48] For example, fees for "hybrid" journals published by Wiley and Elsevier are around USD 3000, excluding taxes and colour charges.
 [fn:49] Such as Mendeley http://www.mendeley.com or Academia.edu http://academia.edu/
+[fn:50] Reported in the UNESCO Science Report 2010 and the World Social Science Report 2010: see UNESCO (2010) and International Social Science Council (2010) in bibliography for full reference
+[fn:51]http://www.rin.ac.uk/our-work/using-and-accessing-information-resources/ overcoming-barriers-access-research-information
+[fn:52] e.g. The University of Salford's new repository containing some 1500 full-text research papers, experiences 25,000 downloads of these each month; the School of Electronics & Computer Science, University of Southampton, UK, which sees 30,000 downloads a months of the circa 6,000 full-text items in its repository; and the University of Liege in Belgium, with 35,000 downloads per month of the 30,000 articles it holds.
+[fn:53] In the US: http://chronicle.com/article/Libraries-Abandon-Expensive/128220/ and in the UK: http://chronicle.com/blogs/wiredcampus/british-research-libraries-say-no-to-big-deal-serials- packages/32371
+[fn:54] UNESCO and the International Council of Scientific Unions (1999): World Conference on Science; Declaration on Science and the Use of Scientific Knowledge (July 1). http://www.unesco.org/science/wcs/eng/declaration_e.htm.
+[fn:55] UNESCO (2008) Improving Access to Scientific Information for Developing Countries: UK Learned Societies and Journal Access Programmes. Report by Improving Access to Scientific Information Working Group (Natural Sciences Committee) http://www.unesco.org.uk/uploads/Improving%20Access%20to%20Scientific%20Information%20-%20May%2008.pdf
+[fn:56] Abrahams, L, Burke, M, Gray, E & Rens, A (2008). Opening access to knowledge in Southern African universities. In SARUA 2008 Study Series, Southern African Regional Universities Association, Johannesburg, http://www.sarua.org/?q=content/opening-access-knowledge-southern-african-universities
+[fn:57] Health InterNetwork Access to Research Initiative http://www.who.int/hinari/en/
+[fn:58] Online Access to research in the Environment: http://www.oaresciences.org/en//
+[fn:59] Access to Global Online Research in Agriculture: http://www.aginternetwork.org/en/
+[fn:60] http://www.bmj.com/content/342/bmj.d196.full
+[fn:61] See Robert Kiley's summary of this in early 2011: http://ukpmc.blogspot.com/2011/04/increasing-amount-of-content-in-ukpmc.html
+[fn:62] Data from Björk et al, 2010 (see bibliography for full reference). This research group estimates that in 2008, 20.4% of the literature was available in some form of Open Access. The same group measured Open Access in 2006 and estimated that the level of Open Access material was 19.4% of the total literature (Björk et al, 2009: see bibliography for full reference). The difference is within confidence limits.
+[fn:63] Data from Gargouri et al, 2011 (unpublished; personal communication from Yassine Gargouri, Université du Québec à Montréal)
+[fn:64] Data from Gargouri et al, 2011 (op cit)
+[fn:65] Where experimental scientists publish their laboratory notebooks containing methodologies and results openly on the Web. For example, see the UsefulChem site: http://usefulchem.wikispaces.com/All+Reactions and Cameron's LaBLog: http://biolab.isis.rl.ac.uk/camerons_labblog
+[fn:66] For example, the OER Commons: http://www.oercommons.org/
+[fn:67] Definition from the Open Knowledge Foundation: http://okfn.org/
+[fn:68] These include: avoiding duplication, going up blind alleys and redundancy in their work; avoiding disruptions to their work due to the need to search for an article, losing their thread and having to revisit issues; avoiding delays in the submission of papers to journal and funding bids; avoiding hindrances to peer review; avoiding resource bias (see full reference to RIN (2009) in bibliography)
+[fn:69] This repository publishes its usage statistics: http://www.saber.ula.ve/stats?level=general&type=access&page=down-series&start=01-08-2011&end=02-08-2011&pyear=2011&pmonth=08&anoinicio=2011&anofim=2011&mesinicio=01&mesfim=08
+[fn:70] And Open Access is expected to overcome the general divide between mainstream and peripheral in science, including the divide between the developed and developing world. For full reference see Guedon (2008) in the reference list
+[fn:71] As recognised by Dr Blade Nzimande, South Africa's Minister for Higher Education, in a speech to the 2009 World Conference on Higher Education, in which he drew a distinction between the knowledge societies of the developed world and those of the African continent. Specifically, he said that the former are producers of knowledge and the latter are consumers. Open Access will change this, enabling the developed world to discover and consume easily -- for the first time -- the scientific knowledge created by the developing world. http://www.education.gov.za/dynamic/dynamic.aspx?pageid=306&id=8720
+[fn:72] A summary of studies carried out up to the beginning of 2010 showed that 27 studies demonstrated a citation advantage from Open Access and 4 did not. See Swan (2010) in the Bibliography.
+[fn:73] Parvan, S-V (2007) Statistics in Focus: Science and technology, 81/2007. http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-SF-07-081/EN/KS-SF-07-081-EN.PDF
+[fn:74] See more details in Houghton et al (2011) in the bibliography
