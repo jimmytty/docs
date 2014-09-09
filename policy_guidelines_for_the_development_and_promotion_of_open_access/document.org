@@ -1,4 +1,4 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [50%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [56%]
 by Alma Swan
 
 :                             UNESCO
@@ -232,7 +232,7 @@ The issues that an Open Access policy should address are as follows:
 
   + "Gold" Open Access: where a funder or institution has a specific commitment with respect to paying "gold" article-processing fees, this should be stated in the policy.
 
-** DONE Section 1. The Development of Open Access to Scientific Information and Research [100%]
+** DONE Section 1. The Development of Open Access to Scientific Information and Research [80%]
 *** DONE 1.1 The development of scientific communication
 
 The primary purposes of a formal publishing system through journals or books are so that scholars may establish their right to the intellectual property contained in the articles, so that authors can lay claim to be the first to conduct the work and present its findings, and to operate a quality control system through peer review that endeavours to guarantee that the work published is bona fide, original and properly conducted.
@@ -308,15 +308,15 @@ It is worth examining here what is implicated. There are two fundamental types o
 
 A scientist might:
 
-+ extract a component of the article (a graph or table, photograph or list) and carry out further analysis or modification for the purpose of research.
+  + extract a component of the article (a graph or table, photograph or list) and carry out further analysis or modification for the purpose of research.
 
-+ use one of these components alongside others like it to form a public collection.
+  + use one of these components alongside others like it to form a public collection.
 
-+ use one or other of those components in presentations or teaching materials that are made widely available.
+  + use one or other of those components in presentations or teaching materials that are made widely available.
 
-+ use a component in an article for publication.
+  + use a component in an article for publication.
 
-+ extract large chunks of text for use in other articles.
+  + extract large chunks of text for use in other articles.
 
 But fellow scientists are not the only potential users. There may be people who could make commercial use of material in the article, too.
 
@@ -359,151 +359,38 @@ and how Open Access should be provided
 
 These issues are further discussed in section 8.
 
-**** 1.4 Target content for Open Access [%]
+*** DONE 1.4 Target content for Open Access
 
-Central to making policy on Open Access is what types of
-research outputs are to be covered. The general term that
-is used to describe the target of Open Access is "the peer-
-reviewed research literature". In broadest terms, this would
-cover journals, peer-reviewed conference proceedings
+Central to making policy on Open Access is what types of research outputs are to be covered. The general term that is used to describe the target of Open Access is "the peer-reviewed research literature". In broadest terms, this would cover journals, peer-reviewed conference proceedings (the primary dissemination route in some disciplines, such as engineering) and books. Using this general term "literature", though, brings the need for some caveats.
 
+First, there is the issue of how to deal with scholarly books. Journals are simple: scientists write articles for publication in journals and do not expect payment for this. Indeed, their purpose in writing for journals is to gain reputational capital and benefit personally in the currency of academic research -- citations. Book authors, however, do sometimes expect a financial reward as well as reputational capital to come to them from writing books. The financial reward is certainly very small in the vast majority of cases, and most authors in the humanities (which is the discipline most affected since books are the primary dissemination tool) acknowledge that their expectations of financial reward are hardly high[fn:23], but the fact that the potential for financial payoff exists means that what can be required in policy terms with respect to journal articles cannot be the same for books. Nonetheless, policies usually do mention books (and book chapters), complete with caveat (see section 8 for further discussion on this).
 
+Second, there is another category of research output that is increasingly becoming a focus for policy, and that is research data. Science is now data-intensive and becoming ever more so. In some disciplines (but not all) there is an acknowledged need to share data in order to effect progress. Science is simply too big in some fields to move forward without collaborative intent. The Human Genome Project illustrates this point: thousands of scientists around the world worked on the effort to sequence the whole human DNA complement and the principles of data sharing were agreed at the now-famous Bermuda meeting in 1996[fn:24]. There is excellent provision of public data storage and preservation facilities for scientists in biomedical research[fn:25], as there is in some other data-intensive disciplines.
 
-(the primary dissemination route in some disciplines,
-such as engineering) and books. Using this general term
-"literature", though, brings the need for some caveats.
+As well as the significant policy and infrastructure developments to support Open Data seen in some disciplines there is a more general awakening of interest in this topic. Research funders, keen to optimise conditions for scientific progress, are also working on policy support to ensure that research data are made accessible by the scientists they fund. Many research funders around the world now have Open Data policies in place, some of them backed by particular infrastructural arrangements to enable the practicalities of complying with them[fn:26]. Some researchers use their institution's digital repository for depositing datasets for sharing, or place datasets on open websites. Publishers also make space available on their own websites for datasets supporting journal articles and in some cases journals require data to be made openly available as a condition of publication[fn:27]. It must be emphasised, however, that data sharing is by no means ubiquitous and data management practices and norms vary considerably from one discipline to another, as many studies have demonstrated[fn:28]. There is, however, growing organisation and formalisation of this field and the recently-developed Panton Principles define the aims and principles of Open Data concept[fn:29].
 
-First, there is the issue of how to deal with scholarly books.
-Journals are simple: scientists write articles for publication
-in journals and do not expect payment for this. Indeed,
-their purpose in writing for journals is to gain reputational
-capital and benefit personally in the currency of academic
-research -- citations. Book authors, however, do sometimes
+Third, there are other types of research literature for which openness is considered desirable. These are theses (masters and doctoral) and the "grey" literature (the research literature not destined for peer-reviewed journals such as working papers, pamphlets, etc). Whilst these are not covered by the formal definition of Open Access, they are second-tier targets and it should be noted that in some disciplines this tier of outputs is of very considerable significance.
 
-expect a financial reward as well as reputational capital to
-come to them from writing books. The financial reward
-is certainly very small in the vast majority of cases, and
-most authors in the humanities (which is the discipline
-most affected since books are the primary dissemination
-tool) acknowledge that their expectations of financial
-reward are hardly high[fn:23], but the fact that the potential for
-financial payoff exists means that what can be required in
-policy terms with respect to journal articles cannot be the
-same for books. Nonetheless, policies usually do mention
-books (and book chapters), complete with caveat (see
-section 8 for further discussion on this).
+Finally, though this is till very much in its infancy, there is a move towards developing an Open Bibliography of science. The premise here is that scientific information would be much more easily findable were there to be a properly constructed, fully-open bibliographic service (currently, the most comprehensive bibliographic services are paid-for services produced by commercial publishing companies). Though this issue is nowhere approaching the stage where policy development can take place, the groundwork is being done to build an Open Bibliography system[fn:30].
 
-Second, there is another category of research output
-that is increasingly becoming a focus for policy, and
-that is research data. Science is now data-intensive and
-becoming ever more so. In some disciplines (but not all)
-there is an acknowledged need to share data in order
-to effect progress. Science is simply too big in some
-fields to move forward without collaborative intent. The
+*** TODO Summary points on the development of Open Access
 
-Human Genome Project illustrates this point: thousands
++ The Web offers new opportunities to build an optimal system for communicating science -- a fully linked, fully interoperable, fully-exploitable scientific research database available to all.
 
-of scientists around the world worked on the effort to
++ Scientists are using these opportunities both to develop Open Access routes for the formal literature and for informal types of communication.
 
-sequence the whole human DNA complement and the
-principles of data sharing were agreed at the now-famous
-Bermuda meeting in 1996[fn:24]. There is excellent provision of
++ For the growing body of Open Access information, preservation in the long-term is a key issue.
 
-public data storage and preservation facilities for scientists
++ Essential for the acceptance and use of the Open Access literature are new services that provide for the needs of scientists and research managers.
 
++ There are already good, workable, proven-in-use definitions of Open Access that can be used to underpin policy.
 
-in biomedical research[fn:25], as there is in some other data-
-intensive disciplines.
++ There is also a distinction made between two types of Open Access -- gratis and libre -- and this distinction also has policy implications.
 
-As well as the significant policy and infrastructure
-developments to support Open Data seen in some
-disciplines there is a more general awakening of interest in
++ Two practical routes to Open Access ("green" and "gold") have been formally endorsed by the research community.
 
++ The primary, and original, target for Open Access was the journal literature (including peer-reviewed conference proceedings). Masters and doctoral theses are also welcome additions to this list and the concept is now being widened to include research data and books.
 
-this topic. Research funders, keen to optimise conditions
-
-
-
-
-
-for scientific progress, are also working on policy support
-to ensure that research data are made accessible by the
-scientists they fund. Many research funders around the
-world now have Open Data policies in place, some of
-them backed by particular infrastructural arrangements
-to enable the practicalities of complying with them26.
-Some researchers use their institution's digital repository
-for depositing datasets for sharing, or place datasets on
-open websites. Publishers also make space available
-on their own websites for datasets supporting journal
-articles and in some cases journals require data to be
-made openly available as a condition of publication27. It
-must be emphasised, however, that data sharing is by no
-means ubiquitous and data management practices and
-
-norms vary considerably from one discipline to another,
-
-as many studies have demonstrated28. There is, however,
-growing organisation and formalisation of this field and
-the recently-developed Panton Principles define the aims
-and principles of Open Data concept29.
-
-Third, there are other types of research literature for
-which openness is considered desirable. These are
-theses (masters and doctoral) and the "grey" literature (the
-research literature not destined for peer-reviewed journals
-such as working papers, pamphlets, etc). Whilst these
-are not covered by the formal definition of Open Access,
-they are second-tier targets and it should be noted that in
-some disciplines this tier of outputs is of very considerable
-significance.
-
-Finally, though this is till very much in its infancy, there
-is a move towards developing an Open Bibliography of
-science. The premise here is that scientific information
-would be much more easily findable were there to be
-a properly constructed, fully-open bibliographic service
-(currently, the most comprehensive bibliographic services
-are paid-for services produced by commercial publishing
-companies). Though this issue is nowhere approaching
-the stage where policy development can take place, the
-groundwork is being done to build an Open Bibliography
-system30.
-
-***** Summary points on the development of Open Access
-
-+ The Web offers new opportunities to build an optimal system for
-communicating science -- a fully linked, fully interoperable, fully-
-exploitable scientific research database available to all
-
-+ Scientists are using these opportunities both to develop Open
-Access routes for the formal literature and for informal types of
-communication
-+ For the growing body of Open Access information, preservation in
-the long-term is a key issue
-
-+ Essential for the acceptance and use of the Open Access literature
-are new services that provide for the needs of scientists and
-research managers
-
-+ There are already good, workable, proven-in-use definitions of
-
-Open Access that can be used to underpin policy
-
-+ There is also a distinction made between two types of Open
-Access -- gratis and libre -- and this distinction also has policy
-implications
-
-+ Two practical routes to Open Access ("green" and "gold") have been
-formally endorsed by the research community
-
-+ The primary, and original, target for Open Access was the journal
-literature (including peer-reviewed conference proceedings).
-Masters and doctoral theses are also welcome additions to this list
-and the concept is now being widened to include research data
-and books
-
-                                                                                                                                                                19
 ** DONE Section 2. Approaches to Open Access [100%]
 
 Any form of scientific output can be made openly available, simply by being posted onto a website. This can and does happen for journal articles, book chapters and whole books, datasets of all types (including graphics, photographs, audio and video files) and software. The term Open Access, however, tends to be used about information made available in one of two structured ways.
@@ -751,7 +638,7 @@ Third, some recent work studying the access needs and problems of R&D-based SMEs
 
 + Open Access allows the professional, practitioner and business communities, and the interested public, to benefit from research.
 
-** DONE Section 5. Business models [100%]
+** DONE Section 5. Business models [80%]
 *** DONE 5.1 The context: traditional business models in scientific communication
 
 Traditionally, and because scientific communication was carried out through print-on-paper methods which carried a cost for every copy produced, access to scientific information was achieved through subscriptions for journals (whereby libraries and other subscribers paid a fee -- usually on an annual basis -- to receive the journal issues throughout the year as they were published, and through a one-off cash transaction for books.
@@ -896,13 +783,13 @@ A number of studies have been carried out over the past 5 years that have examin
 
 The studies were done for Australia, the UK, Denmark, The Netherlands, and the US[fn:104]. In all cases, substantial economic savings were shown to be achievable, whether through Open Access journal publishing or through using the network of institutional repositories to disseminate knowledge[fn:105]. The move to Open Access will therefore not only be more effective for communicating scientific knowledge, but will not require more money to be pumped into the dissemination system: indeed, there will be savings to be made.
 
-**** Summary points on business models for Open Access
+*** TODO Summary points on business models for Open Access
 
-  + New business models are being developed to service the "open" agenda
++ New business models are being developed to service the "open" agenda
 
-  + New business models are being developed and tried for Open Access journals, books, repositories, repository services and data
++ New business models are being developed and tried for Open Access journals, books, repositories, repository services and data
 
-  + These new business models will not require more money to be found for scientific communication
++ These new business models will not require more money to be found for scientific communication
 
 ** DONE Section 6. Copyright and licensing [100%]
 
@@ -1032,259 +919,139 @@ The advantages of using a Creative Commons licence over a custom one are:
 
   + Otherwise, legal amendments to copyright law will be necessary in most jurisdictions to enable text-mining and data-mining for material without an appropriate Creative Commons licence.
 
-** TODO Section 7. Strategies to promote Open Access
-S
-     trategies to promote Open Access fall into              very existence, policies serve to promote the aims and
-     three main categories -- policy-oriented,                objectives of Open Access, to engender interest and
-     advocacy-based and infrastructure                       action and to serve as examples for others.
-development. All three types have been pursued
-                                                             Many individuals, groups and organisations promoting
-at many levels and in some cases have involved
-                                                             Open Access have therefore focused their activities on
-aligning the arguments for Open Access with
-                                                             persuading research institutions, research funders and
-arguments for other elements of the "open"
-                                                             other influential organisations of the need for a policy on
-agenda (such as open Educational Resources or
-                                                             Open Access.
-Open Source Software). While doing this can
-build a very strong case in some circumstances,              Governments and other public sector bodies are
-it should be remembered that the case for Open               increasingly inviting and listening to the arguments for
-Access to scientific information does work as an             an open scientific literature (and data). In some cases,
-argument on its own and does not necessarily                 changes in legislation have been involved.
-need to be allied to another cause to create an
-effective advocacy programme.                                There is currently legislation being considered, either
-                                                             on the provision of Open Access itself or on changes to
-It is, however, becoming harder to separate the              copyright law that would assist the move to openness, in
-arguments for Open Access to the literature                  Brazil, Argentina, Germany and Poland, for example. In the
-and Open Data, since the aims are so alike and               Ukraine, there is already a law121, passed in 2007 as part
-the desired outcomes in terms of scientific                  of the country's information society developments, and
-progress practically indistinguishable. Policy               the recent National Law of Science in Spain has a section
-development is proceeding along the same lines               specifically about Open Access (see section 8.1).
-for both issues, advocacy activities are similarly
-broader now, and infrastructural development is              Just a few examples of significant policy
-around the needs to open up both the research                implementations122 that have hastened and promoted
-literature and research data. Because of this                Open Access are:
-increasing alignment UNESCO will find that
-                                                             Institutional-level mandatory policies
-building strategies into the future to support
-Open Access will need to also embrace strategies             + The first institutionally-based policy at the School
-for Open Data.                                                 of Electronics & Computer Science, University of
-                                                               Southampton, UK, in 2002
-Strategies are pursued at institutional, national
-and international levels.                                    + The first pan-institutional policy at Queensland
-                                                               University of Technology in 2004
+** DONE Section 7. Strategies to promote Open Access [100%]
 
-                                                             + The first Indian institutional policy at the National
-7.1 Policy-focused strategies                                  Institute of Technology, Rourkela in 2006
+S trategies to promote Open Access fall into three main categories -- policy-oriented, advocacy-based and infrastructure development. All three types have been pursued at many levels and in some cases have involved aligning the arguments for Open Access with arguments for other elements of the "open" agenda (such as open Educational Resources or Open Source Software). While doing this can build a very strong case in some circumstances, it should be remembered that the case for Open Access to scientific information does work as an argument on its own and does not necessarily need to be allied to another cause to create an effective advocacy programme.
 
+It is, however, becoming harder to separate the arguments for Open Access to the literature and Open Data, since the aims are so alike and the desired outcomes in terms of scientific progress practically indistinguishable. Policy development is proceeding along the same lines for both issues, advocacy activities are similarly broader now, and infrastructural development is around the needs to open up both the research literature and research data. Because of this increasing alignment UNESCO will find that building strategies into the future to support Open Access will need to also embrace strategies for Open Data.
 
-There is no doubt that policy development by significant
-                                                             121 http://www.eprints.org/openaccess/policysignup/fullinfo.
-research funders, institutions and other organisations has       php?inst=The%20Parliament%20of%20Ukraine%20%28Verhovna%20
-                                                                 Rada%29
-increased awareness in Open Access and accelerated
-                                                             122 A full list of existing mandatory policies on Open Access can be found at
-its development where the policies apply. By their               the Registry of Open Access Mandatory Archiving Policies (ROARMAP):
-                                                                 http://roarmap.eprints.org/
+Strategies are pursued at institutional, national and international levels.
 
+*** DONE 7.1 Policy-focused strategies
 
+There is no doubt that policy development by significant research funders, institutions and other organisations has increased awareness in Open Access and accelerated its development where the policies apply. By their very existence, policies serve to promote the aims and objectives of Open Access, to engender interest and action and to serve as examples for others.
 
-                                                                                                                                             41
-                                               + The eight faculty-specific policies adopted at Harvard    Since 2002, there has been increasing intensity in
-                                                 University between 2008 and 2011                          advocacy activity. Organisations specifically established
-                                                                                                           to promote Open Access have emerged (see section 7.4),
-                                               National-level mandatory policies
-                                                                                                           some with an international remit, some operating within
-                                               + The Open Access policies adopted by the seven UK          national or regional boundaries. The evidence base for the
-                                                 Research Councils between 2005 and 2011                   benefits of Open Access has been growing, demonstrating
-                                                                                                           the value of access to scientific information not just for
-Section 7. Strategies to promote Open Access
+Many individuals, groups and organisations promoting Open Access have therefore focused their activities on persuading research institutions, research funders and other influential organisations of the need for a policy on Open Access.
 
+Governments and other public sector bodies are increasingly inviting and listening to the arguments for an open scientific literature (and data). In some cases, changes in legislation have been involved.
 
+There is currently legislation being considered, either on the provision of Open Access itself or on changes to copyright law that would assist the move to openness, in Brazil, Argentina, Germany and Poland, for example. In the Ukraine, there is already a law[fn:121], passed in 2007 as part of the country's information society developments, and the recent National Law of Science in Spain has a section specifically about Open Access (see section 8.1).
 
+Just a few examples of significant policy implementations[fn:122] that have hastened and promoted Open Access are:
 
-                                               + The Open Access policy adopted by the US's National       scientists but for other constituencies, too (see Section 4).
-                                                 Institutes of Health (NIH) in 2007
-                                                                                                           Advocacy targets are policymakers, researchers and,
-                                               International-level mandatory policies                      increasingly, students who are receptive to the notion
-                                                                                                           of openness, are open to the development of better
-                                               + The Wellcome Trust policy, adopted in 2005
-                                                                                                           ways of communicating science and are the scientists
-                                               + The multi-institutional, international policy from        of the future. Culture change is taking root in the young
-                                                 ICRISAT (international Crops research Institute for the   scientists of today. The student "Free Culture" movement123
-                                                 Semi-Arid tropics, headquartered in Hyderabad, India)     and the Right To Research Coalition124 are examples of
-                                                 in 2009                                                   student activism with respect to opening up science.
+Institutional-level mandatory policies:
 
-                                               + The policy covering 20% of research carried out under     The research library community has a strong voice in
-                                                 the 7th Framework Programme of the European Union         Open Access advocacy, as would be expected. SPARC
-                                                                                                           (and its European and Japanese counterparts) is a highly
-                                               The long-term success of Open Access policies will be       effective advocacy organisation that has effected change
-                                               assessed by the amount of Open Access content they          at many levels. The European research library network,
-                                               engender and how well they align with the definitions of    LIBER, and EIFL (Electronic Information for Libraries).
-                                               Open Access (see section 1.3). Monitoring of compliance
-                                               with policy is undertaken by some policymaking bodies       There are also actors that have arisen from the research
-                                               (but not all) and has resulted in strengthening of policy   community itself, including from the ranks of senior
-                                               in at least one high-profile case (the NIH). We know that   management: Enabling Open Scholarship, an international
-                                               compliance levels vary considerably. The effectiveness of   organisation of university managers promoting the
-                                               different policy types is discussed in section 8.           principles and practices of open scholarship, is one such.
-                                                                                                           These organisations, and others, are listed in section 7.4.
+  + The first institutionally-based policy at the School of Electronics & Computer Science, University of Southampton, UK, in 2002.
 
-                                                                                                           Advocacy is not limited to dedicated organisations,
-                                               7.2 Advocacy-based strategies                               though. It takes place on the ground, locally across the
-                                                                                                           world. The launch of Open Access Day in 2008 by the
-                                               Strategies based on advocacy have focused on two            Public Library of Science was so successful that the next
-                                               main things -- creating an evidence base for the benefits    year the event lasted a week and has done so ever since. In
-                                               of Open Access, and making the case to policymakers,        2010, Open Access Week125 involved thousands of events
-                                               funders and research managers.                              in 90 countries and the movement is growing even bigger.
+  + The first pan-institutional policy at Queensland University of Technology in 2004.
 
-                                               The BOAI was an early, formal advocacy initiative.
-                                               Published in 2002, it set the direction for Open Access
-                                               advocacy for the rest of the decade. Funded in its          7.3 Infrastructural approaches
-                                               conceptualisation by the Open Society Institute (now
-                                               called Open Society Foundations: see section 7.4), the      Open Access can only be fully achieved if the right
-                                               BOAI provided in a few, clear, unambiguous paragraphs a     infrastructure is in place to enable global access and true
-                                               description and set of aims that advocates could coalesce   interoperability. In section 2.1 the issue of interoperability
-                                               around and use to promote the ideas about opening           was mentioned in the context of technical standards for
-                                               up science. The Initiative can be signed by institutions    repository metadata (to ensure all Open Access material is
-                                               and foundations that commit to its aims and remains         described in basically the same way). This is not all that is
-                                               an influential advocacy tool for Open Access alongside
-                                               the Berlin Declaration (which also collects signatures of
-                                                                                                           123 http://freeculture.org/
-                                               commitment from institutions).
-                                                                                                           124 http://www.righttoresearch.org/
-                                                                                                           125 http://www.openaccessweek.org/
+  + The first Indian institutional policy at the National Institute of Technology, Rourkela in 2006.
 
+  + The eight faculty-specific policies adopted at Harvard University between 2008 and 2011
 
+National-level mandatory policies:
 
-42
-needed, however, and much work remains to be done to              in Africa, Asia and Europe and enables access to
-get the full foundations in place.                                knowledge for education, learning, research and
-                                                                  sustainable community development.
-What has been achieved so far is the establishment of
-a Web-based network of repositories and Open Access           + COAR (Confederation of Open Access Repositories):
-journal collections plus supporting organisations that          a worldwide membership organisation for repository
-set and uphold technical standards, develop technical           managers launched in 2009131
+  + The Open Access policies adopted by the seven UK Research Councils between 2005 and 2011.
 
+  + The Open Access policy adopted by the US's National Institutes of Health (NIH) in 2007.
 
+International-level mandatory policies:
 
+  + The Wellcome Trust policy, adopted in 2005:
 
-                                                                                                                                          Section 7. Strategies to promote Open Access
-solutions for outstanding problems and promote Open
-                                                              + Latin American Federated Network of Institutional
-Access. The essential components are in place, but
-                                                                Scientific Documentation Repositories, Red CLARA132
-there remain interoperability issues around transfer of
-information across the network from one repository to         + IBICT (Instituto Brasileiro de Informação em Ciência e
-another, usage reporting, impact assessment, and identity       Tecnologia)133
-management and preservation amongst others, as well as
-some challenging problems concerning access to research       There are also very many national library organisations
-data. These are areas where future work will be focused.      around the world that promote Open Access as part of
-                                                              their work.
+  + The multi-institutional, international policy from ICRISAT (international Crops research Institute for the Semi-Arid tropics, headquartered in Hyderabad, India) in 2009.
 
-                                                              International organisations that have arisen from the
-                                                              research community
-7.4 Organisations engaged in
-    promoting Open Access                                     + Open Knowledge Foundation (OKF): established in
-                                                                2004 to promote open knowledge of all kinds. UK
-There are many organisations, large and small, engaged          based, but with an international reach134
-in promoting Open Access. This is by no means a
-                                                              + Enabling Open Scholarship (EOS): established in
-comprehensive list, but it presents a selection of some
-                                                                2009 to promote the principles and practices of
-of the most prominent actors. These organisations all
-                                                                open scholarship to higher education and research
-have distinct remits and each presents an opportunity for
-                                                                institution managers
-collaboration and partnership with UNESCO.
-                                                              + Centre for Internet & Society, Bangalore: established
-International library community organisations
-                                                                in 2008, the CIS works on issues relating to the effect
-+ SPARC (Scholarly Publishing and Academic Resources            of the Internet on society, including Open Access.
-  Coalition)126: established by the Association of Research     Although based in India, the CIS's mission has an
-  Libraries in the US                                           emphasis on South-South dialogues and exchanges135
+  + The policy covering 20% of research carried out under the 7th Framework Programme of the European Union.
 
-+ SPARC Europe127: The European equivalent of SPARC in        Infrastructure organisations
-  the US. This, like SPARC Japan, operates a programme
-                                                              + JISC (Joint Information Systems Committee), UK: The
-  of activities independently of SPARC but the three
-                                                                UK's national ICT organisation for higher education, the
-  organisations also work collaboratively on many
-                                                                JISC sponsors a wide-ranging programme of covering
-  initiatives while pursuing their own agendas
-                                                                infrastructure development and evidence-based
-+ SPARC Japan128                                                research136
+The long-term success of Open Access policies will be assessed by the amount of Open Access content they engender and how well they align with the definitions of Open Access (see section 1.3). Monitoring of compliance with policy is undertaken by some policymaking bodies (but not all) and has resulted in strengthening of policy in at least one high-profile case (the NIH). We know that compliance levels vary considerably. The effectiveness of different policy types is discussed in section 8.
 
-+ LIBER (Ligue des Bibliothèques Européennes de               + SURF Foundation, The Netherlands: the ICT
-  Recherche - Association of European Research                  organisation for Netherlands. SURF funds work to
-  Libraries)129                                                 promote IT-based innovation in higher education and
-                                                                research137
-+ EIFL (Electronic Information for Libraries)130: EIFL
-  (Electronic Information for Libraries): an international
-  organisation that works in collaboration with libraries     131 http://coar-repositories.org/
-  in more than 45 developing and transition countries         132 Latin American Federated Network of Institutional Scientific
-                                                                  Documentation Repositories, Red CLARA: http://www.redclara.net/index.
-                                                                  php?option=com_content&view=article&id=533&Itemid=504&lang=es
-126 http://www.arl.org/sparc/                                 133 http://www.ibict.br/
-127 http://www.sparceurope.org/                               134 http://okfn.org/
-128 http://www.nii.ac.jp/sparc/en/                            135 http://www.cis-india.org/
-129 http://www.libereurope.eu                                 136 http://www.jisc.ac.uk/openaccess
-130 http://www.eifl.net/                                      137 http://www.surffoundation.nl/en/Pages/default.aspx
+*** DONE 7.2 Advocacy-based strategies
 
+Strategies based on advocacy have focused on two main things -- creating an evidence base for the benefits of Open Access, and making the case to policymakers, funders and research managers.
 
+The BOAI was an early, formal advocacy initiative. Published in 2002, it set the direction for Open Access advocacy for the rest of the decade. Funded in its conceptualisation by the Open Society Institute (now called Open Society Foundations: see section 7.4), the BOAI provided in a few, clear, unambiguous paragraphs a description and set of aims that advocates could coalesce around and use to promote the ideas about opening up science. The Initiative can be signed by institutions and foundations that commit to its aims and remains an influential advocacy tool for Open Access alongside the Berlin Declaration (which also collects signatures of commitment from institutions).
 
-                                                                                                                                          43
-                                               + Digital Repositories Federation, Japan: a coalition
-                                                 of Japanese universities that specifically supports                           Summary points
-                                                 developments around repositories in Japan138
-                                                                                                                               + Strategies for Open Access have bases in the development of
-                                               Funding organisations supporting Open Access                                      policy and infrastructure, and in advocacy
+Since 2002, there has been increasing intensity in advocacy activity. Organisations specifically established to promote Open Access have emerged (see section 7.4), some with an international remit, some operating within national or regional boundaries. The evidence base for the benefits of Open Access has been growing, demonstrating the value of access to scientific information not just for scientists but for other constituencies, too (see Section 4).
 
-                                               + OSF (Open Society Foundations): funds research,                               + All three approaches have borne fruit, they are interdependent,
-                                                 development and advocacy work internationally in                                and all are on-going
-Section 7. Strategies to promote Open Access
+Advocacy targets are policymakers, researchers and, increasingly, students who are receptive to the notion of openness, are open to the development of better ways of communicating science and are the scientists of the future. Culture change is taking root in the young scientists of today. The student "Free Culture" movement[fn:123] and the Right To Research Coalition[fn:124] are examples of student activism with respect to opening up science.
 
+The research library community has a strong voice in Open Access advocacy, as would be expected. SPARC (and its European and Japanese counterparts) is a highly effective advocacy organisation that has effected change at many levels. The European research library network, LIBER, and EIFL (Electronic Information for Libraries).
 
+There are also actors that have arisen from the research community itself, including from the ranks of senior management: Enabling Open Scholarship, an international organisation of university managers promoting the principles and practices of open scholarship, is one such. These organisations, and others, are listed in section 7.4.
 
+Advocacy is not limited to dedicated organisations, though. It takes place on the ground, locally across the world. The launch of Open Access Day in 2008 by the Public Library of Science was so successful that the next year the event lasted a week and has done so ever since. In 2010, Open Access Week[fn:125] involved thousands of events in 90 countries and the movement is growing even bigger.
 
-                                                 support of Open Access139
-                                                                                                                               + All three now increasingly embrace Open Data too
-                                               + FECYT (Fundación Española para la Ciencia y la
-                                                                                                                               + There are many actors pursuing these strategies on international,
-                                                 Tecnología): Spanish national research funding                                  national and local levels with whom UNESCO could work and
-                                                 body, supporting science and technology, including                              partner
-                                                 developments to help Open Access140
+*** DONE 7.3 Infrastructural approaches
 
-                                               + DFG (Deutsche Forschungsgemeinschaft): German
-                                                 national funding body for research. Supports Open
-                                                 Access infrastructural developments and advocacy141
+Open Access can only be fully achieved if the right infrastructure is in place to enable global access and true interoperability. In section 2.1 the issue of interoperability was mentioned in the context of technical standards for repository metadata (to ensure all Open Access material is described in basically the same way). This is not all that is needed, however, and much work remains to be done to get the full foundations in place.
 
-                                               + European Commission: funds research and
-                                                 development across the European Union and supports
-                                                 Open Access infrastructure and policy development142
+What has been achieved so far is the establishment of a Web-based network of repositories and Open Access journal collections plus supporting organisations that set and uphold technical standards, develop technical solutions for outstanding problems and promote Open Access. The essential components are in place, but there remain interoperability issues around transfer of information across the network from one repository to another, usage reporting, impact assessment, and identity management and preservation amongst others, as well as some challenging problems concerning access to research data. These are areas where future work will be focused.
 
-                                               Publisher associations
+*** DONE 7.4 Organisations engaged in promoting Open Access
 
-                                               + OASPA (Open Access Scholarly Publishers
-                                                 Association)143: a membership organisation of Open
-                                                 Access journals and book publishers
+There are many organisations, large and small, engaged in promoting Open Access. This is by no means a comprehensive list, but it presents a selection of some of the most prominent actors. These organisations all have distinct remits and each presents an opportunity for collaboration and partnership with UNESCO.
 
+International library community organisations:
 
+  + SPARC (Scholarly Publishing and Academic Resources Coalition)[fn:126]: established by the Association of Research Libraries in the US.
 
+  + SPARC Europe[fn:127]: The European equivalent of SPARC in the US. This, like SPARC Japan, operates a programme of activities independently of SPARC but the three organisations also work collaboratively on many initiatives while pursuing their own agendas.
 
-                                               138 http://drf.lib.hokudai.ac.jp/drf/index.php?Digital%20Repository%20
-                                                   Federation%20%28in%20English%29
-                                               139 http://www.soros.org/
-                                               140 http://www.fecyt.es/fecyt/home.do
-                                               141 http://www.dfg.de/en/index.jsp
-                                               142 http://ec.europa.eu/research/science-society/index.cfm?fuseaction=public.
-                                                   topic&id=1294&lang=1
-                                               143 http://www.oaspa.org/
+  + SPARC Japan[fn:128]
 
+  + LIBER (Ligue des Bibliothèques Européennes de Recherche - Association of European Research Libraries)[fn:129].
 
+  + EIFL (Electronic Information for Libraries)[fn:130]: EIFL (Electronic Information for Libraries): an international organisation that works in collaboration with libraries in more than 45 developing and transition countries in Africa, Asia and Europe and enables access to knowledge for education, learning, research and sustainable community development.
 
-44
-** TODO Section 8. Policy framework for Open Access
+  + COAR (Confederation of Open Access Repositories): a worldwide membership organisation for repository managers launched in 2009[fn:131].
+
+  + Latin American Federated Network of Institutional Scientific Documentation Repositories, Red CLARA[fn:132].
+
+  + IBICT (Instituto Brasileiro de Informação em Ciência e Tecnologia)[fn:133].
+
+There are also very many national library organisations around the world that promote Open Access as part of their work.
+
+International organisations that have arisen from the research community:
+
+  + Open Knowledge Foundation (OKF): established in 2004 to promote open knowledge of all kinds. UK based, but with an international reach[fn:134].
+
+  + Enabling Open Scholarship (EOS): established in 2009 to promote the principles and practices of open scholarship to higher education and research institution managers.
+
+  + Centre for Internet & Society, Bangalore: established in 2008, the CIS works on issues relating to the effect of the Internet on society, including Open Access. Although based in India, the CIS's mission has an emphasis on South-South dialogues and exchanges[fn:135].
+
+Infrastructure organisations:
+
+  + JISC (Joint Information Systems Committee), UK: The UK's national ICT organisation for higher education, the JISC sponsors a wide-ranging programme of covering infrastructure development and evidence-based research[fn:136].
+
+  + SURF Foundation, The Netherlands: the ICT organisation for Netherlands. SURF funds work to promote IT-based innovation in higher education and research[fn:137].
+
+  + Digital Repositories Federation, Japan: a coalition of Japanese universities that specifically supports developments around repositories in Japan[fn:138].
+
+Funding organisations supporting Open Access:
+
+  + OSF (Open Society Foundations): funds research, development and advocacy work internationally in support of Open Access[fn:139].
+
+  + FECYT (Fundación Española para la Ciencia y la Tecnología): Spanish national research funding body, supporting science and technology, including developments to help Open Access[fn:140]
+
+  + DFG (Deutsche Forschungsgemeinschaft): German national funding body for research. Supports Open Access infrastructural developments and advocacy[fn:141].
+
+  + European Commission: funds research and development across the European Union and supports Open Access infrastructure and policy development[fn:142].
+
+Publisher associations:
+
+  + OASPA (Open Access Scholarly Publishers Association)[fn:143]: a membership organisation of Open Access journals and book publishers.
+
+*** DONE Summary points
+
++ Strategies for Open Access have bases in the development of policy and infrastructure, and in advocacy.
+
++ All three approaches have borne fruit, they are interdependent, and all are on-going.
+
++ All three now increasingly embrace Open Data too.
+
++ There are many actors pursuing these strategies on international, national and local levels with whom UNESCO could work and partner
+
+** TODO Section 8. Policy framework for Open Access [%]
 P
      olicy development is of critical importance                                 on 12 May 2011145. Laws are also under development in
      to the progress of Open Access and a                                        Argentina146, Poland and Brazil at the present time.
@@ -3357,3 +3124,26 @@ the accessibility, usage and applications of their findings.
 [fn:118] See the UK Government's announcement of a plan of action http://www.bis.gov.uk/news/topstories/2011/Aug/reforming-ip in response to a recent review of intellectual property carried out for the UK Government by Hargreaves (2011) (full reference in bibliography) and the Government's response in full: http://www.bis.gov.uk/assets/biscore/innovation/docs/g/11-1199-government-response-to-hargreaves-review
 [fn:119] The Directory of Open Access Journals lists 1535 (22% of the total 6873) using some kind of Creative Commons licence: http://www.doaj.org/?func=licensedJournals. 763 journals (11% of the total) have the SPARC Europe Seal of Approval (which requires a CC-BY licence): http://www.doaj.org/doaj?func=sealedJournals&uiLanguage=en
 [fn:120] http://creativecommons.org/
+[fn:121] http://www.eprints.org/openaccess/policysignup/fullinfo.php?inst=The%20Parliament%20of%20Ukraine%20%28Verhovna%20Rada%29
+[fn:122] A full list of existing mandatory policies on Open Access can be found at the Registry of Open Access Mandatory Archiving Policies (ROARMAP): http://roarmap.eprints.org/
+[fn:123] http://freeculture.org/
+[fn:124] http://www.righttoresearch.org/
+[fn:125] http://www.openaccessweek.org/
+[fn:126] http://www.arl.org/sparc/
+[fn:127] http://www.sparceurope.org/
+[fn:128] http://www.nii.ac.jp/sparc/en/
+[fn:129] http://www.libereurope.eu
+[fn:130] http://www.eifl.net/
+[fn:131] http://coar-repositories.org/
+[fn:132] Latin American Federated Network of Institutional Scientific Documentation Repositories, Red CLARA: http://www.redclara.net/index.php?option=com_content&view=article&id=533&Itemid=504&lang=es
+[fn:133] http://www.ibict.br/
+[fn:134] http://okfn.org/
+[fn:135] http://www.cis-india.org/
+[fn:136] http://www.jisc.ac.uk/openaccess
+[fn:137] http://www.surffoundation.nl/en/Pages/default.aspx
+[fn:138] http://drf.lib.hokudai.ac.jp/drf/index.php?Digital%20Repository%20Federation%20%28in%20English%29
+[fn:139] http://www.soros.org/
+[fn:140] http://www.fecyt.es/fecyt/home.do
+[fn:141] http://www.dfg.de/en/index.jsp
+[fn:142] http://ec.europa.eu/research/science-society/index.cfm?fuseaction=public.topic&id=1294&lang=1
+[fn:143] http://www.oaspa.org/
