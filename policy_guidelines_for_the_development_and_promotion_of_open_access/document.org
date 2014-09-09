@@ -1,4 +1,4 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [43%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [50%]
 by Alma Swan
 
 :                             UNESCO
@@ -904,326 +904,134 @@ The studies were done for Australia, the UK, Denmark, The Netherlands, and the U
 
   + These new business models will not require more money to be found for scientific communication
 
-** TODO Section 6. Copyright and licensing
+** DONE Section 6. Copyright and licensing [100%]
 
+A lthough copyright law varies by jurisdiction there is generally a clause that makes special permission for "fair use" or "fair dealing" of a work, to take account of the special needs of the scholarly community. This allows a written work, for example, to be copied for the purpose of private study, and for parts of the work to be reproduced in other works of a scholarly nature. Details are particular to each jurisdiction.
 
+Copyright is at the heart of Open Access because accessibility depends entirely upon the copyright owner. If the copyright owner consents, then Open Access can happen: if the copyright owner does not consent, Open Access is not possible for that work. Provision of Open Access cannot be made under any "fair use" or "fair dealing" exceptions to copyright law, so if Open Access is the aim, the right steps must be taken to ensure that copyright will not impede it.
 
+*** DONE 6.1 Copyright and Open Access [100%]
+**** DONE 6.1.1 Ownership of works of scholarship
 
-                                     A
-                                            lthough copyright law varies by                          restrictions on the use of the work. In some cases these
-                                            jurisdiction there is generally a clause that            can even affect the author's own use of his/her work in
-                                            makes special permission for "fair use" or               teaching and research.
-                                     "fair dealing" of a work, to take account of the
-                                                                                                     It is perfectly possible for scientists to have their work
-                                     special needs of the scholarly community. This
-                                                                                                     published without signing over all rights. Some rights
-                                     allows a written work, for example, to be copied
-                                                                                                     can be retained by scientists, allowing them to do what
-                                     for the purpose of private study, and for parts
-                                                                                                     they want in terms of dissemination through alternative
-                                     of the work to be reproduced in other works of
-                                                                                                     channels as well as through the journal in which they have
-                                     a scholarly nature. Details are particular to each
-                                                                                                     chosen to publish. The most common way of achieving
-                                     jurisdiction.
-                                                                                                     this is for the publisher to have a Licence To Publish (LTP)
-                                     Copyright is at the heart of Open Access                        and for the author to retain the rest of the bundle of rights.
-                                     because accessibility depends entirely upon                     Publishers can use such devices to acquire the rights they
-                                     the copyright owner. If the copyright owner                     need to publish the work without acquiring the rest of the
-                                     consents, then Open Access can happen: if the                   rights in the work. There seems to be a general trend in
-                                     copyright owner does not consent, Open Access                   this direction. A 2008 survey indicated that there had been
-                                     is not possible for that work. Provision of Open                a drop in the number of publishers requiring copyright
-                                     Access cannot be made under any "fair use" or                   transfer from the author from 83% in 2003, to 61% in 2005
-                                     "fair dealing" exceptions to copyright law, so if               and to 53% in 2008. In 2005, 3% of publishers were found
-                                     Open Access is the aim, the right steps must be                 not to require any form of written agreement with the
-                                     taken to ensure that copyright will not impede                  author and this had increased to almost 7% by 2008106.
-                                     it.
+The ownership of the intellectual property in a journal article or book resides normally with the author except for those circumstances where the author's employer claims ownership under conditions of employment. This may be the case where researchers are employed by Government research establishments, for example.
 
-                                                                                                               6.1.2          Making work Open Access
+Traditionally, however, scientists submitting an article to a journal have transferred copyright (which is actually a bundle of rights) to the publisher by signing the publisher's copyright transfer agreement (CTA). Included in this bundle of rights is the right to publish the work, and publication is precisely what the author seeks to achieve. Many publishing agreements, however, impose severe restrictions on the use of the work. In some cases these can even affect the author's own use of his/her work in teaching and research.
 
-                                     6.1 Copyright and Open Access                                   The perceptions of scientists in respect of what they are
-                                                                                                     allowed to do to disseminate their article, even having
-                                                                                                     signed a publisher CTA, are frequently wrong, and the
-                                            6.1.1      Ownership of works of                         agreement is often much more liberal than they believe107.
-                                                       scholarship                                   Almost 60% of journals allow self-archiving of postprints,
-                                                                                                     albeit usually with an embargo period and a further third
-                                     The ownership of the intellectual property in a journal         allow self-archiving of preprints108. So the commonly-held
-                                     article or book resides normally with the author except for     belief that publishers systematically thwart Open Access is
-                                     those circumstances where the author's employer claims          largely erroneous.
-                                     ownership under conditions of employment. This may be           Nonetheless, some publishers do not allow authors to
-                                     the case where researchers are employed by Government           provide any access themselves to their own work and
-                                     research establishments, for example.                           many allow self-archiving only after an embargo period,
-                                     Traditionally, however, scientists submitting an article to     put in place to protect their sales revenue. In addition,
-                                     a journal have transferred copyright (which is actually a
-                                     bundle of rights) to the publisher by signing the publisher's   106 Cox, J and Cox, L (2008) Scholarly Publishing Practice; Third survey 2008:
-                                     copyright transfer agreement (CTA). Included in this                Academic journal publishers" policies and practices in online publishing.
-                                                                                                         Shoreham-by-Sea, ALPSP. http://www.alpsp.org/ngen_public/article.
-                                     bundle of rights is the right to publish the work, and              asp?aid=24781
-                                     publication is precisely what the author seeks to achieve.      107 See Morris (2009) Journal authors" rights: perception and reality http://
-                                                                                                         www.publishingresearch.net/documents/JournalAuthorsRights.pdf
-                                     Many publishing agreements, however, impose severe              108 http://www.sherpa.ac.uk/romeo/statistics.php?la=en
+It is perfectly possible for scientists to have their work published without signing over all rights. Some rights can be retained by scientists, allowing them to do what they want in terms of dissemination through alternative channels as well as through the journal in which they have chosen to publish. The most common way of achieving this is for the publisher to have a Licence To Publish (LTP) and for the author to retain the rest of the bundle of rights. Publishers can use such devices to acquire the rights they need to publish the work without acquiring the rest of the rights in the work. There seems to be a general trend in this direction. A 2008 survey indicated that there had been a drop in the number of publishers requiring copyright transfer from the author from 83% in 2003, to 61% in 2005 and to 53% in 2008. In 2005, 3% of publishers were found not to require any form of written agreement with the author and this had increased to almost 7% by 2008[fn:106].
 
+**** DONE 6.1.2 Making work Open Access [100%]
 
+The perceptions of scientists in respect of what they are allowed to do to disseminate their article, even having signed a publisher CTA, are frequently wrong, and the agreement is often much more liberal than they believe[fn:107]. Almost 60% of journals allow self-archiving of postprints, albeit usually with an embargo period and a further third allow self-archiving of preprints[fn:108]. So the commonly-held belief that publishers systematically thwart Open Access is largely erroneous.
 
-36
-their position may change. There have already been cases                           Sometimes, institutions may develop their own
-of publishers shifting their stance on self-archiving as                           agreements for authors to offer to publishers. In the case
-levels of the practice begin to grow.                                              of institutionally-developed agreements, there is usually
-                                                                                   provision for the institution itself to hold some rights to
-The simplest approach to ensuring that work can be made
-                                                                                   use the work as well. MIT developed an author addendum
-Open Access without any problem is to retain the right
-                                                                                   for its researchers in 2006 and in 2007 a consortium of
-to do so. The right can be retained either by the authors
-                                                                                   12 research universities produced an "addendum from
+Nonetheless, some publishers do not allow authors to provide any access themselves to their own work and many allow self-archiving only after an embargo period, put in place to protect their sales revenue. In addition, their position may change. There have already been cases of publishers shifting their stance on self-archiving as levels of the practice begin to grow.
 
+The simplest approach to ensuring that work can be made Open Access without any problem is to retain the right to do so. The right can be retained either by the authors themselves or by an agent for the author with the author's permission. These are two different situations and warrant brief description.
 
+***** DONE 6.1.2.1 Rights retention by the author
 
+As noted above, at the time a paper is accepted for publication authors are asked by the publisher to sign a CTA and the whole bundle of intellectual property rights usually moves into the publisher's hands. Open Access from that point on is by grace of the publisher. Authors can, however, retain the rights they need to make their work openly available by negotiating with the publisher at this point.
 
-                                                                                                                                                                    Section 6. Copyright and licensing
-themselves or by an agent for the author with the author's
-                                                                                   the Committee for Institutional Cooperation"112 and
-permission. These are two different situations and warrant
-                                                                                   the same year the University of California produced its
-brief description.
-                                                                                   own Amendment to Publication Agreement113. Other
-                                                                                   addenda or agreements have been drawn up by individual
-                    6.1.2.1        Rights retention by the author                  universities or research institutions114. Institutional policies
-As noted above, at the time a paper is accepted for                                on copyright are increasing as Open Access becomes
-publication authors are asked by the publisher to sign a                           mainstream and universities seek to protect future
-CTA and the whole bundle of intellectual property rights                           research outputs from falling under publisher ownership.
-usually moves into the publisher's hands. Open Access                              The University of Texas, for example, declares in its
-from that point on is by grace of the publisher. Authors                           copyright management guidelines that its researchers
-can, however, retain the rights they need to make their                            must manage copyright in their articles for the benefit of
-work openly available by negotiating with the publisher at                         "the authors, the citizens of Texas, state government, the
-this point.                                                                        component institutions, and the U. T. System".
+The term "negotiation" does not imply haggling: there are tools available to help the author amend the CTA so that the necessary rights are retained. These are "author addenda", specific pieces of legal wording that authors can append to a publisher's CTA and which state the rights that the author will retain after passing an article to a publisher for publication. Addenda vary considerably, so care must be taken to choose an addendum that suits the author (or institution) in each particular case. Many addenda restrict the author to use the work for non- commercial purposes, for example, which may work well if the author is publishing a journal article, but may restrict the author too much if the output is another type of work. Two widely-used author addenda are those from SPARC/Science Commons[fn:109] and from SURF/JISC[fn:110].
 
-The term "negotiation" does not imply haggling: there                              Publishers are not obliged to accept author addenda,
-are tools available to help the author amend the CTA so                            though many do, including some of the largest publishers,
-that the necessary rights are retained. These are "author                          though the author needs to specifically request this: it
-addenda", specific pieces of legal wording that authors                            is not offered as an option upfront by the publisher. In
-can append to a publisher's CTA and which state the                                the case of the NIH policy (the Wellcome Trust policy is
-rights that the author will retain after passing an article to                     similar), which stipulates that authors must retain the non-
-a publisher for publication. Addenda vary considerably,                            exclusive right to make future articles Open Access, some
-so care must be taken to choose an addendum that suits                             publishers did indeed initially announce that they would
-the author (or institution) in each particular case. Many                          not publish NIH-funded work under such conditions. The
-addenda restrict the author to use the work for non-                               aftermath, however, is that these publishers have retracted
-commercial purposes, for example, which may work well                              this position and there are now no publishers that will not
-if the author is publishing a journal article, but may restrict                    publish articles from NIH-funded research, even under the
-the author too much if the output is another type of work.                         conditions imposed by the NIH115.
-Two widely-used author addenda are those from SPARC/
-Science Commons109 and from SURF/JISC110.                                                             6.1.2.2       Rights retention by the
-                                                                                                                    employer
-Individual universities, such as the University of California
-                                                                                   As stated above, in the case of Government research
-at Berkeley, are actively encouraging faculty to retain
-                                                                                   establishments, rights over results produced by employees
-intellectual property rights altogether or to use only
-                                                                                   are usually held by the employer. This agreement with the
-publishers that "maintain reasonable business practices"111.
-                                                                                   employee, as a condition of employment, predates any
-                                                                                   subsequent agreement with a publisher and renders it
-109 These two organisations have between them developed the Scholar's              void.
-    Copyright Addendum Engine which includes a number of addenda,
-    including SPARC's own Author Addendum: http://sciencecommons.org/
-    projects/publishing/scae/ plus a brochure about rights http://www.arl.org/     Universities, too, can use this formula, and some are doing
-    sparc/author/index.shtml
-                                                                                   so. Harvard University, the most prominent example, was
-110 The SURF/JISC Copyright Toolbox, developed by the SURF Foundation in
-    the Netherlands and the Joint Information Systems Committee (JISC) in the
-    UK, incorporates a licence-to-publish that authors can assign to publishers.
-    This enables them to retain a bundle of rights for themselves over the use     112 http://www.lib.umn.edu/scholcom/CICAuthorsRights.pdf
-    of their own work. The Toolkit also provides sample wordings that can be
-    used if an author or publisher wishes to amend the standard publishing         113 http://osc.universityofcalifornia.edu/manage/model-amendment.pdf
-    agreement in the licence: http://copyrighttoolbox.surf.nl/copyrighttoolbox/    114 The Open Access Directory maintains a list of addenda: http://oad.simmons.
-    authors/                                                                           edu/oadwiki/Author_addenda
-111 University of California Statement of Principles on Scholarly                  115 Of publishers surveyed: list maintained by the Open Access Directory:
-    Publishing(2005): http://senate.britain.dnsalias.net/sites/default/files/          http://oad.simmons.edu/oadwiki/Publisher_policies_on_NIH-funded_
-    recommendations-reports/statement_of_principles_for_web.pdf                        authors
+Individual universities, such as the University of California at Berkeley, are actively encouraging faculty to retain intellectual property rights altogether or to use only publishers that "maintain reasonable business practices"[fn:111].
 
+Sometimes, institutions may develop their own agreements for authors to offer to publishers. In the case of institutionally-developed agreements, there is usually provision for the institution itself to hold some rights to use the work as well. MIT developed an author addendum for its researchers in 2006 and in 2007 a consortium of 12 research universities produced an "addendum from the Committee for Institutional Cooperation"[fn:112] and the same year the University of California produced its own Amendment to Publication Agreement[fn:113]. Other addenda or agreements have been drawn up by individual universities or research institutions[fn:114]. Institutional policies on copyright are increasing as Open Access becomes mainstream and universities seek to protect future research outputs from falling under publisher ownership. The University of Texas, for example, declares in its copyright management guidelines that its researchers must manage copyright in their articles for the benefit of "the authors, the citizens of Texas, state government, the component institutions, and the U. T. System".
 
+Publishers are not obliged to accept author addenda, though many do, including some of the largest publishers, though the author needs to specifically request this: it is not offered as an option upfront by the publisher. In the case of the NIH policy (the Wellcome Trust policy is similar), which stipulates that authors must retain the non-exclusive right to make future articles Open Access, some publishers did indeed initially announce that they would not publish NIH-funded work under such conditions. The aftermath, however, is that these publishers have retracted this position and there are now no publishers that will not publish articles from NIH-funded research, even under the conditions imposed by the NIH[fn:115].
 
-                                                                                                                                                                    37
-                                     given this right by unanimous votes at a series of meetings                   illustrate an argument in digital teaching materials placed
-                                     of faculties. Faculties voted to grant the university a                       on the Web?
-                                     nonexclusive, irrevocable right to distribute their scholarly
-                                                                                                                   Proper, appropriate licensing sets out the conditions for
-                                     articles for non-commercial purposes116.
-                                                                                                                   re-use and reassures would-be users that they can use the
-                                     Other universities have established such rights, too.                         material in particular ways with impunity. This is important
-                                     For example, Queensland University of Technology in                           both for individuals seeking to understand how they can
-Section 6. Copyright and licensing
+***** DONE 6.1.2.2 Rights retention by the employer
 
+As stated above, in the case of Government research establishments, rights over results produced by employees are usually held by the employer. This agreement with the employee, as a condition of employment, predates any subsequent agreement with a publisher and renders it void.
 
+Universities, too, can use this formula, and some are doing so. Harvard University, the most prominent example, was given this right by unanimous votes at a series of meetings of faculties. Faculties voted to grant the university a nonexclusive, irrevocable right to distribute their scholarly articles for non-commercial purposes[fn:116].
 
+Other universities have established such rights, too. For example, Queensland University of Technology in Brisbane, Australia, has wording in its Intellectual Property Policy[fn:117] as follows:
 
-                                     Brisbane, Australia, has wording in its Intellectual Property                 use the material and for text-mining and data-mining
-                                     Policy117 as follows:                                                         approaches to knowledge creation. This second matter
-                                                                                                                   will grow in importance as the use of these technologies
-                                         Under the terms of QUT Intellectual Property Policy, the
-                                                                                                                   become more widespread. Legal changes will be needed
-                                         University specifies that any assignment of copyright
-                                                                                                                   in many jurisdictions to enable them. At the time of
-                                         in scholarly works authored by staff is subject to the
-                                                                                                                   writing the UK Government has signalled its intent to
-                                         University retaining a perpetual, irrevocable, non-exclusive
-                                                                                                                   make the technology exempt from UK copyright law118. As
-                                         right to use that work for teaching, for research and
-                                                                                                                   yet, only Japan makes this permissible.
-                                         to disseminate a version of the work online (for non-
-                                         commercial purposes) via QUT ePrints [the university
-                                         repository] no later than 12 months after the publication                          6.2.2         Licensing principles
-                                         date.
-                                                                                                                   Formal licensing is not yet ubiquitous in Open Access
-                                     Such agreements with authors, made by the employer
-                                                                                                                   practice, despite the advantages it brings. Licensing an
-                                     in advance of any later arrangement with publishers,
-                                                                                                                   article or book clarifies what users may do with it and, by
-                                     ensures that the necessary rights management is in
-                                                                                                                   instilling confidence in the user about how they might use
-                                     place to enable Open Access, whatever the publisher's
-                                                                                                                   the work, encourages use.
-                                     position. Of course, the publisher is perfectly at liberty to
-                                     refuse to publish the work under such conditions: that is                     The Budapest Open Access Initiative, Berlin Declaration
-                                     the balance that is striven for between author rights and                     and Bethesda Statement on Open Access Publishing
-                                     publisher rights. Publishers may opt not to publish the                       laid out the conditions for Open Access (see Section 1.3).
-                                     work under these conditions: that is their choice.                            Broadly, these were:
+#+BEGIN_QUOTE
+Under the terms of QUT Intellectual Property Policy, the University specifies that any assignment of copyright in scholarly works authored by staff is subject to the University retaining a perpetual, irrevocable, non-exclusive right to use that work for teaching, for research and to disseminate a version of the work online (for non-commercial purposes) via QUT ePrints [the university repository] no later than 12 months after the publication date.
+#+END_QUOTE
 
-                                                                                                                   + That the peer-reviewed literature is available without
-                                                                                                                     subscription or price barriers
-                                     6.2 Licensing                                                                 + That the literature is available immediately
+Such agreements with authors, made by the employer in advance of any later arrangement with publishers, ensures that the necessary rights management is in place to enable Open Access, whatever the publisher's position. Of course, the publisher is perfectly at liberty to refuse to publish the work under such conditions: that is the balance that is striven for between author rights and publisher rights. Publishers may opt not to publish the work under these conditions: that is their choice.
 
-                                                                                                                   + That the published material may be re-used in various
-                                              6.2.1          Why licensing Open Access                               ways without permission
-                                                             content is important
-                                                                                                                   The Budapest Initiative states:
+*** DONE 6.2 Licensing [100%]
+**** DONE 6.2.1 Why licensing Open Access content is important
 
-                                     The most fundamental condition for Open Access is                                 "The only constraint on reproduction and distribution,
-                                     simply that the full text of a journal article or book section                    and the only role for copyright in this domain, should be
-                                     is available for anyone to read, free of charge. This alone,                      to give authors control over the integrity of their work and
-                                     however, does not conform to the "BBB" (Budapest,                                 the right to be properly acknowledged and cited."
-                                     Bethesda, Berlin: see section 1.3) definitions of true Open
-                                     Access and certainly does not permit the new uses that                        This means that Open Access articles and books, including
-                                     have so much promise.                                                         data, graphics and supplements, may be linked to, crawled
-                                                                                                                   by search engines, excerpted and extracted, crawled by
-                                     Moreover, if an article carries no licence information at all                 text mining technologies, clipped into other articles, blogs,
-                                     it is not clear to users what they might do with it: can they                 and so forth completely free of charge. The only condition
-                                     extract a graph or table and put it in another document?                      is proper accreditation of the source. The publisher may
-                                     Can they take numerical data and add them to an existing,
-                                     separate database? Can they use passages from the text to                     118 See the UK Government's announcement of a plan of action http://www.
-                                                                                                                       bis.gov.uk/news/topstories/2011/Aug/reforming-ip in response to a recent
-                                                                                                                       review of intellectual property carried out for the UK Government by
-                                     116 http://osc.hul.harvard.edu/policies                                           Hargreaves (2011) (full reference in bibliography) and the Government's
-                                     117 QUT Intellectual Property Policy: http://www.mopp.qut.edu.au/D/D_03_01.       response in full: http://www.bis.gov.uk/assets/biscore/innovation/docs/
-                                         jsp#D_03_01.05.mdoc                                                           g/11-1199-government-response-to-hargreaves-review
+The most fundamental condition for Open Access is simply that the full text of a journal article or book section is available for anyone to read, free of charge. This alone, however, does not conform to the "BBB" (Budapest, Bethesda, Berlin: see section 1.3) definitions of true Open Access and certainly does not permit the new uses that have so much promise.
 
+Moreover, if an article carries no licence information at all it is not clear to users what they might do with it: can they extract a graph or table and put it in another document? Can they take numerical data and add them to an existing, separate database? Can they use passages from the text to illustrate an argument in digital teaching materials placed on the Web?
 
+Proper, appropriate licensing sets out the conditions for re-use and reassures would-be users that they can use the material in particular ways with impunity. This is important both for individuals seeking to understand how they can use the material and for text-mining and data-mining approaches to knowledge creation. This second matter will grow in importance as the use of these technologies become more widespread. Legal changes will be needed in many jurisdictions to enable them. At the time of writing the UK Government has signalled its intent to make the technology exempt from UK copyright law[fn:118]. As yet, only Japan makes this permissible.
 
-38
-be part of that accreditation, though this is not always the                     website120. The site has a licence generator tool for
-case, particularly with journal articles. With Open Access                       publishers and creators to use.
-book content, the publisher is almost always cited in the
-                                                                                 Where publishers and authors wish to make their work
-accreditation in alignment with the norms of scholarly
-                                                                                 as freely reusable as possible, including by other parties
-practice.
-                                                                                 who may develop new products to sell by reusing the
-                                                                                 material in some way, the most appropriate licence
+**** DONE 6.2.2 Licensing principles
 
+Formal licensing is not yet ubiquitous in Open Access practice, despite the advantages it brings. Licensing an article or book clarifies what users may do with it and, by instilling confidence in the user about how they might use the work, encourages use.
 
+The Budapest Open Access Initiative, Berlin Declaration and Bethesda Statement on Open Access Publishing laid out the conditions for Open Access (see Section 1.3). Broadly, these were:
 
+  + That the peer-reviewed literature is available without subscription or price barriers.
 
-                                                                                                                                                Section 6. Copyright and licensing
-         6.2.3         Licensing practice                                        for the publisher to use in this instance is the Creative
-                                                                                 Commons "Attribution" licence (commonly referred to as
-Authors and publishers who wish to enable true Open                              "CC-BY"), a tool that requires the creator of the work to be
-Access must therefore word their licences accordingly.                           acknowledged when the work is re-used but does not
-This can be a challenging task for some publishers (or                           restrict the re-use in any way.
-individual authors who may also wish to disseminate their
-                                                                                 Where publishers and authors may wish to restrict some
-own work with a clear set of permissions attached to it).
-                                                                                 forms of re-use, such as not permitting commercial
-                                                                                 derivatives to be made, there is a Creative Commons
-                   6.2.3.1       Repositories
-                                                                                 licence for these possibilities, too. The key terms of CC
-For repository content, there is a variable picture.                             licences are Attribution, No Commercial, No Derivatives
-Repository software usually makes provision for a                                and Share Alike.
-depositor to select a particular licence to attach to
-                                                                                 The advantages of using a Creative Commons licence over
-each item deposited (including Creative Commons
-                                                                                 a custom one are:
-licences; see below). This is not obligatory, however, so
-many items carry no licence information at all. Others                           + There is almost certainly a ready-made licence that
-may have a standard copyright statement or one with                                will suit the publisher's requirements, saving time and
-some modification for specific use provision (e.g. non-                            effort in drawing up a custom licence
-commercial use only), or a formal licence of some kind.
-                                                                                 + Creative Commons licences are easily understood and
-                   6.2.3.2       Open Access journals                              commonly used, so that a potential reader or re-user of
-                                                                                   a work will immediately understand the conditions of
-Although libre Open Access is the ideal, even most Open                            the licence
-Access journals do not offer this, instead publishing under
-traditional copyright conditions (all rights reserved) and                       + The licences have machine-readable metadata,
-allowing fair use/fair dealing only119.                                            simplifying processes where applications such as
-                                                                                   harvesters and text-mining tools carry out automated
-                                                                                   tasks: these tools can recognise, by the machine-
-                   6.2.3.3       Creative Commons licensing
-                                                                                   readable licence, which content they are permitted to
-The Creative Commons organisation has developed a set                              gather and work upon
-of licences from which authors or publishers can choose.
-Some Open Access publishers use Creative Commons
-licences to ensure that the content of the articles
-published in their journals are reusable in the widest (libre
-Open Access) sense: that is, they can be reproduced,
-abstracted, "mashed up" with other material to produce
-new information, crawled by text-mining and data-mining
-tools and so on.
+  + That the literature is available immediately.
 
-Creative Commons has designed a collection of licences
-to ensure that there is a suitable licence for every purpose.
-The explanation of these licences and how they can be
-used to best effect is provided on the Creative Commons
+  + That the published material may be re-used in various ways without permission.
 
-119 The Directory of Open Access Journals lists 1535 (22% of the total
-    6873) using some kind of Creative Commons licence: http://www.doaj.
-    org/?func=licensedJournals. 763 journals (11% of the total) have the SPARC
-    Europe Seal of Approval (which requires a CC-BY licence): http://www.doaj.
-    org/doaj?func=sealedJournals&uiLanguage=en                                   120 http://creativecommons.org/
+The Budapest Initiative states:
 
+#+BEGIN_QUOTE
+"The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited."
+#+END_QUOTE
 
+This means that Open Access articles and books, including data, graphics and supplements, may be linked to, crawled by search engines, excerpted and extracted, crawled by text mining technologies, clipped into other articles, blogs, and so forth completely free of charge. The only condition is proper accreditation of the source. The publisher may be part of that accreditation, though this is not always the case, particularly with journal articles. With Open Access book content, the publisher is almost always cited in the accreditation in alignment with the norms of scholarly practice.
 
-                                                                                                                                                39
-                                     Summary points on copyright
-                                     + Open Access requires the copyright holder's consent
+**** DONE 6.2.3 Licensing practice [100%]
 
-                                     + Copyright is a bundle of rights
+Authors and publishers who wish to enable true Open Access must therefore word their licences accordingly. This can be a challenging task for some publishers (or individual authors who may also wish to disseminate their own work with a clear set of permissions attached to it).
 
-                                     + The norm is to sign the whole bundle of rights over to the journal publisher, though it is not necessary to do this in most cases: publishers can go
-Section 6. Copyright and licensing
+***** DONE 6.2.3.1 Repositories
 
+For repository content, there is a variable picture. Repository software usually makes provision for a depositor to select a particular licence to attach to each item deposited (including Creative Commons licences; see below). This is not obligatory, however, so many items carry no licence information at all. Others may have a standard copyright statement or one with some modification for specific use provision (e.g. non-commercial use only), or a formal licence of some kind.
 
+***** DONE 6.2.3.2 Open Access journals
 
+Although libre Open Access is the ideal, even most Open Access journals do not offer this, instead publishing under traditional copyright conditions (all rights reserved) and allowing fair use/fair dealing only[fn:119].
 
-                                       about their work so long as the author signs over the them the right to publish the work
+***** DONE 6.2.3.3 Creative Commons licensing
 
-                                     + Authors and other copyright holders (employers and funders) can retain the rights they need to make the work Open Access
+The Creative Commons organisation has developed a set of licences from which authors or publishers can choose. Some Open Access publishers use Creative Commons licences to ensure that the content of the articles published in their journals are reusable in the widest (libre Open Access) sense: that is, they can be reproduced, abstracted, "mashed up" with other material to produce new information, crawled by text-mining and data-mining tools and so on.
 
-                                     + A premeditated retention of sufficient rights to enable Open Access is the preferable course of action rather than seeking permission post-
-                                       publication
+Creative Commons has designed a collection of licences to ensure that there is a suitable licence for every purpose. The explanation of these licences and how they can be used to best effect is provided on the Creative Commons website[fn:120]. The site has a licence generator tool for publishers and creators to use.
 
-                                     + Licensing scientific works is good practice because it makes clear to the user what can be done with the work and by that can encourage use
+Where publishers and authors wish to make their work as freely reusable as possible, including by other parties who may develop new products to sell by reusing the material in some way, the most appropriate licence for the publisher to use in this instance is the Creative Commons "Attribution" licence (commonly referred to as "CC-BY"), a tool that requires the creator of the work to be acknowledged when the work is re-used but does not restrict the re-use in any way.
 
-                                     + Only a minor part of the Open Access literature is formally licensed at present: this is the case even for Open Access journal content
+Where publishers and authors may wish to restrict some forms of re-use, such as not permitting commercial derivatives to be made, there is a Creative Commons licence for these possibilities, too. The key terms of CC licences are Attribution, No Commercial, No Derivatives and Share Alike.
 
-                                     + Creative Commons licensing is best practice because the system is well-understood, provides a suite of licences that cover all needs, and the licences
-                                       are machine-readable
+The advantages of using a Creative Commons licence over a custom one are:
 
-                                     + Otherwise, legal amendments to copyright law will be necessary in most jurisdictions to enable text-mining and data-mining for material without
-                                       an appropriate Creative Commons licence
+  + There is almost certainly a ready-made licence that will suit the publisher's requirements, saving time and effort in drawing up a custom licence.
 
+  + Creative Commons licences are easily understood and commonly used, so that a potential reader or re-user of a work will immediately understand the conditions of the licence.
 
+  + The licences have machine-readable metadata, simplifying processes where applications such as harvesters and text-mining tools carry out automated tasks: these tools can recognise, by the machine-readable licence, which content they are permitted to gather and work upon.
 
+**** DONE Summary points on copyright
 
-40
+  + Open Access requires the copyright holder's consent.
+
+  + Copyright is a bundle of rights.
+
+  + The norm is to sign the whole bundle of rights over to the journal publisher, though it is not necessary to do this in most cases: publishers can go about their work so long as the author signs over the them the right to publish the work.
+
+  + Authors and other copyright holders (employers and funders) can retain the rights they need to make the work Open Access.
+
+  + A premeditated retention of sufficient rights to enable Open Access is the preferable course of action rather than seeking permission post-publication.
+
+  + Licensing scientific works is good practice because it makes clear to the user what can be done with the work and by that can encourage use.
+
+  + Only a minor part of the Open Access literature is formally licensed at present: this is the case even for Open Access journal content.
+
+  + Creative Commons licensing is best practice because the system is well-understood, provides a suite of licences that cover all needs, and the licences are machine-readable.
+
+  + Otherwise, legal amendments to copyright law will be necessary in most jurisdictions to enable text-mining and data-mining for material without an appropriate Creative Commons licence.
+
 ** TODO Section 7. Strategies to promote Open Access
 S
      trategies to promote Open Access fall into              very existence, policies serve to promote the aims and
@@ -3534,3 +3342,18 @@ the accessibility, usage and applications of their findings.
 [fn:103] http://www.oapen.org/home
 [fn:104] See Houghton et al (2006a), (2006b), (2009a), (2009b), Knowledge Exchange (2009) and CEPA (2011). Full references in the bibliography.
 [fn:105] For example, the UK study demonstrated a forty-fold benefit/cost ratio from "green" Open Access and for the US the benefit from Open Access to all research published by the main Federal agencies would be between 4 and 25 times the cost.
+[fn:106] Cox, J and Cox, L (2008) Scholarly Publishing Practice; Third survey 2008: Academic journal publishers" policies and practices in online publishing. Shoreham-by-Sea, ALPSP. http://www.alpsp.org/ngen_public/article.asp?aid=24781
+[fn:107] See Morris (2009) Journal authors" rights: perception and reality http://www.publishingresearch.net/documents/JournalAuthorsRights.pdf
+[fn:108] http://www.sherpa.ac.uk/romeo/statistics.php?la=en
+[fn:109] These two organisations have between them developed the Scholar's Copyright Addendum Engine which includes a number of addenda, including SPARC's own Author Addendum: http://sciencecommons.org/projects/publishing/scae/ plus a brochure about rights http://www.arl.org/sparc/author/index.shtml
+[fn:110] The SURF/JISC Copyright Toolbox, developed by the SURF Foundation in the Netherlands and the Joint Information Systems Committee (JISC) in the UK, incorporates a licence-to-publish that authors can assign to publishers. This enables them to retain a bundle of rights for themselves over the use of their own work. The Toolkit also provides sample wordings that can be used if an author or publisher wishes to amend the standard publishing agreement in the licence: http://copyrighttoolbox.surf.nl/copyrighttoolbox/authors/
+[fn:111] University of California Statement of Principles on Scholarly Publishing(2005): http://senate.britain.dnsalias.net/sites/default/files/recommendations-reports/statement_of_principles_for_web.pdf
+[fn:112] http://www.lib.umn.edu/scholcom/CICAuthorsRights.pdf
+[fn:113] http://osc.universityofcalifornia.edu/manage/model-amendment.pdf
+[fn:114] The Open Access Directory maintains a list of addenda: http://oad.simmons.edu/oadwiki/Author_addenda
+[fn:115] Of publishers surveyed: list maintained by the Open Access Directory: http://oad.simmons.edu/oadwiki/Publisher_policies_on_NIH-funded_authors
+[fn:116] http://osc.hul.harvard.edu/policies
+[fn:117] QUT Intellectual Property Policy: http://www.mopp.qut.edu.au/D/D_03_01.jsp#D_03_01.05.mdoc
+[fn:118] See the UK Government's announcement of a plan of action http://www.bis.gov.uk/news/topstories/2011/Aug/reforming-ip in response to a recent review of intellectual property carried out for the UK Government by Hargreaves (2011) (full reference in bibliography) and the Government's response in full: http://www.bis.gov.uk/assets/biscore/innovation/docs/g/11-1199-government-response-to-hargreaves-review
+[fn:119] The Directory of Open Access Journals lists 1535 (22% of the total 6873) using some kind of Creative Commons licence: http://www.doaj.org/?func=licensedJournals. 763 journals (11% of the total) have the SPARC Europe Seal of Approval (which requires a CC-BY licence): http://www.doaj.org/doaj?func=sealedJournals&uiLanguage=en
+[fn:120] http://creativecommons.org/
