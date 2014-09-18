@@ -1051,588 +1051,233 @@ Publisher associations:
 
 + There are many actors pursuing these strategies on international, national and local levels with whom UNESCO could work and partner
 
-** TODO Section 8. Policy framework for Open Access [%]
-P
-     olicy development is of critical importance                                 on 12 May 2011145. Laws are also under development in
-     to the progress of Open Access and a                                        Argentina146, Poland and Brazil at the present time.
-     structured process is the best way to
-                                                                                 At the time of writing there are in total 297 mandatory
-ensure a good policy outcome 144. Policy support
-                                                                                 Open Access policies in force from research funders
-is necessary even where advocacy is at its most
-                                                                                 (52 policies), universities and research institutes (132
-effective.
-                                                                                 policies) and individual departments, faculties or schools
-                                                                                 in research-based institutions (31 policies). Mandatory
-                                                                                 policies covering doctoral and master's theses have also
-8.1 Development and growth of                                                    been introduced in some institutions (82 policies).
-
-    policies                                                                     Figure 7 shows the growth of mandatory Open Access
-                                                                                 policies over the last decade147.
-While there had been various policy approaches
-that involved encouraging Open Access or issuing a
-declaration of approval for the concept, the first policy
-to have any real effect was the mandatory one adopted
-by the School of Electronics & Computer Science at the
-University of Southampton, UK, in 2002. This required
-authors in that School to place their postprints (the
-authors" final version of their peer-reviewed articles) in
-the School's repository. It was followed by a similar policy
-covering the whole institution at Queensland University of
-                                                                                 Figure 7: Growth of mandatory policies on Open Access (data for
-Technology, Brisbane, in 2004 and, later in that year, at the                               years 2006 onwards shown by year-quarter)
-University of Minho in Braga, Portugal.                                                                 Source: ROARMAP148
-
-
-These are institutional policies -- or, in the case of
-Southampton, a sub-institutional policy since it affected
-just one School. Research funders, too, have been
-                                                                                 8.2 Policy issues
-introducing policies over the past 5 years or so. The
-first was the Wellcome Trust, a London-based funder of
-biomedical research worldwide. It adopted its policy in
-                                                                                          8.2.1          Voluntary or mandatory
-2005, quickly followed by the National Institutes of Health
-(NIH) in the US.
-                                                                                 Welcome though the growth in polices is, there are
-As well as institutional and funder policies, there has been                     nonetheless many thousands of universities, research
-some development of policy at national level. The first                          institutes and research funders across the world that
-national policy was in the Ukraine in 2007. A draft law on
-science policy was released in early 2009 in Spain that                          145 Ley de la Ciencia (government press release in Spanish): http://bit.ly/nfeiAC.
-included a section on Open Access and this was ratified                              For a translation of the relevant Article into English: http://bit.ly/l4wmVQ
-                                                                                 146 http://www.unlp.edu.ar/uploads/docs/con_sup_junio_2011anteproyecto_
-                                                                                     de_ley_de_repositorios.pdf
-
-144 See guidelines in the Portuguese RCAAP OA Policy Toolkit: http://projecto.   147 The Registry of Open Access Repository Mandatory Archiving Policies
-    rcaap.pt/index.php/lang-pt/consultar-recursos-de-apoio/remository?func=          (ROARMAP) monitors policy growth: http://roarmap.eprints.org/
-    startdown&id=336                                                             148 http://roarmap.eprints.org/ (accessed August 2011)
-
-
-
-                                                                                                                                                                      45
-                                              have not yet implemented an Open Access policy --                                                           8.2.2      Types of Open Access
-                                              and without policies deposit levels (self-deposit) for
-                                              repositories remain obstinately low at around 20-30% of                                             A policy can cover either only "green", or both "green"
-                                              total scholarly works (research outputs).                                                           and "gold", Open Access, but there is a difference of
-                                                                                                                                                  approach for each type. While "green" Open Access (using
-                                              Evidence has unequivocally demonstrated that to
-                                                                                                                                                  repositories) can be mandated by institutions or funders, it
-                                              have real effect policies must be mandatory, whether
-                                                                                                                                                  would be extremely problematical for a policy to insist on
-Section 8. Policy framework for Open Access
-
+** TODO Section 8. Policy framework for Open Access [60%]
 
+Policy development is of critical importance to the progress of Open Access and a structured process is the best way to ensure a good policy outcome [fn:144]. Policy support is necessary even where advocacy is at its most effective.
 
+*** DONE 8.1 Development and growth of policies
 
-                                              institutional or funder policies. Mandatory policies at
-                                                                                                                                                  "gold" Open Access: that would mean compelling scientists
-                                              institutions succeed in accumulating content in their
-                                                                                                                                                  to publish in particular journals. There is no mandatory
-                                              repositories, averaging 60% of total output after a couple
-                                                                                                                                                  policy on "gold" Open Access to date, though many do
-                                              of years of the policy being in place149. Figure 8 shows
-                                                                                                                                                  include encouragement to scientists to publish in an Open
-                                              the levels of Open Access in institutional repositories with
-                                                                                                                                                  Access journal if there is a suitable one.
-                                              mandatory policies compared to the level of voluntary
-                                              self-archiving.                                                                                     Some funders (and a very few universities) also provide
-                                                                                                                                                  funds specifically to pay for article-processing fees for
-                                              Evidence shows that researchers are quite happy to
-                                                                                                                                                  Open Access journals; rather more do not allocate new
-                                              be mandated to act in this way150. The recent growth
-                                                                                                                                                  funds but permit the payment of APCs from grant money.
-                                              in policies based on the "Harvard model", where faculty
-                                                                                                                                                  It should be noted that grant money has been used
-                                              members vote to approve a mandate for Open Access, is a
-                                                                                                                                                  for decades to pay colour charges or page charges to
-                                              manifestation of this.
-                                                                                                                                                  subscription journals: funders that allow this might now
-                                              The NIH introduced a voluntary policy in May 2005 but,                                              consider requiring Open Access for such articles as a
-                                              despite publicising the policy widely and informing                                                 payoff from an otherwise toll-access journal.
-                                              grant-holders, the compliance rate remained stubbornly
-                                                                                                                                                  All mandatory policies have a focus on "green" Open
-                                              low (below 5% in the first year and not much better the
-                                                                                                                                                  Access. They require articles to be deposited in a
-                                              following year). The US Congress then ordered NIH to
-                                                                                                                                                  repository and made Open Access at an appropriate time.
-                                              make the policy mandatory and the new policy took effect
-                                              at the beginning of 2008. Compliance is now well over
-                                              50% and rising.                                                                                            8.2.3      Locus of deposit
+While there had been various policy approaches that involved encouraging Open Access or issuing a declaration of approval for the concept, the first policy to have any real effect was the mandatory one adopted by the School of Electronics & Computer Science at the University of Southampton, UK, in 2002. This required authors in that School to place their postprints (the authors" final version of their peer-reviewed articles) in the School's repository. It was followed by a similar policy covering the whole institution at Queensland University of Technology, Brisbane, in 2004 and, later in that year, at the University of Minho in Braga, Portugal.
 
-                                                                          100%                                                                    Many funder policies stipulate only that articles must be
-                                                                           90%
-                                              Percentage of Open Access
+These are institutional policies -- or, in the case of Southampton, a sub-institutional policy since it affected just one School. Research funders, too, have been introducing policies over the past 5 years or so. The first was the Wellcome Trust, a London-based funder of biomedical research worldwide. It adopted its policy in 2005, quickly followed by the National Institutes of Health (NIH) in the US.
 
+As well as institutional and funder policies, there has been some development of policy at national level. The first national policy was in the Ukraine in 2007. A draft law on science policy was released in early 2009 in Spain that included a section on Open Access and this was ratified on 12 May 2011[fn:145]. Laws are also under development in Argentina[fn:146], Poland and Brazil at the present time.
 
+At the time of writing there are in total 297 mandatory Open Access policies in force from research funders (52 policies), universities and research institutes (132 policies) and individual departments, faculties or schools in research-based institutions (31 policies). Mandatory policies covering doctoral and master's theses have also been introduced in some institutions (82 policies).
 
+Figure 7 shows the growth of mandatory Open Access policies over the last decade[fn:147].
 
-                                                                           80%
-                                                                                                                                                  deposited in "a suitable repository", acknowledging that in
-                                                                           70%                                                                    the disciplines they fund there may be a choice of deposit
-                                                                           60%                                                                    loci. In physics, for example, scientists may prefer to
-                                                                           50%
-                                                                           40%                                                                    deposit their articles in the central arXiv repository rather
-                                                                           30%                                                                    than their institutional repository. In other disciplines,
-                                                                           20%                                                                    where there is not a popular central repository, the
-                                                                           10%
-                                                                            0%                                                                    institutional repository will be the most appropriate place
-                                                                                                                                                  for deposit.
-                                                                                     ho
+*** TODO Figure 7
 
+Figure 7: Growth of mandatory policies on Open Access (data for years 2006 onwards shown by year-quarter)
+Source: ROARMAP[fn:148]
 
-                                                                                              RN
+*** TODO 8.2 Policy issues [92%]
+**** DONE 8.2.1 Voluntary or mandatory
 
+Welcome though the growth in polices is, there are nonetheless many thousands of universities, research institutes and research funders across the world that have not yet implemented an Open Access policy -- and without policies deposit levels (self-deposit) for repositories remain obstinately low at around 20-30% of total scholarly works (research outputs).
 
-                                                                                                        nd
+Evidence has unequivocally demonstrated that to have real effect policies must be mandatory, whether institutional or funder policies. Mandatory policies at institutions succeed in accumulating content in their repositories, averaging 60% of total output after a couple of years of the policy being in place[fn:149]. Figure 8 shows the levels of Open Access in institutional repositories with mandatory policies compared to the level of voluntary self-archiving.
 
+Evidence shows that researchers are quite happy to be mandated to act in this way[fn:150]. The recent growth in policies based on the "Harvard model", where faculty members vote to approve a mandate for Open Access, is a manifestation of this.
 
-                                                                                                                    on
+The NIH introduced a voluntary policy in May 2005 but, despite publicising the policy widely and informing grant-holders, the compliance rate remained stubbornly low (below 5% in the first year and not much better the following year). The US Congress then ordered NIH to make the policy mandatory and the new policy took effect at the beginning of 2008. Compliance is now well over 50% and rising.
 
+**** TODO Figure 8
 
+Figure 8: Percentage of the total institutional journal article outputs made Open Access by self-archiving in repositories at four institutions (universities of Minho and Southampton, Queensland University of Technology and CERN) with mandatory policies, compared with the level of self-archiving at non-mandated institutions (source: Gargouri et al, 2010)
 
+**** DONE 8.2.2 Types of Open Access
 
-                                                                                                                                              d
-                                                                                                                                 ns
+A policy can cover either only "green", or both "green" and "gold", Open Access, but there is a difference of approach for each type. While "green" Open Access (using repositories) can be mandated by institutions or funders, it would be extremely problematical for a policy to insist on "gold" Open Access: that would mean compelling scientists to publish in particular journals. There is no mandatory policy on "gold" Open Access to date, though many do include encouragement to scientists to publish in an Open Access journal if there is a suitable one.
 
+Some funders (and a very few universities) also provide funds specifically to pay for article-processing fees for Open Access journals; rather more do not allocate new funds but permit the payment of APCs from grant money.
 
-                                                                                                                                           te
-                                                                                                                            tio
-                                                                                 in
+It should be noted that grant money has been used for decades to pay colour charges or page charges to subscription journals: funders that allow this might now consider requiring Open Access for such articles as a payoff from an otherwise toll-access journal.
 
+All mandatory policies have a focus on "green" Open Access. They require articles to be deposited in a repository and made Open Access at an appropriate time.
 
+**** DONE 8.2.3 Locus of deposit
 
+Many funder policies stipulate only that articles must be deposited in "a suitable repository", acknowledging that in the disciplines they fund there may be a choice of deposit loci. In physics, for example, scientists may prefer to deposit their articles in the central arXiv repository rather than their institutional repository. In other disciplines, where there is not a popular central repository, the institutional repository will be the most appropriate place for deposit.
 
-                                                                                                                  pt
-                                                                                                       la
-                                                                                            CE
+Institutional policies naturally oblige authors to use the institutional repository for deposit. Not only does this enable them to benefit from the advice and assistance of the repository staff, it has institutional benefits, too, in terms of collecting together all the research outputs from an institution, forming a permanent record of digital scholarship for that institution. In research management terms, the repository is a valuable tool.
 
+Some scientists may find themselves under more than one mandatory policy -- one from their institution and one from their research funder. In response to increasing incidents of this type, technical development work has been carried out to provide tools that enable the author to deposit an article once and for it to be copied into other repositories[fn:151]. UKPMC is developing the means to send a copy of articles deposited there as a result of funder mandates to the institutional repository of the author. These schemes simplify life for authors, encourage compliance with policies and enhance Open Access.
 
+The optimum arrangement, one that accommodates the needs of all stakeholders, and has the potential to collect the greatest amount of Open Access content, is for a network of institutional repositories to be the primary locus for deposit and for centralised, subject-specific collections to be created by harvesting the required content from that network of distributed repositories[fn:152]. Institutions have a strong interest in collecting and stewarding the intellectual capital resulting from their research programmes and can ensure that the material is collected through implementation of a mandatory policy.
 
+**** DONE 8.2.4 Content types [100%]
+***** DONE 8.2.4.1 Literature
 
-                                                                                                                                          da
-                                                                                                    ns
-                                                                                 M
+The target for Open Access is the peer-reviewed literature and most repositories use software that enables searching limited to peer-reviewed material, a matter of good practice. Most policies cover journal articles. Many policies also encompass peer-reviewed conference proceedings because that is the primary publication route for some disciplines, notably engineering and computer sciences. In other disciplines conference proceedings may also be peer-reviewed and published some of the time, but the journal literature remains the main publication route: those cases fall into the "nice to have" rather than "must have" category for Open Access.
 
+As well as these things, many policies cover theses (masters and doctoral) which are, of course, peer-reviewed outputs. In some case, and in particular in Latin America, most policies developed so far are thesis-specific.
 
+Many policies specifically mention and encourage Open Access to books and book sections (chapters) but do not include these in the mandate since, as discussed in section 1.4, books represent a different case as they are not part of the literature given away for free by scientists.
 
+With respect to journal articles, policies generally specify that the version that must be deposited is the postprint -- that is, the author's final version of the article once peer-review has taken place and any required changes have been made. If the policy of the journal in which the article will be published is to allow preprint-only Open Access, then the policy may mention this. The policy will also cover the issue of publisher embargoes.
 
-                                                                                                                 m
+***** DONE 8.2.4.2 Data
 
+Research data are increasingly covered by policies and often these policies are being implemented by smaller, niche players as well as large research funders[fn:153]. These policies are not usually, however, the same (Open Access) policies that cover the text-based literature. Data are exceptional because policies must take into account issues of privacy and special cases where data cannot be released for other reasons. Developing and wording Open Data policies is therefore a specialised issue that is not as straightforward as developing polices for Open Access to the literature. Where there is Open Access policy development now, Open Data policy development will follow.
 
-                                                                                                                           itu
+**** DONE 8.2.5 Embargoes
 
+Many publishers -- but certainly not all -- stipulate an embargo period before an article can be made Open Access. This is a result of publishers" fears of falling sales. Most Open Access policies will acknowledge this and permit embargoes so that authors are not placed in a position of difficulty with respect to their publisher. In science, publisher embargoes are normally 6-12 months: anything longer than that is considered unreasonable by the community, and certainly not in the public interest, and most mandatory policies make a 12-month embargo the maximum permissible: in a considerable number of science funder policies the maximum embargo allowed is 6 months. In any event, policy should specify the length of embargo allowed and not simply leave it as vague language such as "in accordance with the publisher's policy".
 
-                                                                                                                                      an
-                                                                                                   ee
+The problem with allowing embargoes, however, is that authors are almost certain to forget about depositing once months have passed after publication. The natural time for an author to deposit their postprint is when it is ready for final submission to the journal.
 
+To accommodate this, and hence maximise deposit levels, the most common types of repository software offer an embargo facility: the author deposits the postprint at the time of submission to the journal and chooses the embargo length from a list provided by the software. At the end of that embargo period, the software automatically makes the article Open Access.
 
-                                                                                                             ha
+There is something more to this, too: the software ensures that the article metadata (the title, authors, etc) are open from the time of deposit. Metadata are not copyrightable and so publishers cannot prevent them from being displayed. The metadata are indexed by Web search engines (e.g. Google Scholar), so during the embargo period it is possible for users to discover the existence of the article, even though the full-text is not open to them.
 
+Also, and importantly, the institution has a complete record of the research outputs of the institution, not the partial one that would result from a policy that relied upon researchers remembering to deposit six or twelve months down the line from publication.
 
-                                                                                                                         st
+The software has a "request a copy" button that automatically sends an email message to the depositing author asking for a copy to be emailed to the would-be user. This is allowable under "fair use": the author is providing a single copy for private study. Through this arrangement, the article's usage and impact can begin to grow from the moment of deposit, despite the embargo.
 
+**** DONE 8.2.6 Gratis and libre Open Access
 
-                                                                                                                                      M
+Existing mandatory policies generally avoid this distinction[fn:154]. Requiring libre Open Access is considered a step too far at present, despite its promise for science, as it would make it very difficult for authors to publish in journals of choice because of publisher resistance. It is an issue for future policy, though that future will not be too far ahead. The trend for Open Access journals to use Creative Commons licensing to permit liberal re-use is upwards, and as more journals convert to Open Access this can be expected to continue.
 
+**** DONE 8.2.7 Permissions [100%]
 
+As discussed in section 6, Open Access is dependent upon the permission of the copyright holder.
 
+***** DONE 8.2.7.1 Authors as copyright holders
 
-                                                                                                                                                  Institutional policies naturally oblige authors to use the
-                                                                                               Qu
+Where authors retain sufficient right to enable Open Access, policymakers need to find ways to work with that. Institutions can either secure sufficient rights themselves as a condition of employment, or they can be granted those rights by the authors.
 
+An example of the former is Queensland University of Technology, which has the following wording in its Intellectual Property Policy[fn:155]:
 
++ Ownership of copyright:
 
-                                                                                                            ut
+  + In accordance with general law principles noted in section 3.1.4 above, QUT as an employer is the owner of copyright where the work is created by staff members in the course of their employment. QUT's ownership of copyright applies to both academic and professional staff.
 
+  + Assignment of scholarly works:
 
-                                                                                                                     in
+    + Provided that QUT does not have contractual obligations to a third party which would prevent QUT effecting such an assignment, QUT assigns the right to publish scholarly works to the creator(s) of that work. The assignment is subject to a perpetual, irrevocable, worldwide, royalty-free, non-exclusive licence in favour of QUT to allow QUT to use that work for teaching, research and commercialisation purposes and to reproduce and communicate that work online for non-commercial purposes via QUT's open access digital repository.
 
+    + If required, QUT will sign documents to more fully record the staff member's ownership of the right of publication of the copyright in a scholarly work and QUT's non-exclusive licence to that work.
 
-                                                                                                                                  n
-                                                                                                        So
+    + If required, a staff member will sign documents to more fully record the licence in favour of QUT to use scholarly works as contemplated by this section 3.1.5.
 
+    + The "right to publish" scholarly works in this section 3.1.5 means the right to publish a work as referred to in the Copyright Act 1968 (Cwth).
 
+    + The version of the scholarly work that QUT can make available via the digital repository may be the published version or the final post-peer review manuscript version. QUT will agree to third party publisher-requested embargoes of 12 months or less (from date of publication by the third party publisher) on the publication of the manuscript via the digital repository.
 
-                                                                                                                    4
+    + Any subsequent publication agreement or assignment of the right to publish the scholarly work entered into by the creator will be subject to the terms of the pre-existing non-exclusive licence referred to in this section 3.1.5.
 
+An example of the latter is the Harvard University position, where researchers in six faculties have voted to grant to the University a nonexclusive, irrevocable right to distribute their scholarly articles for any non-commercial purpose[fn:156]. This right trumps any other, subsequent agreement with publishers.
 
-                                                                                                                                 No
+***** DONE 8.2.7.2 Publishers as copyright holders
 
+Where the author has transferred all rights to the publisher, as is most often the case when signing a standard publisher CTA (see section 6), permission to make work Open Access must be sought from the publisher.
 
+Seeking permission from publishers for more than they offer as standard is unlikely to be successful. In the case of more than half of journals, the publisher does allow some form of self-archiving, though in around one-third of journals this is for the preprint only, an unsatisfactory state of affairs for many authors. It is unusual for a publisher to change position, when asked, to permit self-archiving of the postprint. Publishers are also unlikely to change their stance on embargo length.
 
+Policymakers should take these things into account when wording a policy. Above all, the balance of interests of the different parties should be considered. The public interest is that scientific results are placed in the public arena immediately they are publishable. A policy position that compromises this by deferring to publisher interests[fn:157] is a weak one.
 
-                                                                                                                                                  institutional repository for deposit. Not only does this
-                                                                                     2002     2003          2004         2005         2006        enable them to benefit from the advice and assistance
-                                                                                                                                                  of the repository staff, it has institutional benefits, too,
-                                                        Figure 8: Percentage of the total institutional journal article
-                                                        outputs made Open Access by self-archiving in repositories
-                                                                                                                                                  in terms of collecting together all the research outputs
-                                                                                at four institutions                                              from an institution, forming a permanent record of digital
-                                                       (universities of Minho and Southampton, Queensland University of                           scholarship for that institution. In research management
-                                                       Technology and CERN) with mandatory policies, compared with the
-                                                               level of self-archiving at non-mandated institutions                               terms, the repository is a valuable tool.
-                                                                            (source: Gargouri et al, 2010)
-                                                                                                                                                  Some scientists may find themselves under more than
-                                                                                                                                                  one mandatory policy -- one from their institution and
-                                              149 Studies by Sale (2006) and Gargouri et al (2010) have produced data to
-                                                  show this: full references in the bibliography.
-                                                                                                                                                  one from their research funder. In response to increasing
-                                              150 In surveys, over 80% of authors say they would be willing to cooperate                          incidents of this type, technical development work has
-                                                  with a mandate and a further 14% saying they would do so with some
-                                                  reservations. See Swan & Brown (2005); full reference in the bibliography
-                                                                                                                                                  been carried out to provide tools that enable the author
+In most cases of policy development at the moment, the policy depends on publisher permission because rights are transferred to the publisher as a matter of routine. Best practice is for sufficient rights to be retained, as a matter of routine, so that the provision of Open Access is not at all dependent on publisher permissions. Publishers may opt not to publish work under those conditions, and that is part of the balance of rights and choices.
 
+**** DONE 8.2.8 Compliance
 
-46
-to deposit an article once and for it to be copied into                             -- that is, the author's final version of the article once peer-
-other repositories151. UKPMC is developing the means                                review has taken place and any required changes have
-to send a copy of articles deposited there as a result of                           been made. If the policy of the journal in which the article
-funder mandates to the institutional repository of the                              will be published is to allow preprint-only Open Access,
-author. These schemes simplify life for authors, encourage                          then the policy may mention this. The policy will also
-compliance with policies and enhance Open Access.                                   cover the issue of publisher embargoes.
+Compliance levels do vary, even for mandatory policies. The wording of the policy is one factor in this, but the way the policy is implemented is certainly another, strong, one. A good advocacy programme to back up a policy is usually necessary to reach acceptable compliance levels.
 
+Institutions can monitor compliance with their policies more easily than funders can, though it may still not be a simple task. There is no indexing service that covers 100% of the literature, so checking the repository content against what is recorded by literature indexing services gives only an approximation of how complete the repository's content is.
 
+Some universities have a CRIS (Current Research Information System) that records grant awards, research groups, equipment purchased, collaborations, and so forth. Many CRIS also record the bibliographic details of items published. Where this is the case, the institution has a method for tracking whether all items published are also deposited in the repository. It has to be said, however, that the vast majority of universities do not have such a system, and so monitoring compliance with an Open Access policy is a challenge.
 
+Funders find it even more of a challenge as it is very difficult for them to know precisely what has been published from research they have funded. Often, publications follow after the end of the project-funding period so that a record of them does not appear in the final project report to the funder. Tracking the publications that result from their funding has been largely through labour-intensive, manual searching of the literature and matching it against accumulation of Open Access content.
 
-                                                                                                                                                                 Section 8. Policy framework for Open Access
-The optimum arrangement, one that accommodates the
-                                                                                                      8.2.4.2      Data
-needs of all stakeholders, and has the potential to collect
-the greatest amount of Open Access content, is for a                                Research data are increasingly covered by policies and
-network of institutional repositories to be the primary                             often these policies are being implemented by smaller,
-locus for deposit and for centralised, subject-specific                             niche players as well as large research funders153. These
-collections to be created by harvesting the required                                policies are not usually, however, the same (Open Access)
-content from that network of distributed repositories152.                           policies that cover the text-based literature. Data are
-Institutions have a strong interest in collecting and                               exceptional because policies must take into account
-stewarding the intellectual capital resulting from their                            issues of privacy and special cases where data cannot
-research programmes and can ensure that the material is                             be released for other reasons. Developing and wording
-collected through implementation of a mandatory policy.                             Open Data policies is therefore a specialised issue that
-                                                                                    is not as straightforward as developing polices for Open
-                                                                                    Access to the literature. Where there is Open Access policy
-         8.2.4          Content types
-                                                                                    development now, Open Data policy development will
-                                                                                    follow.
-                   8.2.4.1        Literature
+Where funders have tried to increase compliance there has been some success. Both the Wellcome Trust and the NIH, for example, have sent out letters to grant-holders reminding them of their obligations under the policy. Wellcome's letter asks grant-holders why they have not complied with the policy[fn:158]. These funders also wrote to the grant-holders" institutions, thereby reminding them of their responsibilities and interests in this process.
 
-The target for Open Access is the peer-reviewed literature                                   8.2.5        Embargoes
-and most repositories use software that enables searching
-limited to peer-reviewed material, a matter of good                                 Many publishers -- but certainly not all -- stipulate an
-practice. Most policies cover journal articles. Many policies                       embargo period before an article can be made Open
-also encompass peer-reviewed conference proceedings                                 Access. This is a result of publishers" fears of falling sales.
-because that is the primary publication route for some                              Most Open Access policies will acknowledge this and
-disciplines, notably engineering and computer sciences.                             permit embargoes so that authors are not placed in a
-In other disciplines conference proceedings may also be                             position of difficulty with respect to their publisher. In
-peer-reviewed and published some of the time, but the                               science, publisher embargoes are normally 6-12 months:
-journal literature remains the main publication route:                              anything longer than that is considered unreasonable by
-those cases fall into the "nice to have" rather than "must                          the community, and certainly not in the public interest,
-have" category for Open Access.                                                     and most mandatory policies make a 12-month embargo
-                                                                                    the maximum permissible: in a considerable number of
-As well as these things, many policies cover theses
-                                                                                    science funder policies the maximum embargo allowed is
-(masters and doctoral) which are, of course, peer-reviewed
-                                                                                    6 months. In any event, policy should specify the length
-outputs. In some case, and in particular in Latin America,
-                                                                                    of embargo allowed and not simply leave it as vague
-most policies developed so far are thesis-specific.
-                                                                                    language such as "in accordance with the publisher's
-Many policies specifically mention and encourage Open                               policy".
-Access to books and book sections (chapters) but do not
-                                                                                    The problem with allowing embargoes, however, is that
-include these in the mandate since, as discussed in section
-                                                                                    authors are almost certain to forget about depositing once
-1.4, books represent a different case as they are not part of
-                                                                                    months have passed after publication. The natural time for
-the literature given away for free by scientists.
-                                                                                    an author to deposit their postprint is when it is ready for
-With respect to journal articles, policies generally specify                        final submission to the journal.
-that the version that must be deposited is the postprint
-                                                                                    To accommodate this, and hence maximise deposit
-                                                                                    levels, the most common types of repository software
-151 For example, SWORD (Simple Web Service Offering repository deposit):
-    http://swordapp.org/
-152 The conclusion of a study on the optimal technical and organisational           153 See, for example, the Centre for Global Development's new data policy:
-    infrastructure to deliver Open Access on a national scale (Swan et al, 2005):       http://blogs.cgdev.org/globaldevelopment/2011/08/cgds-new-data-code-
-    full reference in the bibliography.                                                 transparency-policy.php
+There are moves now by large funders to develop systems for better monitoring of the outcomes of their funding programmes. The NIH now requires its grant-holders to use the PubMed Central (PMC) manuscript submission reference when they cite articles in project reports or new grant applications[fn:159]. This ensures that the grant-holder does, indeed, submit the manuscript to PMC so that a submission number is obtained.
 
+Repository software developers are also beginning to work with funders to understand their needs and to build into the software the right metadata fields that can capture information on grants and awards. This is an area that is in the early days of development, but is likely to grow and become more widespread. Being able to account for the outcomes of public spending and to demonstrate return on research investment are issues that are growing in importance across the world, and universities and funders will increasingly see the value of an Open Access literature in helping them assess these things.
 
+**** DONE 8.2.9 Sanctions
 
-                                                                                                                                                                 47
-                                              offer an embargo facility: the author deposits the                                               8.2.7.1       Authors as copyright holders
-                                              postprint at the time of submission to the journal and
-                                                                                                                              Where authors retain sufficient right to enable Open
-                                              chooses the embargo length from a list provided by the
-                                                                                                                              Access, policymakers need to find ways to work with that.
-                                              software. At the end of that embargo period, the software
-                                                                                                                              Institutions can either secure sufficient rights themselves
-                                              automatically makes the article Open Access.
-                                                                                                                              as a condition of employment, or they can be granted
-                                              There is something more to this, too: the software ensures                      those rights by the authors.
-Section 8. Policy framework for Open Access
+Compliance with a policy is usually encouraged by a mixture of carrot[fn:160] and stick approaches: policymakers may consider exerting sanctions when advocacy and rewards fail.
 
+Research funders have a number of options. They could refuse further funding, or suspend current funding, if a grant-holder fails to comply. So far, none have taken this step, but there have been strong hints in the past from the NIH that it may become stricter with its grantees, "suspending funds" being one option[fn:161].
 
+Research institution managers have a different set of sanctions, including linking self-archiving to promotion and tenure applications[fn:162].
 
+**** DONE 8.2.10 Advocacy
 
-                                              that the article metadata (the title, authors, etc) are open
-                                                                                                                              An example of the former is Queensland University of
-                                              from the time of deposit. Metadata are not copyrightable
-                                                                                                                              Technology, which has the following wording in its
-                                              and so publishers cannot prevent them from being
-                                                                                                                              Intellectual Property Policy155:
-                                              displayed. The metadata are indexed by Web search
-                                              engines (e.g. Google Scholar), so during the embargo
-                                              period it is possible for users to discover the existence of                      Ownership of copyright
-                                              the article, even though the full-text is not open to them.
-                                                                                                                                + In accordance with general law principles noted in section 3.1.4
-                                              Also, and importantly, the institution has a complete
-                                                                                                                                  above, QUT as an employer is the owner of copyright where
-                                              record of the research outputs of the institution, not the
-                                                                                                                                  the work is created by staff members in the course of their
-                                              partial one that would result from a policy that relied upon
-                                                                                                                                  employment. QUT's ownership of copyright applies to both
-                                              researchers remembering to deposit six or twelve months
-                                                                                                                                  academic and professional staff.
-                                              down the line from publication.
-                                                                                                                                Assignment of scholarly works
-                                              The software has a "request a copy" button that
-                                              automatically sends an email message to the depositing                            + Provided that QUT does not have contractual obligations to a third
-                                              author asking for a copy to be emailed to the would-                                party which would prevent QUT effecting such an assignment,
-                                              be user. This is allowable under "fair use": the author is                          QUT assigns the right to publish scholarly works to the creator(s)
-                                              providing a single copy for private study. Through this                             of that work. The assignment is subject to a perpetual,
-                                              arrangement, the article's usage and impact can begin to                            irrevocable, worldwide, royalty-free, non-exclusive licence
-                                              grow from the moment of deposit, despite the embargo.                               in favour of QUT to allow QUT to use that work for teaching,
-                                                                                                                                  research and commercialisation purposes and to reproduce and
-                                                                                                                                  communicate that work online for non-commercial purposes via
-                                                       8.2.6         Gratis and libre Open Access                                 QUT's open access digital repository.
-                                                                                                                                + If required, QUT will sign documents to more fully record the staff
-                                              Existing mandatory policies generally avoid this
-                                                                                                                                  member's ownership of the right of publication of the copyright in
-                                              distinction154. Requiring libre Open Access is considered
-                                                                                                                                  a scholarly work and QUT's non-exclusive licence to that work.
-                                              a step too far at present, despite its promise for science,
-                                              as it would make it very difficult for authors to publish in                      + If required, a staff member will sign documents to more fully
-                                              journals of choice because of publisher resistance. It is                           record the licence in favour of QUT to use scholarly works as
-                                              an issue for future policy, though that future will not be                          contemplated by this section 3.1.5.
-                                              too far ahead. The trend for Open Access journals to use                          + The "right to publish" scholarly works in this section 3.1.5 means
-                                              Creative Commons licensing to permit liberal re-use is                              the right to publish a work as referred to in the Copyright Act 1968
-                                              upwards, and as more journals convert to Open Access                                (Cwth).
-                                              this can be expected to continue.
-                                                                                                                                + The version of the scholarly work that QUT can make available via
-                                                                                                                                  the digital repository may be the published version or the final
-                                                       8.2.7         Permissions                                                  post-peer review manuscript version. QUT will agree to third party
-                                                                                                                                  publisher-requested embargoes of 12 months or less (from date
-                                              As discussed in section 6, Open Access is dependent upon                            of publication by the third party publisher) on the publication of
-                                              the permission of the copyright holder.                                             the manuscript via the digital repository.
-                                                                                                                                + Any subsequent publication agreement or assignment of the right
-                                                                                                                                  to publish the scholarly work entered into by the creator will be
-                                                                                                                                  subject to the terms of the pre-existing non-exclusive licence
-                                                                                                                                  referred to in this section 3.1.5.
-                                              154 The exceptions are the UKPMC funders (8 UK medical charities and the
-                                                  Medical Research Council), which require libre Open Access where they pay
-                                                  the whole or part of an article-processing charge for publishing in Open
-                                                  Access journals.                                                            155 http://www.mopp.qut.edu.au/D/D_03_01.jsp#D_03_01.05.mdoc
-
-
-
-48
-An example of the latter is the Harvard University position,                        Institutions can monitor compliance with their policies
-where researchers in six faculties have voted to grant                              more easily than funders can, though it may still not be
-to the University a nonexclusive, irrevocable right to                              a simple task. There is no indexing service that covers
-distribute their scholarly articles for any non-commercial                          100% of the literature, so checking the repository content
-purpose156. This right trumps any other, subsequent                                 against what is recorded by literature indexing services
-agreement with publishers.                                                          gives only an approximation of how complete the
-                                                                                    repository's content is.
-
-
-
-
-                                                                                                                                                            Section 8. Policy framework for Open Access
-                   8.2.7.2        Publishers as copyright holders
-                                                                                    Some universities have a CRIS (Current Research
-Where the author has transferred all rights to the publisher,                       Information System) that records grant awards, research
-as is most often the case when signing a standard                                   groups, equipment purchased, collaborations, and so
-publisher CTA (see section 6), permission to make work                              forth. Many CRIS also record the bibliographic details of
-Open Access must be sought from the publisher.                                      items published. Where this is the case, the institution has
-                                                                                    a method for tracking whether all items published are also
-Seeking permission from publishers for more than they                               deposited in the repository. It has to be said, however, that
-offer as standard is unlikely to be successful. In the case                         the vast majority of universities do not have such a system,
-of more than half of journals, the publisher does allow                             and so monitoring compliance with an Open Access
-some form of self-archiving, though in around one-third of                          policy is a challenge.
-journals this is for the preprint only, an unsatisfactory state
-of affairs for many authors. It is unusual for a publisher to                       Funders find it even more of a challenge as it is very
-change position, when asked, to permit self-archiving of                            difficult for them to know precisely what has been
-the postprint. Publishers are also unlikely to change their                         published from research they have funded. Often,
-stance on embargo length.                                                           publications follow after the end of the project-funding
-                                                                                    period so that a record of them does not appear in the
-Policymakers should take these things into account when                             final project report to the funder. Tracking the publications
-wording a policy. Above all, the balance of interests of the                        that result from their funding has been largely through
-different parties should be considered. The public interest                         labour-intensive, manual searching of the literature and
-is that scientific results are placed in the public arena                           matching it against accumulation of Open Access content.
-immediately they are publishable. A policy position that
-compromises this by deferring to publisher interests157 is a                        Where funders have tried to increase compliance there
-weak one.                                                                           has been some success. Both the Wellcome Trust and the
-                                                                                    NIH, for example, have sent out letters to grant-holders
-In most cases of policy development at the moment, the                              reminding them of their obligations under the policy.
-policy depends on publisher permission because rights                               Wellcome's letter asks grant-holders why they have not
-are transferred to the publisher as a matter of routine. Best                       complied with the policy158. These funders also wrote to
-practice is for sufficient rights to be retained, as a matter of                    the grant-holders" institutions, thereby reminding them of
-routine, so that the provision of Open Access is not at all                         their responsibilities and interests in this process.
-dependent on publisher permissions. Publishers may opt
-not to publish work under those conditions, and that is                             There are moves now by large funders to develop systems
-part of the balance of rights and choices.                                          for better monitoring of the outcomes of their funding
-                                                                                    programmes. The NIH now requires its grant-holders to
-                                                                                    use the PubMed Central (PMC) manuscript submission
-         8.2.8          Compliance                                                  reference when they cite articles in project reports or new
-                                                                                    grant applications159. This ensures that the grant-holder
-Compliance levels do vary, even for mandatory policies.                             does, indeed, submit the manuscript to PMC so that a
-The wording of the policy is one factor in this, but the way                        submission number is obtained.
-the policy is implemented is certainly another, strong,
-one. A good advocacy programme to back up a policy is                               Repository software developers are also beginning to work
-usually necessary to reach acceptable compliance levels.                            with funders to understand their needs and to build into
-                                                                                    the software the right metadata fields that can capture
-
-
-156 http://osc.hul.harvard.edu/policies                                             158 See the Wellcome Trust Open Access compliance audit 2009: http://
-157 For example, the UK's Economic & Social Research Council's policy states            www.wellcome.ac.uk/About-us/Publications/Grantholders-newsletter/
-    that it requires its grant-holders to make their work Open Access "where this       WTX052748.htm
-    is permitted by publishers" licensing or copyright arrangements".               159 http://publicaccess.nih.gov/citation_methods.htm
+Policies, however well worded, need advocacy support to really take effect. In all the best-performing institutions in terms of percentage of their outputs that can be found in the repository, there is a strong, sustained advocacy programme. Precise details vary from institution to institution but ranges from publicising repository usage and impact statistics to awarding prizes. Emphasis is placed on how opening up the institution's outputs enhances its reputation and that of the individual scientists: linking behaviour and benefits is always strongly promoted[fn:163].
 
+**** DONE 8.2.11 Waivers
 
+Some policies provide a waiver facility. If authors cannot or will not comply for some reason, they are invited formally to request a waiver and provide the reason why they need this. Usually this option operates alongside a rights-retention policy, and accommodates those instances where the author wishes to publish in a particular journal and the publisher will require full copyright to be assigned to the journal.
 
-                                                                                                                                                            49
-                                              information on grants and awards. This is an area that is in                        scientists: linking behaviour and benefits is always strongly
-                                              the early days of development, but is likely to grow and                            promoted163.
-                                              become more widespread. Being able to account for the
-                                              outcomes of public spending and to demonstrate return
-                                              on research investment are issues that are growing in
-                                                                                                                                           8.2.11 Waivers
-                                              importance across the world, and universities and funders
-                                                                                                                                  Some policies provide a waiver facility. If authors cannot or
-                                              will increasingly see the value of an Open Access literature
-Section 8. Policy framework for Open Access
-
-
-
-
-                                                                                                                                  will not comply for some reason, they are invited formally
-                                              in helping them assess these things.
-                                                                                                                                  to request a waiver and provide the reason why they
-                                                                                                                                  need this. Usually this option operates alongside a rights-
-                                                       8.2.9          Sanctions                                                   retention policy, and accommodates those instances
-                                                                                                                                  where the author wishes to publish in a particular journal
-                                              Compliance with a policy is usually encouraged by a                                 and the publisher will require full copyright to be assigned
-                                              mixture of carrot160 and stick approaches: policymakers                             to the journal.
-                                              may consider exerting sanctions when advocacy and
-                                              rewards fail.
-                                                                                                                                           8.2.12 "Gold" Open Access
-                                              Research funders have a number of options. They could
-                                              refuse further funding, or suspend current funding, if a                            Finally, some policies make a specific statement about
-                                              grant-holder fails to comply. So far, none have taken this                          "gold" Open Access where there is a willingness on the part
-                                              step, but there have been strong hints in the past from                             of the policy-holder to pay APCs or permit the use of grant
-                                              the NIH that it may become stricter with its grantees,                              funding to pay for them.
-                                              "suspending funds" being one option161.
-
-                                              Research institution managers have a different set of
-                                              sanctions, including linking self-archiving to promotion                            8.3 A typology of policies
-                                              and tenure applications162.
-                                                                                                                                  The policy issues covered in the sections above can be
-                                                       8.2.10 Advocacy                                                            summarised in a typology of policies. Of course, it is
-                                                                                                                                  possible for policies to vary on all these parameters so the
-                                              Policies, however well worded, need advocacy support to                             total number of permutations is very large. In practice,
-                                              really take effect. In all the best-performing institutions in                      however, a number of main variants have arisen and these
-                                              terms of percentage of their outputs that can be found                              are shown in Table 1.
-                                              in the repository, there is a strong, sustained advocacy
-                                              programme. Precise details vary from institution to
-                                              institution but ranges from publicising repository usage
-                                              and impact statistics to awarding prizes. Emphasis is
-                                              placed on how opening up the institution's outputs
-                                              enhances its reputation and that of the individual
-
-
-
-
-                                              160 An example of a reward system for depositing is that operated at the
-                                                  University of Minho, Portugal, where cash payments are made to
-                                                  departments for every item deposited, thus incentivising departments to
-                                                  incentivise their researchers: https://mx2.arl.org/Lists/SPARC-OAForum/
-                                                  Message/2807.html
-                                              161 NIH Deputy Director for Extramural Research, Norka Ruiz Bravo: "Other
-                                                  possible ways of forcing scofflaws to comply range from having a
-                                                  program director call with a reminder, to the most extreme -- suspending
-                                                  funds". Quoted in an article in Science, 18 January 2008, 266 DOI:10.1126/
-                                                  science.319.5861.266 [this article is toll-access].
-                                              162 This has worked well in practice at the University of Liège in Belgium, where   163 For a range of effective advocacy activities that have been proven in use,
-                                                  the rector's policy makes clear that when applications are made to him for          see Enabling Open Scholarship's briefing paper for librarians: http://www.
-                                                  promotion or tenure he will use the repository to see the publication record        openscholarship.org/jcms/c_7152/making-the-case-for-open-access-
-                                                  of the applicant.                                                                   guide-for-librarians
-
-
-
-50
-                                                  Retention of
-                Immediate
-   Mandatory
-
-
-
-
-                                  permitted
-
-
-
-
-                                                                 permitted
-                                  Embargo
-                                                                                                        Notes                                                Example
-                deposit
-
-
-
-
-                                                                 Waiver
-                                                  rights
- Type 1: Immediate deposit, no waiver
- Yes           Yes          Yes, on opening      Optional        No          This type of policy applies where the policymaker does          University of Liege
-
-
-
-
-                                                                                                                                                                                        Section 8. Policy framework for Open Access
-                            of the full-text:                                not already, and does not wish to, acquire the rights to        http://www.eprints.org/
-                            metadata open                                    the work covered by the policy. The policy leaves the           openaccess/policysignup/fullinfo.
-                            from deposit                                     rights where they already reside -- that is, either with the     php?inst=Universit%C3%A9%20de%20
-                                                                             author or with the publisher. In the latter case, publisher     Li%C3%A8ge
-                                                                             permissions must be respected, entailing provision in
-                                                                             the policy for an embargo period. The policy requires the
-                                                                             metadata to be visible from the time of deposit so that
-                                                                             would-be users can discover the existence of the article
-                                                                             and request a copy from the author
- Type 2: Rights-retention
- (a) Authors assign sufficient rights to policymaker
- Yes           Usually      Usually. Embargo     Yes             Yes         This type of policy applies where the policymaker does          Harvard University
-                            handled as in                                    not already have the rights to the work produced but is         Faculty of Arts & Sciences
-                            Type 1                                           prepared to acquire from the creators of the work sufficient    http://osc.hul.harvard.edu/hfaspolicy
-                                                                             rights to make the work Open Access. The creators are
-                                                                             usually granted the option of a waiver where the policy
-                                                                             prevents publication in the journal of choice
- (b) Policy maker already holds sufficient rights
- Yes           Usually      Usually. Embargo     Yes             Yes         This type of policy applies where the policymaker already       Queensland University of Technology
-                            handled as in                                    has the rights to the work produced or is prepared to make      http://www.mopp.qut.edu.au/F/F_01_03.
-                            Type 1                                           that the case                                                   jsp#F_01_03.02.mdoc
- Type 3: Deposit within a certain period
- Yes           No           Yes, but specified   Optional        No          This type of policy accommodates, to a degree, publisher        Wellcome Trust
-                            by the policy                                    requirements for an embargo, but it specifies the               http://www.wellcome.ac.uk/About-us/
-                                                                             maximum length of the embargo period. In practice this          Policy/Policy-and-position-statements/
-                                                                             is usually 6 months if the policy applies only to the natural   WTD002766.htm
-                                                                             sciences, and 12 months if it has a broader disciplinary
-                                                                             coverage
- Type 4: Deposit if/ when publisher permits
- Yes           No           Yes, whatever        No              Yes         This type of policy accommodates all publisher                  University of Southampton
-                            the publisher                                    requirements, including embargoes of any length                 http://www.soton.ac.uk/library/research/
-                            requires                                                                                                         eprints/policies/oapolicy.html
- Type 5: Voluntary
- No            Immaterial                                                                                                                    Athabasca University
-                                                                                                                                             http://www2.athabascau.ca/secretariat/
-                                                                                                                                             policy/research/openaccess.htm
+**** DONE 8.2.12 "Gold" Open Access
+
+Finally, some policies make a specific statement about "gold" Open Access where there is a willingness on the part of the policy-holder to pay APCs or permit the use of grant funding to pay for them.
+
+*** DONE 8.3 A typology of policies [100%]
+
+The policy issues covered in the sections above can be summarised in a typology of policies. Of course, it is possible for policies to vary on all these parameters so the total number of permutations is very large. In practice, however, a number of main variants have arisen and these are shown in Table 1.
+
+**** DONE Table 1
+#+BEGIN_SRC yaml
+  -
+    Type 1: 'Immediate deposit, no waiver'
+    Mandatory: Yes
+    Immediate deposit: Yes
+    Embargo permitted: 'Yes, on opening of the full-text: metadata open from deposit'
+    Retention of rights: 'Optional'
+    Waiver permitted: No
+    Notes: 'This type of policy applies where the policymaker does not already, and does not wish to, acquire the rights to the work covered by the policy. The policy leaves the rights where they already reside -- that is, either with the author or with the publisher. In the latter case, publisher permissions must be respected, entailing provision inthe policy for an embargo period. The policy requires the metadata to be visible from the time of deposit so that would-be users can discover the existence of the article and request a copy from the author'
+    Example: 'University of Liege http://www.eprints.org/openaccess/policysignup/fullinfo.php?inst=Universit%C3%A9%20de%20Li%C3%A8ge'
+  -
+    Type 2: 'Rights-retention'
+    Subtype: '(a) Authors assign sufficient rights to policymaker'
+    Mandatory: Yes
+    Immediate deposit: 'Usually'
+    Embargo permitted: 'Usually. Embargo handled as in Type 1'
+    Retention of rights: Yes
+    Waiver permitted: Yes
+    Notes: 'This type of policy applies where the policymaker does not already have the rights to the work produced but is prepared to acquire from the creators of the work sufficient rights to make the work Open Access. The creators are usually granted the option of a waiver where the policy prevents publication in the journal of choice'
+    Example: 'Harvard University Faculty of Arts & Sciences http://osc.hul.harvard.edu/hfaspolicy'
+  -
+    Type 2: 'Rights-retention'
+    Subtype: '(b) Policy maker already holds sufficient rights'
+    Mandatory: Yes
+    Immediate deposit: 'Usually'
+    Embargo permitted: 'Usually. Embargo handled as in Type 1'
+    Retention of rights: Yes
+    Waiver permitted: Yes
+    Notes: 'This type of policy applies where the policymaker already has the rights to the work produced or is prepared to make that the case'
+    Example: 'Queensland University of Technology http://www.mopp.qut.edu.au/F/F_01_03.jsp#F_01_03.02.mdoc'
+  -
+    Type 3: 'Deposit within a certain period'
+    Mandatory: Yes
+    Immediate deposit: No
+    Embargo permitted: 'Yes, but specified by the policy'
+    Retention of rights: 'Optional'
+    Waiver permitted: No
+    Notes: 'This type of policy accommodates, to a degree, publisher requirements for an embargo, but it specifies the maximum length of the embargo period. In practice this is usually 6 months if the policy applies only to the natural sciences, and 12 months if it has a broader disciplinary coverage'
+    Example: 'Wellcome Trust http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm'
+  -
+    Type 4: 'Deposit if/when publisher permits'
+    Mandatory: Yes
+    Immediate deposit: No
+    Embargo permitted: 'Yes, whatever the publisher'
+    Retention of rights: No
+    Waiver permitted: Yes
+    Notes: 'This type of policy accommodates all publisher requirements, including embargoes of any length requires'
+    Example: 'University of Southampton http://www.soton.ac.uk/library/research/eprints/policies/oapolicy.html'
+  -
+    Type 5: 'Voluntary'
+    Mandatory: No
+    Immediate deposit: 'Immaterial'
+    Embargo permitted: 'Imaterial'
+    Retention of rights: 'Imaterial'
+    Waiver permitted: 'Imaterial'
+    Example: 'Athabasca University http://www2.athabascau.ca/secretariat/policy/research/openaccess.htm'
+#+END_SRC
 
 Table 1: Typology of Open Access policies: main variants in use
 Note 1: any of these policies may require libre Open Access, though so far almost all have only required gratis Open Access.
@@ -1640,54 +1285,31 @@ Note 2: Any of these policies may include mention of "gold" Open Access and what
 example, the policy may merely encourage authors to publish in Open Access journals or the policymaker may wish to describe a specific fund
 made available for this purpose).
 
+*** DONE Summary points on policy best practice
 
++ Policy type: policies may request and encourage provision of Open Access, or they may require it. Evidence shows that only the latter, mandatory, type accumulate high levels of material. Evidence also shows that researchers are happy to be mandated on this issue.
 
++ Open Access routes covered: policies can require "green" Open Access by self-archiving but to preserve authors" freedom to publish where they choose policies should only encourage "gold" Open Access through publication in Open Access journals.
 
-                                                                                                                                                                                        51
-                                              Summary points on policy best practice
-                                              + Policy type: policies may request and encourage provision of Open Access, or they may require it. Evidence shows that only the latter, mandatory,
-                                                type accumulate high levels of material. Evidence also shows that researchers are happy to be mandated on this issue
++ Deposit locus: deposit may be required either in institutional or central repositories. Institutional policies naturally specify the former: funder policies may also do this, or may in some cases specify a particular central repository.
 
-                                              + Open Access routes covered: policies can require "green" Open Access by self-archiving but to preserve authors" freedom to publish where they
-                                                choose policies should only encourage "gold" Open Access through publication in Open Access journals
-Section 8. Policy framework for Open Access
++ Content types covered: all policies cover journal articles: policies should also encourage Open Access for books: funder polices are increasingly covering research data outputs.
 
++ Embargoes: Policies should specify the maximum embargo length permitted and in science this should be 6 months at most: policies should require deposit at the time of publication with the full-text of the item remaining in the repository, but closed, until the end of the embargo period.
 
++ Permissions: Open Access depends on the permission of the copyright holder, making it vulnerable to publisher interests. To ensure that Open Access can be achieved without problem, sufficient rights to enable that should be retained by the author or employer and publishers assigned a Licence To Publish. Where copyright is handed to the publisher, Open Access will always depend upon publisher permission and policies must acknowledge this by accommodating a "loophole" for publishers to exploit.
 
++ Compliance with policies: compliance levels vary according to the strength of the policy and the ongoing support that a policy is given: compliance can be improved by effective advocacy and, where necessary, sanctions.
 
-                                              + Deposit locus: deposit may be required either in institutional or central repositories. Institutional policies naturally specify the former: funder
-                                                policies may also do this, or may in some cases specify a particular central repository
++ Advocacy to support a policy: there are proven advocacy practices in support of an Open Access policy: policymakers should ensure these are known, understood, and appropriate ones implemented.
 
-                                              + Content types covered: all policies cover journal articles: policies should also encourage Open Access for books: funder polices are increasingly
-                                                covering research data outputs
++ Sanctions to support a policy: both institutions and funders have sanctions that can be used in support of an Open Access policy: policymakers should ensure that these are identified, understood and appropriate ones implemented where other efforts fail to produce the desired outcome.
 
-                                              + Embargoes: Policies should specify the maximum embargo length permitted and in science this should be 6 months at most: policies should
-                                                require deposit at the time of publication with the full-text of the item remaining in the repository, but closed, until the end of the embargo period
++ Waivers: where a policy is mandatory authors may not always be able to comply. A waiver clause is necessary in such policies to accommodate this.
 
-                                              + Permissions: Open Access depends on the permission of the copyright holder, making it vulnerable to publisher interests. To ensure that Open
-                                                Access can be achieved without problem, sufficient rights to enable that should be retained by the author or employer and publishers assigned
-                                                a Licence To Publish. Where copyright is handed to the publisher, Open Access will always depend upon publisher permission and policies must
-                                                acknowledge this by accommodating a "loophole" for publishers to exploit
++ "Gold" Open Access: where a funder or institution has a specific commitment with respect to paying "gold" article-processing fees, this should be stated in the policy.
 
-                                              + Compliance with policies: compliance levels vary according to the strength of the policy and the ongoing support that a policy is given:
-                                                compliance can be improved by effective advocacy and, where necessary, sanctions
-
-                                              + Advocacy to support a policy: there are proven advocacy practices in support of an Open Access policy: policymakers should ensure these are
-                                                known, understood, and appropriate ones implemented
-
-                                              + Sanctions to support a policy: both institutions and funders have sanctions that can be used in support of an Open Access policy: policymakers
-                                                should ensure that these are identified, understood and appropriate ones implemented where other efforts fail to produce the desired outcome
-
-                                              + Waivers: where a policy is mandatory authors may not always be able to comply. A waiver clause is necessary in such policies to accommodate this
-
-                                              + "Gold" Open Access: where a funder or institution has a specific commitment with respect to paying "gold" article-processing fees, this should be
-                                                stated in the policy
-
-
-
-
-52
-** TODO Section 9. Summary policy guidelines
+** TODO Section 9. Summary policy guidelines [%]
 9.1 The context                                                 9.2 Guidelines for governments and
                                                                     other research funders
 The case for Open Access policy is built around the
@@ -3003,7 +2625,6 @@ the accessibility, usage and applications of their findings.
 [...]
 
 ** Footnotes
-
 [fn:1] http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/free-and-open-source-software-foss/cdsisis/
 [fn:2] http://www.greenstone.org/
 [fn:3] http://www.itu.int/wsis/docs/geneva/official/dop.html
@@ -3147,3 +2768,23 @@ the accessibility, usage and applications of their findings.
 [fn:141] http://www.dfg.de/en/index.jsp
 [fn:142] http://ec.europa.eu/research/science-society/index.cfm?fuseaction=public.topic&id=1294&lang=1
 [fn:143] http://www.oaspa.org/
+[fn:144] See guidelines in the Portuguese RCAAP OA Policy Toolkit: http://projecto.rcaap.pt/index.php/lang-pt/consultar-recursos-de-apoio/remository?func=startdown&id=336
+[fn:145] Ley de la Ciencia (government press release in Spanish): http://bit.ly/nfeiAC.   For a translation of the relevant Article into English: http://bit.ly/l4wmVQ
+[fn:146] http://www.unlp.edu.ar/uploads/docs/con_sup_junio_2011anteproyecto_de_ley_de_repositorios.pdf
+[fn:147] The Registry of Open Access Repository Mandatory Archiving Policies (ROARMAP) monitors policy growth: http://roarmap.eprints.org/
+[fn:148] http://roarmap.eprints.org/ (accessed August 2011)
+[fn:149] Studies by Sale (2006) and Gargouri et al (2010) have produced data to show this: full references in the bibliography.
+[fn:150] In surveys, over 80% of authors say they would be willing to cooperate with a mandate and a further 14% saying they would do so with some reservations. See Swan & Brown (2005); full reference in the bibliography
+[fn:151] For example, SWORD (Simple Web Service Offering repository deposit): http://swordapp.org/
+[fn:152] The conclusion of a study on the optimal technical and organisational infrastructure to deliver Open Access on a national scale (Swan et al, 2005): full reference in the bibliography.
+[fn:153] See, for example, the Centre for Global Development's new data policy: http://blogs.cgdev.org/globaldevelopment/2011/08/cgds-new-data-code-transparency-policy.php
+[fn:154] The exceptions are the UKPMC funders (8 UK medical charities and the Medical Research Council), which require libre Open Access where they pay the whole or part of an article-processing charge for publishing in Open Access journals.
+[fn:155] http://www.mopp.qut.edu.au/D/D_03_01.jsp#D_03_01.05.mdoc
+[fn:156] http://osc.hul.harvard.edu/policies
+[fn:157] For example, the UK's Economic & Social Research Council's policy states that it requires its grant-holders to make their work Open Access "where this is permitted by publishers" licensing or copyright arrangements".
+[fn:158] See the Wellcome Trust Open Access compliance audit 2009: http://www.wellcome.ac.uk/About-us/Publications/Grantholders-newsletter/WTX052748.htm
+[fn:159] http://publicaccess.nih.gov/citation_methods.htm
+[fn:160] An example of a reward system for depositing is that operated at the University of Minho, Portugal, where cash payments are made to departments for every item deposited, thus incentivising departments to incentivise their researchers: https://mx2.arl.org/Lists/SPARC-OAForum/Message/2807.html
+[fn:161] NIH Deputy Director for Extramural Research, Norka Ruiz Bravo: "Other possible ways of forcing scofflaws to comply range from having a program director call with a reminder, to the most extreme -- suspending funds". Quoted in an article in Science, 18 January 2008, 266 DOI:10.1126/science.319.5861.266 [this article is toll-access].
+[fn:162] This has worked well in practice at the University of Liège in Belgium, where the rector's policy makes clear that when applications are made to him for promotion or tenure he will use the repository to see the publication record of the applicant.
+[fn:163] For a range of effective advocacy activities that have been proven in use, see Enabling Open Scholarship's briefing paper for librarians: http://www.openscholarship.org/jcms/c_7152/making-the-case-for-open-access-guide-for-librarians
