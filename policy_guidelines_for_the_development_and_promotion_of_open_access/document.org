@@ -1,4 +1,4 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [56%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [62%]
 by Alma Swan
 
 :                             UNESCO
@@ -1309,302 +1309,135 @@ made available for this purpose).
 
 + "Gold" Open Access: where a funder or institution has a specific commitment with respect to paying "gold" article-processing fees, this should be stated in the policy.
 
-** TODO Section 9. Summary policy guidelines [%]
-9.1 The context                                                 9.2 Guidelines for governments and
-                                                                    other research funders
-The case for Open Access policy is built around the
-opportunity presented by the World Wide Web to                  Research funders play a crucial role in policymaking with
-optimise the dissemination of scientific information to         respect to Open Access. Where funders are disbursing
-all constituencies that could benefit from it. A global,        public money they will wish to ensure that the results
-interoperable, open, re-usable, permanently available           of their funding are disseminated as widely as possible
-database of scientific knowledge is achievable with the         and used by all who can benefit. Open Access increases
-right strategies and policies.                                  the visibility, usage and impact of research, and enables
-                                                                it to reach all constituencies that can benefit, including
-There is a worldwide effort to promote Open Access
-                                                                the education, professional, practitioner and business
--- much of it coordinated through collaborative efforts
-                                                                communities, as well as the interested public. The return
-between established actors in the field -- and focused on
-                                                                on public investment in science is thereby maximised.
-particular practical, strategic and political goals. Critical
-way-markers have already been reached and passed. There         Research funders are therefore encouraged to develop
-are formal definitions in place to describe and explain the     and implement an Open Access policy. In preparing for
-concept of Open Access itself, the distinctions between         this, funders may wish to consider the following issues:
-gratis and libre Open Access and the two routes to
-making research findings openly accessible -- "green" and
-"gold" Open Access. There are also agreed definitions of               9.2.1      Form of policy
-allied concepts such as Open Data (which is increasingly
-becoming included alongside the research literature as          Policies that encourage or request scientists to make their
-a primary target for openness in science), Open Science,        work Open Access gather relatively little content for the
-Open Educational Resources and Open Innovation.                 Open Access corpus. Mandatory policies, on the other
-                                                                hand, are effective, given the right support. The policy
-Some success has been achieved, with Open Access                should therefore require that scientists comply, stating the
-content accumulating in repositories and Open Access            reason for the policy and the benefits that scientists and
-journals, but as this Open Access corpus has not yet            the public will derive.
-reached 30% of the whole literature there is considerable
-work to be done to raise this level. Continuing work is
-needed in three areas -- infrastructure development,                    9.2.2      Scope of the policy: target
-advocacy and policy-making.                                                       content
+** DONE Section 9. Summary policy guidelines [100%]
+*** DONE 9.1 The context
 
-Guidelines are set out below for research funders and for       The accepted definitions of Open Access make plain that
-institutional policy-makers. The sets are very similar, but     the target content for Open Access is the journal literature
-there are some differences where policy varies for each         (journal articles, peer-reviewed conference proceedings
-case.                                                           and theses). They also address the desirability of including
-                                                                research monographs but acknowledge that these are
-                                                                a special case because of the issue of royalty payments:
-                                                                books are not "give-away" literature as journal articles
+The case for Open Access policy is built around the opportunity presented by the World Wide Web to optimise the dissemination of scientific information to all constituencies that could benefit from it. A global, interoperable, open, re-usable, permanently available database of scientific knowledge is achievable with the right strategies and policies.
 
+There is a worldwide effort to promote Open Access -- much of it coordinated through collaborative efforts between established actors in the field -- and focused on particular practical, strategic and political goals. Critical way-markers have already been reached and passed. There are formal definitions in place to describe and explain the concept of Open Access itself, the distinctions between gratis and libre Open Access and the two routes to making research findings openly accessible -- "green" and "gold" Open Access. There are also agreed definitions of allied concepts such as Open Data (which is increasingly becoming included alongside the research literature as a primary target for openness in science), Open Science, Open Educational Resources and Open Innovation.
 
-                                                                                                                               53
-                                       are. Policies should follow this model, specifying that        institution. In this way, the funder works with institutions,
-                                       the journal literature is the main policy target but that      many of which are implementing their own local policy
-                                       access to the monograph literature is equally important        that naturally stipulates local deposit, and encourages
-                                       and is encouraged, though it cannot be the subject of          institutions to establish repositories for this purpose.
-                                       mandatory policy.                                              Technologies exist that enable an author to deposit locally
-                                                                                                      and have their article duplicated in other repositories, a
-                                       Research data can be the subject of a mandatory policy,
-                                                                                                      solution that streamlines the situation where an author
-Section 9. Summary policy guidelines
+Some success has been achieved, with Open Access content accumulating in repositories and Open Access journals, but as this Open Access corpus has not yet reached 30% of the whole literature there is considerable work to be done to raise this level. Continuing work is needed in three areas -- infrastructure development, advocacy and policy-making.
 
+Guidelines are set out below for research funders and for institutional policy-makers. The sets are very similar, but there are some differences where policy varies for each case.
 
+*** DONE 9.2 Guidelines for governments and other research funders [100%]
 
+Research funders play a crucial role in policymaking with respect to Open Access. Where funders are disbursing public money they will wish to ensure that the results of their funding are disseminated as widely as possible and used by all who can benefit. Open Access increases the visibility, usage and impact of research, and enables it to reach all constituencies that can benefit, including the education, professional, practitioner and business communities, as well as the interested public. The return on public investment in science is thereby maximised.
 
-                                       but is best covered by a separate policy document. Many
-                                                                                                      finds under obligations from both his/her institution and
-                                       funders now have Open Data policies in place, but a
-                                                                                                      his/her funder.
-                                       data policy must cover more complex issues than an
-                                       Open Access policy and the two are better not conflated.
-                                       That said, an Open Access policy can also mention                     9.2.6       Time of deposit
-                                       and encourage scientists to make their data shareable
-                                       alongside their articles wherever possible.                    The policy should require the deposit of an article
-                                                                                                      immediately it is ready for publication. If an embargo
-                                                                                                      period is to be accommodated the author is required
-                                              9.2.3      Scope of the policy: gratis or               to ensure that the article will be openly available at the
-                                                         libre Open Access                            end of that period. In most cases, repository software can
-                                                                                                      automate this process once the author has indicated, as
-                                       The reasons for libre Open Access are important for the
-                                                                                                      part of the deposit process, how long the embargo period
-                                       future of research, and as such deserve acknowledgement
-                                                                                                      is to be.
-                                       in policy wording. The provision of material that satisfies
-                                       the libre definition is to be encouraged though not
-                                       required. Guidance on the use of Creative Commons (or                 9.2.7       Article-processing charges
-                                       similar) licensing procedures should be provided, with                            (APCs)
-                                       an explanation of the most appropriate licence for most
-                                       academic purposes (CC-BY, or "attribution" licence).           Funders should take a position on the payment of
-                                                                                                      article-processing fees for "gold" journals. It should clearly
-                                                                                                      state whether it is permitted to use grant funds for this
-                                              9.2.4      How to comply with the policy                purpose and if the funder is prepared to make additional
-                                                                                                      funds available for Open Access publishing the amounts
-                                       Policies should explain the two routes to Open Access
-                                                                                                      available and how to access these funds should be
-                                       -- "green", through repositories, and "gold", through Open
-                                                                                                      explained. There should also be a statement on whether
-                                       Access journals. The policy can and should require "green"
-                                                                                                      it is permissible to use these funds to pay APCs for "hybrid"
-                                       but only encourage "gold", since to do otherwise would
-                                                                                                      journals (because most hybrid journals are published
-                                       remove the scientist's choice of journals in which to
-                                                                                                      under "double dipping" conditions, many funders do not
-                                       publish. It should point to the Directory of Open Access
-                                                                                                      permit this).
-                                       Journals as a source of information about the range of
-                                       these journals, and encourage authors to consider one of
-                                       them when they next publish an article.                               9.2.8       Copyright
+Research funders are therefore encouraged to develop and implement an Open Access policy. In preparing for this, funders may wish to consider the following issues:
 
-                                                                                                      Funder policies should explain that copyright is a bundle
-                                              9.2.5      Locus of deposit                             of rights and that it is possible to retain sufficient of
-                                                                                                      these to be able to disseminate the work as required. It
-                                       Policies should specify where articles are to be deposited
-                                                                                                      should also explain that the majority of journals allow
-                                       in the case of "green" Open Access. If the funder has its
-                                                                                                      self-archiving (the "green" route via repositories), though
-                                       own repository that may be target location. Otherwise,
-                                                                                                      many insist on an embargo period before the article is
-                                       there may be a central subject repository that accepts
-                                                                                                      made openly available. If the funder does not wish to
-                                       direct deposits (in the high-energy physics and biomedical
-                                                                                                      accommodate an embargo, this should be made clear,
-                                       disciplines this is the case): funders sometimes wish to
-                                                                                                      though most funder policies currently do allow short
-                                       leave the locus for deposit in this case to the author.
-                                                                                                      embargo periods (6 months). In this case, it will be usually
-                                       It is best for the growth of Open Access, however, if
-                                                                                                      necessary for the funder to require that some rights are
-                                       deposit is specified as the local repository in the author's
-                                                                                                      retained by itself or the author so that Open Access can
+**** DONE 9.2.1 Form of policy
 
+Policies that encourage or request scientists to make their work Open Access gather relatively little content for the Open Access corpus. Mandatory policies, on the other hand, are effective, given the right support. The policy should therefore require that scientists comply, stating the reason for the policy and the benefits that scientists and the public will derive.
 
-54
-be effected immediately at publication. The policy should     9.3 Guidelines for Institutional
-be clear on which option the funder is taking in this
-circumstance:
-                                                                  policy-makers
-+ The funder, as a condition of funding, requires the         The case for Open Access at institutional level is founded
-  author to retain sufficient rights to make the work         both on the moral argument and self-interest. Open
-  Open Access                                                 Access increases the visibility, usage and impact of
+**** DONE 9.2.2 Scope of the policy: target content
 
+The accepted definitions of Open Access make plain that the target content for Open Access is the journal literature (journal articles, peer-reviewed conference proceedings and theses). They also address the desirability of including research monographs but acknowledge that these are a special case because of the issue of royalty payments: books are not "give-away" literature as journal articles are. Policies should follow this model, specifying that the journal literature is the main policy target but that access to the monograph literature is equally important and is encouraged, though it cannot be the subject of mandatory policy.
 
+Research data can be the subject of a mandatory policy, but is best covered by a separate policy document. Many funders now have Open Data policies in place, but a data policy must cover more complex issues than an Open Access policy and the two are better not conflated. That said, an Open Access policy can also mention and encourage scientists to make their data shareable alongside their articles wherever possible.
 
+**** DONE 9.2.3 Scope of the policy: gratis or libre Open Access
 
-                                                                                                                                Section 9. Summary policy guidelines
-                                                              research, and enables it to reach all constituencies that can
-+ The funder, as a condition of funding, requires the         benefit, including the education, professional, practitioner
-  author to assign sufficient rights to the funder to make    and business communities, as well as the interested
-  the work Open Access                                        public. Both the institution and the individual scientists in
-It should point authors to the SHERPA RoMEO service that      it benefit from this visibility and impact. Public universities
-lists publisher permissions so that they can check what the   are increasingly being required to demonstrate their value
-position is for the journal in which they wish to publish.    to the public that supports them, and Open Access is part
-The policy may alternatively provide, or point authors        of that value.
-to, a suitable Licence To Publish which the author might      Institutions are therefore encouraged to develop and
-optionally offer the publisher. Finally, the policy should    implement an Open Access policy. In preparing for this,
-make clear to publishers what options they have under         institutional managers may wish to consider the following
-the policy.                                                   issues:
-Best practice for self-archiving is to assign a Creative
-Commons licence to each work, thus clarifying for both               9.3.1       Form of policy
-human and machine user the conditions under which the
-material may be used.                                         Policies that encourage or request scientists to make their
-                                                              work Open Access gather relatively little content for the
-       9.2.9      Embargo period                              Open Access corpus. Mandatory policies, on the other
-                                                              hand, are effective, given the right support. The policy
-Funders may decide to accommodate a short embargo             should therefore require that scientists comply, stating the
-period after publication before an article can be made        reason for the policy and the benefits that scientists and
-Open Access. The policy should clearly state the length       the public will derive.
-of the permitted embargo. It should also make clear that
-where the publisher's policy requires a longer embargo,              9.3.2       Scope of the policy: target
-authors should publish elsewhere.                                                content
+The reasons for libre Open Access are important for the future of research, and as such deserve acknowledgement in policy wording. The provision of material that satisfies the libre definition is to be encouraged though not required. Guidance on the use of Creative Commons (or similar) licensing procedures should be provided, with an explanation of the most appropriate licence for most academic purposes (CC-BY, or "attribution" licence).
 
-       9.2.10 Compliance and sanctions                        The accepted definitions of Open Access make plain
-                                                              that the target content for Open Access is the peer-
-Since the policy will be mandatory, compliance should         reviewed literature that is given away for free by authors
-be expected. Evidence suggests, however, that additional      (journal articles, peer-reviewed conference papers and
-support in terms of advocacy and "reminders", either          theses). They also address the desirability of including
-periodic and general or specific to particular recalcitrant   research monographs but acknowledge that these are
-grant-holders, will be necessary. Funders should be           a special case because of the issue of royalty payments:
-prepared to put these systems in place to support the         books are not "give-away" literature as journal articles
-policy. Funders should also state clearly that they will be   are. Policies should follow this model, specifying that
-monitoring compliance, and what sanctions might be            the journal literature is the main policy target but that
-brought to bear on non-compliers.                             access to the monograph literature is equally important
-                                                              and is encouraged, though it cannot be the subject of
-                                                              mandatory policy.
+**** DONE 9.2.4 How to comply with the policy
 
-                                                              Research data can be the subject of a mandatory policy,
-                                                              but is best covered by a separate policy document. A few
-                                                              universities currently have Open Data policies in place,
-                                                              but a data policy must cover more complex issues than an
+Policies should explain the two routes to Open Access -- "green", through repositories, and "gold", through Open Access journals. The policy can and should require "green" but only encourage "gold", since to do otherwise would remove the scientist's choice of journals in which to publish. It should point to the Directory of Open Access Journals as a source of information about the range of these journals, and encourage authors to consider one of them when they next publish an article.
 
+**** DONE 9.2.5 Locus of deposit
 
-                                                                                                                                55
-                                       Open Access policy and the two are better not conflated.             9.3.7      Article-processing charges
-                                       That said, an Open Access policy can also mention                               (APCs)
-                                       and encourage scientists to make their data shareable
-                                       alongside their articles wherever possible.                   Institutional managers should take a position on the
-                                                                                                     payment of article-processing fees for "gold" journals. It
-                                                                                                     should clearly state whether the institution has a fund for
-                                              9.3.3      Scope of the policy: gratis or
-                                                                                                     this purpose and, if so, the amounts available and how
-Section 9. Summary policy guidelines
+Policies should specify where articles are to be deposited in the case of "green" Open Access. If the funder has its own repository that may be target location. Otherwise, there may be a central subject repository that accepts direct deposits (in the high-energy physics and biomedical disciplines this is the case): funders sometimes wish to leave the locus for deposit in this case to the author.
 
+It is best for the growth of Open Access, however, if deposit is specified as the local repository in the author's institution. In this way, the funder works with institutions, many of which are implementing their own local policy that naturally stipulates local deposit, and encourages institutions to establish repositories for this purpose. Technologies exist that enable an author to deposit locally and have their article duplicated in other repositories, a solution that streamlines the situation where an author finds under obligations from both his/her institution and his/her funder.
 
+**** DONE 9.2.6 Time of deposit
 
+The policy should require the deposit of an article immediately it is ready for publication. If an embargo period is to be accommodated the author is required to ensure that the article will be openly available at the end of that period. In most cases, repository software can automate this process once the author has indicated, as part of the deposit process, how long the embargo period is to be.
 
-                                                         libre Open Access
-                                                                                                     to access these funds. There should also be a statement
-                                                                                                     on whether it is permissible to use these funds to pay
-                                       The reasons for libre Open Access are important for the
-                                                                                                     APCs for "hybrid" journals (because most hybrid journals
-                                       future of research, and as such deserve acknowledgement
-                                                                                                     are published under "double dipping" conditions, many
-                                       in policy wording. The provision of material that satisfies
-                                                                                                     institutions do not permit this).
-                                       the libre definition is to be encouraged though not
-                                       required. Guidance on the use of Creative Commons (or
-                                       similar) licensing procedures should be provided, with               9.3.8      Copyright
-                                       an explanation of the most appropriate licence for most
-                                       academic purposes (CC-BY, or "attribution" licence).          Institutional policies should explain that copyright is a
-                                                                                                     bundle of rights and that it is possible to retain sufficient
-                                                                                                     of these to be able to disseminate the work as required.
-                                              9.3.4      How to comply with the policy
-                                                                                                     It should also explain that the majority of journals allow
-                                                                                                     self-archiving (the "green" route via repositories), though
-                                       Policies should explain the two routes to Open Access
-                                                                                                     many insist on an embargo period before the article is
-                                       -- "green", through repositories, and "gold", through Open
-                                                                                                     made openly available. If the institution does not wish to
-                                       Access journals. The policy can and should require "green"
-                                                                                                     accommodate an embargo, this should be made clear.
-                                       but only encourage "gold", since to do otherwise would
-                                                                                                     In this case, it will be usually necessary for the institution
-                                       remove the scientist's choice of journals in which to
-                                                                                                     to require that some rights are retained by itself or the
-                                       publish. It should point to the Directory of Open Access
-                                                                                                     author so that Open Access can be effected immediately
-                                       Journals as a source of information about the range of
-                                                                                                     at publication. The policy should be clear on which option
-                                       these journals, and encourage authors to consider one of
-                                                                                                     the funder is taking in this circumstance:
-                                       them when they next publish an article.
-                                                                                                     + The institution, as a condition of employment, requires
-                                                                                                       the author to retain sufficient rights to make the work
-                                              9.3.5      Locus of deposit
-                                                                                                       Open Access
+**** DONE 9.2.7 Article-processing charges (APCs)
 
-                                       Policies should specify that articles are to be deposited     + The institution, as a condition of employment, requires
-                                       in the institutional repository. Technologies exist that        the author to assign sufficient rights to the institution
-                                       enable an author to deposit locally and have their article      to make the work Open Access
-                                       duplicated in other repositories if necessary or desirbale,
-                                       a solution that streamlines the situation where an author     It should point authors to the SHERPA RoMEO service that
-                                       finds under obligations from both his/her institution and     lists publisher permissions so that they can check what the
-                                       his/her funder.                                               position is for the journal in which they wish to publish.
-                                                                                                     The policy may alternatively provide, or point authors to, a
-                                                                                                     suitable Licence To Publish that the author might optionally
-                                              9.3.6      Time of deposit                             offer the publisher. Finally, the policy should make clear to
-                                                                                                     publishers what options they have under the policy.
-                                       The policy should require the deposit of an article
-                                       immediately it is ready for publication. If an embargo        Best practice for self-archiving is to assign a Creative
-                                       period is to be accommodated the author is required           Commons licence to each work, thus clarifying for both
-                                       to ensure that the article will be openly available at the    human and machine user the conditions under which the
-                                       end of that period. In most cases, repository software can    material may be used.
-                                       automate this process once the author has indicated, as
-                                       part of the deposit process, how long the embargo period
-                                       is to be.
+Funders should take a position on the payment of article-processing fees for "gold" journals. It should clearly state whether it is permitted to use grant funds for this purpose and if the funder is prepared to make additional funds available for Open Access publishing the amounts available and how to access these funds should be explained. There should also be a statement on whether it is permissible to use these funds to pay APCs for "hybrid" journals (because most hybrid journals are published under "double dipping" conditions, many funders do not permit this).
 
+**** DONE 9.2.8 Copyright
 
+Funder policies should explain that copyright is a bundle of rights and that it is possible to retain sufficient of these to be able to disseminate the work as required. It should also explain that the majority of journals allow self-archiving (the "green" route via repositories), though many insist on an embargo period before the article is made openly available. If the funder does not wish to accommodate an embargo, this should be made clear, though most funder policies currently do allow short embargo periods (6 months). In this case, it will be usually necessary for the funder to require that some rights are retained by itself or the author so that Open Access can be effected immediately at publication. The policy should be clear on which option the funder is taking in this circumstance:
 
-56
-       9.3.9      Embargo period
+  + The funder, as a condition of funding, requires the author to retain sufficient rights to make the work Open Access.
 
-Institutions may decide to accommodate a short embargo
-period after publication before an article can be made
-Open Access. The policy should clearly state the length
-of the permitted embargo. It should also make clear that
-where the publisher's policy requires a longer embargo,
+  + The funder, as a condition of funding, requires the author to assign sufficient rights to the funder to make the work Open Access.
 
+It should point authors to the SHERPA RoMEO service that lists publisher permissions so that they can check what the position is for the journal in which they wish to publish. The policy may alternatively provide, or point authors to, a suitable Licence To Publish which the author might optionally offer the publisher. Finally, the policy should make clear to publishers what options they have under the policy.
 
+Best practice for self-archiving is to assign a Creative Commons licence to each work, thus clarifying for both human and machine user the conditions under which the material may be used.
 
+**** DONE 9.2.9 Embargo period
 
-                                                                 Section 9. Summary policy guidelines
-authors should publish elsewhere.
+Funders may decide to accommodate a short embargo period after publication before an article can be made Open Access. The policy should clearly state the length of the permitted embargo. It should also make clear that where the publisher's policy requires a longer embargo, authors should publish elsewhere.
 
+**** DONE 9.2.10 Compliance and sanctions
 
-       9.3.10 Compliance and sanctions
+Since the policy will be mandatory, compliance should be expected. Evidence suggests, however, that additional support in terms of advocacy and "reminders", either periodic and general or specific to particular recalcitrant grant-holders, will be necessary. Funders should be prepared to put these systems in place to support the policy. Funders should also state clearly that they will be monitoring compliance, and what sanctions might be brought to bear on non-compliers.
 
-Since the policy will be mandatory, compliance should
-be expected. Evidence suggests, however, that additional
-support in terms of advocacy and other measures will be
-necessary. University managers may not wish to make
-specific threats of sanctions, nor feel they are in a position
-to do so. What they can consider is linking the repository
-to research assessment and monitoring, thereby
-encouraging authors to deposit so that their work is taken
-into account in consideration of their chances of tenure or
-promotion.
+*** DONE 9.3 Guidelines for Institutional policy-makers [100%]
 
+The case for Open Access at institutional level is founded both on the moral argument and self-interest. Open Access increases the visibility, usage and impact of research, and enables it to reach all constituencies that can benefit, including the education, professional, practitioner and business communities, as well as the interested public. Both the institution and the individual scientists in it benefit from this visibility and impact. Public universities are increasingly being required to demonstrate their value to the public that supports them, and Open Access is part of that value.
 
+Institutions are therefore encouraged to develop and implement an Open Access policy. In preparing for this, institutional managers may wish to consider the following issues:
 
+**** DONE 9.3.1 Form of policy
 
-                                                                 57
+Policies that encourage or request scientists to make their work Open Access gather relatively little content for the Open Access corpus. Mandatory policies, on the other hand, are effective, given the right support. The policy should therefore require that scientists comply, stating the reason for the policy and the benefits that scientists and the public will derive.
+
+**** DONE 9.3.2 Scope of the policy: target content
+
+The accepted definitions of Open Access make plain that the target content for Open Access is the peer-reviewed literature that is given away for free by authors (journal articles, peer-reviewed conference papers and theses). They also address the desirability of including research monographs but acknowledge that these are a special case because of the issue of royalty payments: books are not "give-away" literature as journal articles are. Policies should follow this model, specifying that the journal literature is the main policy target but that access to the monograph literature is equally important and is encouraged, though it cannot be the subject of mandatory policy.
+
+Research data can be the subject of a mandatory policy, but is best covered by a separate policy document. A few universities currently have Open Data policies in place, but a data policy must cover more complex issues than an Open Access policy and the two are better not conflated. That said, an Open Access policy can also mention and encourage scientists to make their data shareable alongside their articles wherever possible.
+
+**** DONE 9.3.3 Scope of the policy: gratis or libre Open Access
+
+The reasons for libre Open Access are important for the future of research, and as such deserve acknowledgement in policy wording. The provision of material that satisfies the libre definition is to be encouraged though not required. Guidance on the use of Creative Commons (or similar) licensing procedures should be provided, with an explanation of the most appropriate licence for most academic purposes (CC-BY, or "attribution" licence).
+
+**** DONE 9.3.4 How to comply with the policy
+
+Policies should explain the two routes to Open Access -- "green", through repositories, and "gold", through Open Access journals. The policy can and should require "green" but only encourage "gold", since to do otherwise would remove the scientist's choice of journals in which to publish. It should point to the Directory of Open Access Journals as a source of information about the range of these journals, and encourage authors to consider one of them when they next publish an article.
+
+**** DONE 9.3.5 Locus of deposit
+
+Policies should specify that articles are to be deposited in the institutional repository. Technologies exist that enable an author to deposit locally and have their article duplicated in other repositories if necessary or desirbale, a solution that streamlines the situation where an author finds under obligations from both his/her institution and his/her funder.
+
+**** DONE 9.3.6 Time of deposit
+
+The policy should require the deposit of an article immediately it is ready for publication. If an embargo period is to be accommodated the author is required to ensure that the article will be openly available at the end of that period. In most cases, repository software can automate this process once the author has indicated, as part of the deposit process, how long the embargo period is to be.
+
+**** DONE 9.3.7 Article-processing charges (APCs)
+
+Institutional managers should take a position on the payment of article-processing fees for "gold" journals. It should clearly state whether the institution has a fund for this purpose and, if so, the amounts available and how to access these funds. There should also be a statement on whether it is permissible to use these funds to pay APCs for "hybrid" journals (because most hybrid journals are published under "double dipping" conditions, many institutions do not permit this).
+
+**** DONE 9.3.8 Copyright
+
+Institutional policies should explain that copyright is a bundle of rights and that it is possible to retain sufficient of these to be able to disseminate the work as required.
+
+It should also explain that the majority of journals allow self-archiving (the "green" route via repositories), though many insist on an embargo period before the article is made openly available. If the institution does not wish to accommodate an embargo, this should be made clear.
+
+In this case, it will be usually necessary for the institution to require that some rights are retained by itself or the author so that Open Access can be effected immediately at publication. The policy should be clear on which option the funder is taking in this circumstance:
+
+  + The institution, as a condition of employment, requires the author to retain sufficient rights to make the work Open Access.
+
+  + The institution, as a condition of employment, requires the author to assign sufficient rights to the institution to make the work Open Access.
+
+It should point authors to the SHERPA RoMEO service that lists publisher permissions so that they can check what the position is for the journal in which they wish to publish. The policy may alternatively provide, or point authors to, a suitable Licence To Publish that the author might optionally offer the publisher. Finally, the policy should make clear to publishers what options they have under the policy.
+
+Best practice for self-archiving is to assign a Creative Commons licence to each work, thus clarifying for both human and machine user the conditions under which the material may be used.
+
+**** DONE 9.3.9 Embargo period
+
+Institutions may decide to accommodate a short embargo period after publication before an article can be made Open Access. The policy should clearly state the length of the permitted embargo. It should also make clear that where the publisher's policy requires a longer embargo, authors should publish elsewhere.
+
+**** DONE 9.3.10 Compliance and sanctions
+
+Since the policy will be mandatory, compliance should be expected. Evidence suggests, however, that additional support in terms of advocacy and other measures will be necessary. University managers may not wish to make specific threats of sanctions, nor feel they are in a position to do so. What they can consider is linking the repository to research assessment and monitoring, thereby encouraging authors to deposit so that their work is taken into account in consideration of their chances of tenure or promotion.
+
 ** TODO SELECTED BIBLIOGRAPHY AND REFERENCES
 
      AAUP Task Force on Economic Models for Scholarly                      Edinburgh. http://www.dcc.ac.uk/sites/default/files/
