@@ -1,4 +1,4 @@
-* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [62%]
+* Policy Guidelines FOR THE DEVELOPMENT AND PROMOTION OF OPEN ACCESS [75%]
 by Alma Swan
 
 :                             UNESCO
@@ -1438,206 +1438,130 @@ Institutions may decide to accommodate a short embargo period after publication 
 
 Since the policy will be mandatory, compliance should be expected. Evidence suggests, however, that additional support in terms of advocacy and other measures will be necessary. University managers may not wish to make specific threats of sanctions, nor feel they are in a position to do so. What they can consider is linking the repository to research assessment and monitoring, thereby encouraging authors to deposit so that their work is taken into account in consideration of their chances of tenure or promotion.
 
-** TODO SELECTED BIBLIOGRAPHY AND REFERENCES
+** DONE SELECTED BIBLIOGRAPHY AND REFERENCES
 
-     AAUP Task Force on Economic Models for Scholarly                      Edinburgh. http://www.dcc.ac.uk/sites/default/files/
-       Publishing. (2011) Sustaining scholarly publishing: new             documents/publications/SCARP%20SYNTHESIS.pdf
-       business models for university presses.
-       http://mediacommons.futureofthebook.org/mcpress/                 Cambridge Economic Policy Associates. 2011. Heading
-       sustaining/                                                        for the open road: costs and benefits of transition
-                                                                          in scholarly communication. London, Research
-     Adema, J. and Schmidt, B. 2010. From Service Providers               Information Network. http://www.rin.ac.uk/system/
-        to Content Producers: New Opportunities For Libraries             files/attachments/Dynamics_of_transition_report_for_
-        in Collaborative Open Access Book Publishing.                     screen.pdf
-        New Review of Academic Librarianship, 16, Suppl 1.
-        Special Issue: Dissemination Models in Scholarly                Gargouri, Y., Hajjem, C., Lariviere, V., Gingras, Y., Brody, T.,
-        Communication. DOI: 10.1080/13614533.2010.509542.                  Carr, L. and Harnad, S. 2010. Self-Selected or Mandated,
-        http://www.tandfonline.com/doi/full/10.1080/1361453                Open Access Increases Citation Impact for Higher
-        3.2010.509542                                                      Quality Research. PLOS ONE, 5 (10). e13636.
-                                                                           http://www.plosone.org/article/info:doi/10.1371/
-     ARL Statistics and Measurement Program: http://www.arl.               journal.pone.0013636
-        org/stats/
-        Monograph and Serials Costs in ARL Libraries                    Guédon, J. 2008. Open Access and the divide between
-        1986 to 2002: http://www.arl.org/stats/arlstat/                    "mainstream" and "peripheral" science. http://hdl.
-        graphs/2002/2002t2.html                                            handle.net/10760/10778
+AAUP Task Force on Economic Models for Scholarly Publishing. (2011) Sustaining scholarly publishing: new business models for university presses. http://mediacommons.futureofthebook.org/mcpress/sustaining/.
 
-     Aronson, B. 2004. Improving Online Access to Medical               Hajjem, C., Harnad, S. and Gingras, Y. 2005. Ten-year cross-
-        Information for Low-income Countries. New England                   disciplinary comparison of the growth of Open Access
-        J. Medicine 350, pp. 966 -- 968. http://content.nejm.org/              and how it increases research citation impact. IEEE Data
-        cgi/content/full/350/10/966                                         Engineering Bulletin 28 (4) pp. 39-47. http://eprints.ecs.
-                                                                            soton.ac.uk/11688/
-     Arunachalam, S., Muthu, M. and Prakash, P. 2011. Open
-        Access to scholarly literature in India: a status report.       Harnad, S. 1996. Implementing Peer Review on the Net:
-        Bangalore: Centre for Internet & Society. http://www.              Scientific Quality Control in Scholarly Electronic
-        cis-india.org/openness/blog/open-access-to-scholarly-              Journals. In Peek, R. and Newby, G., Eds. Scholarly
-        literature                                                         Publishing: The Electronic Frontier pp. 103-118.
-                                                                           Cambridge, Mass., MIT Press. http://eprints.ecs.soton.
-     Berners-Lee, T. 1989. Information management: a proposal.             ac.uk/2900/
-        http://www.w3.org/History/1989/proposal.html
-                                                                        Harnad, S. 2005. Impact analysis in the open access
-     Björk B.-C., Roos A. and Lauri M. 2009. "Scientific journal           era. http://openaccess.eprints.org/index.php?/
-         publishing: yearly volume and open access availability"           archives/2005/10/10.html
-         Information Research, 14(1) paper 391. http://
-         InformationR.net/ir/14-1/paper391.html]                        Harnad, S. and Brody, T. 2004. Comparing the impact of
-                                                                           open access (OA) vs. non-OA articles in the same
-     Björk B.-C., Welling P., Laakso M., Majlender P., Hedlund T., et      journals. D-Lib Magazine, 10 (6), www.dlib.org/dlib/
-         al. 2010. Open Access to the scientific journal literature:       june04/harnad/06harnad.html
-         Situation 2009. PLoS ONE 5(6): e11273. doi:10.1371/
-         journal.pone.0011273 http://www.plosone.org/article/           Hitchcock, S., Woukeu, A , Brody, T , Carr, L , Hall, W. and
-         info:doi/10.1371/journal.pone.0011273                              Harnad, S. 2003. Evaluating Citebase, an open access
-                                                                            Web-based citation-ranked search and impact
-     Brown, S. and Swan, A. 2009. Data dimensions: disciplinary             discovery service. http://eprints.ecs.soton.ac.uk/8204/
-        differences in research data sharing, reuse and long
-        term viability. Published by the Digital Curation Centre,       Houghton, J., Steele, C. and Sheehan, P. 2006. Research
-                                                                          Communication Costs in Australia: Emerging
+Adema, J. and Schmidt, B. 2010. From Service Providers to Content Producers: New Opportunities For Libraries in Collaborative Open Access Book Publishing. New Review of Academic Librarianship, 16, Suppl 1. Special Issue: Dissemination Models in Scholarly Communication. DOI: 10.1080/13614533.2010.509542. http://www.tandfonline.com/doi/full/10.1080/13614533.2010.509542.
 
+ARL Statistics and Measurement Program: http://www.arl.org/stats/ Monograph and Serials Costs in ARL Libraries 1986 to 2002: http://www.arl.org/stats/arlstat/graphs/2002/2002t2.html.
 
-58
-   Opportunities and Benefits, Report to the Department        Ruusalepp, R. 2008. Infrastructure planning and data
-   of Education, Science and Training, Canberra http://           curation: a comparative study of international
-   dspace.anu.edu.au/handle/1885/44485                            approaches to enabling the sharing of research data.
-                                                                  Edinburgh, Digital Curation Centre. http://www.dcc.
-Houghton, J. and Sheehan, P. 2006. The Economic Impact            ac.uk/sites/default/files/documents/publications/
-  of Enhanced Access to Research Findings CSES                    reports/Data-Sharing-Report.pdf
-  Working Paper No.23, Victoria University, Melbourne
-  (August 2006) http://www.cfses.com/documents/                Sale, A.H.J. 2006. Comparison of IR content policies in
-  wp23.pdf                                                         Australia. First Monday, 11 (4). http://eprints.utas.edu.
-                                                                   au/264/
-Houghton, J. and Sheehan, P. 2009. Estimating the
-  Potential Impacts of Open Access to Research Findings.       Suber, P. 2010. Open Access overview. http://www.
-  Economic Analysis & Policy. 39 (1), 1 March http://             earlham.edu/~peters/fos/overview.htm
-  www.eap-journal.com/download.php?file=696
-                                                               Swan, A. 2007. Open Access and the progress of science.
-Houghton, J.W., Rasmussen, B., Sheehan, P.J., Oppenheim,          En espanol (Spanish version).  American Scientist 95 (3),
-  C., Morris, A., Creaser, C., Greenwood, H., Summers,            May-June 2007, pp197-199. http://eprints.ecs.soton.
-  M. and Gourlay, A. 2009. Economic Implications of               ac.uk/15958/
-  Alternative Scholarly Publishing Models: Exploring the
-  Costs and Benefits, Report to The Joint Information          Swan, A. 2007. Open Access and the progress of science.
-  Systems Committee (JISC) http://www.cfses.com/EI-               American Scientist 95 (3), May-June 2007, pp197-199.
-  ASPM/                                                           http://eprints.ecs.soton.ac.uk/13860/
+Aronson, B. 2004. Improving Online Access to Medical Information for Low-income Countries. New England J. Medicine 350, pp. 966 -- 968. http://content.nejm.org/cgi/content/full/350/10/966.
 
-Houghton, J., Swan, A. and Brown, S. 2011. Access to           Swan, A. 2010. The open access citation advantage:
-  research and technical information in Denmark.                  studies and results to date. http://eprints.ecs.soton.
-  Technical Report, School of Electronics & Computer              ac.uk/18516/
-  Science, University of Southampton. http://eprints.ecs.      Swan, A. 2007. The business of digital repositories. In
-  soton.ac.uk/22603/                                              Weenink, K., Waaijers, L. and van Godtsenhoven, K.
-International Social Science Council. 2010. World Social          (eds.), A DRIVER's Guide to European Repositories.
-    Science Report 2010. http://www.unesco.org/new/en/            Amsterdam, Amsterdam University Press. http://eprints.
-    social-and-human-sciences/resources/reports/world-            ecs.soton.ac.uk/14455/
-    social-science-report/                                     Swan, A., Needham, P., Probets, S., Muir, A., Oppenheim,
-Knowledge Exchange. 2009. Open Access -- what are                  C., O"Brien, A., Hardy, R. and Rowland, F. 2005. Delivery,
-   the economic benefits? A comparison of the United              Management and Access Model for E-prints and
-   Kingdom, Netherlands and Denmark. http://www.                  Open Access Journals within Further and Higher
-   knowledge-exchange.info/Default.aspx?ID=316                    Education. Report for the JISC. http://eprints.ecs.soton.
-                                                                  ac.uk/11001/
-Look, H. and Pinter, F. 2010. Open Access and humanities
-   and social science monograph publishing. New Review         Swan, A. and Brown, S. 2008. To share or not to share:
-   of Academic Librarianship, 16, Suppl 1. Special Issue:         research data outputs. Published by the Research
-   Dissemination Models in Scholarly Communication.               Information Network. http://www.rin.ac.uk/our-work/
-   DOI:10.1080/13614533.2010.512244. http://www.                  data-management-and-curation/share-or-not-share-
-   tandfonline.com/doi/full/10.1080/13614533.2010.5122            research-data-outputs
-   44#tabModule                                                Swan, A. and Brown, S. 2005. Open access self-archiving:
-Lynch, C.A. 2006. Open Computation: Beyond Human-                 An author study. http://eprints.ecs.soton.ac.uk/10999/
-   Reader-Centric Views of Scholarly Literatures. N. Jacobs    UNESCO. UNESCO Science Report 2010. 2010. http://
-   (ed.). Open Access: Key Strategic, Technical and Economic     www.unesco.org/new/en/natural-sciences/science-
-   Aspects. Oxford: Chandos Publishing. http://www.              technology/prospective-studies/unesco-science-
-   ischool.berkeley.edu/research/publications/2006/342/0         report/unesco-science-report-2010/
-Research Information Network. 2009. Overcoming barriers:       Young, P. 2009. The Serials Crisis and Open Access: A White
-   access to research information content. http://www.rin.        Paper for the Virginia Tech Commission on Research.
-   ac.uk/system/files/attachments/overcoming_barriers_            http://scholar.lib.vt.edu/faculty_archives/YoungP/
-   report.pdf                                                     OAwhitepaper.pdf
-Rodriguez-Esteban, R. 2009. Biomedical text mining
-   and its applications. PLoS Comput Biol 5(12):
-   e1000597. doi:10.1371/journal.pcbi.1000597
-   http://www.ploscompbiol.org/article/
-   info%3Adoi%2F10.1371%2Fjournal.pcbi.1000597
+Arunachalam, S., Muthu, M. and Prakash, P. 2011. Open Access to scholarly literature in India: a status report. Bangalore: Centre for Internet & Society. http://www.cis-india.org/openness/blog/open-access-to-scholarly-literature.
 
+Berners-Lee, T. 1989. Information management: a proposal. http://www.w3.org/History/1989/proposal.html.
 
+Björk B.-C., Roos A. and Lauri M. 2009. "Scientific journal publishing: yearly volume and open access availability" Information Research, 14(1) paper 391. http://InformationR.net/ir/14-1/paper391.html.
 
-                                                                                                                               59
-** TODO GLOSSARY OF KEY TERMS AND ABBREVIATIONS
+Björk B.-C., Welling P., Laakso M., Majlender P., Hedlund T., et al. 2010. Open Access to the scientific journal literature: Situation 2009. PLoS ONE 5(6): e11273. doi:10.1371/ journal.pone.0011273 http://www.plosone.org/article/info:doi/10.1371/journal.pone.0011273.
 
-     "BBB" definition of Open Access: The amalgam of the          "Green" Open Access: Open Access achieved by
-     three most important formal attempts to define Open          depositing items (journal articles, peer-reviewed
-     Access, at meetings in Budapest (see BOAI), Bethesda and     conference papers and theses) in an open Access
-     Berlin.                                                      repository, a process known as "self-archiving".
+Brown, S. and Swan, A. 2009. Data dimensions: disciplinary differences in research data sharing, reuse and long term viability. Published by the Digital Curation Centre, Edinburgh. http://www.dcc.ac.uk/sites/default/files/documents/publications/SCARP%20SYNTHESIS.pdf.
 
-     Big Deal: A subscription to a package of multiple journals   Harvesting: The collecting of objects or information
-     from one publisher. Usually purchased by libraries for a     from one or more remote sites into another site. Used,
-     multi-year period.                                           for example, in relation to the collection of articles from
-                                                                  institutional repositories into a central database.
-     BOAI: Budapest Open Access Initiative. This is the first
-     formal definition of Open Access, developed at an Open       "Hybrid" Open Access: Open Access on a single-article
-     Society Institute (now Open Society Foundations)-funded      basis in an otherwise subscription-based journal. Authors
-     meeting in Budapest, Hungary in December 2001 and            can pay to make their own article Open Access while
-     published on 14 February 2002.                               the rest of the journal remains toll-access. Offered by
-                                                                  publishers that wish to maintain their subscription-based
-     Creative Commons: A non-profit organisation that
-                                                                  business but still offer an Open Access option, and may be
-     develops, supports, and stewards legal and technical
-                                                                  seen as a transition mechanism towards full Open Access
-     infrastructure to enable sharing of digital outputs,
-                                                                  at some time in the future.
-     including by the development of a suite of licensing
-     products.                                                    Metadata: The information that describes an object. In
-                                                                  scholarly communication terms the object could be an
-     Data mining; Computational process whereby text or
-                                                                  article, book, dataset, etc. The metadata (or bibliographic
-     datasets are crawled by software that recognises entities,
-                                                                  data) describe the authorship, provenance, publication
-     relationships and actions and can put these together in
-                                                                  location, date of publication, object type and so forth.
-     new ways to create new knowledge.
-                                                                  OAI-PMH: Open Archives Initiative Protocol for Metadata
-     Double-dipping: The practice where a publisher offers
-                                                                  Harvesting. A technical standard for metadata for Open
-     "gold" open Access in an otherwise subscription-based
-                                                                  Access repositories and Open Access journals. Adherence
-     journal, without a commitment to reduce subscription
-                                                                  to this standard ensures interoperability.
-     charges in line with the new revenue stream. The author
-     pays an article-processing fee and the publisher makes       Open Access journal: A journal that makes its contents
-     that article Open Access: the rest of the issue is only      freely available online immediately at the time of
-     available to subscribers. Some publishers do reduce their    publication and on a permanent basis.
-     subscription rates as revenue from APCs increases but
-                                                                  Open Data: In the scholarly communication context,
-     most do not, and therefore "double-dip" into research
-                                                                  Open Data are datasets produced by research that are
-     community funds.
-                                                                  made openly available. Some conditions on their use
-     Eprint: An electronic version of a journal article or book   may apply depending on the need for privacy or similar
-     chapter.                                                     restrictions.
+Cambridge Economic Policy Associates. 2011. Heading for the open road: costs and benefits of transition in scholarly communication. London, Research Information Network. http://www.rin.ac.uk/system/files/attachments/Dynamics_of_transition_report_for_screen.pdf.
 
-     "Gold" Open Access: Open Access achieved by                  Postprint: A journal article (or book chapter or book) that
-     publishing articles in Open Access journals.                 has been peer-reviewed and revised appropriately as a
+Gargouri, Y., Hajjem, C., Lariviere, V., Gingras, Y., Brody, T., Carr, L. and Harnad, S. 2010. Self-Selected or Mandated, Open Access Increases Citation Impact for Higher Quality Research. PLOS ONE, 5 (10). e13636. http://www.plosone.org/article/info:doi/10.1371/journal.pone.0013636.
 
+Guédon, J. 2008. Open Access and the divide between "mainstream" and "peripheral" science. http://hdl.handle.net/10760/10778.
 
+Hajjem, C., Harnad, S. and Gingras, Y. 2005. Ten-year cross-disciplinary comparison of the growth of Open Access and how it increases research citation impact. IEEE Data Engineering Bulletin 28 (4) pp. 39-47. http://eprints.ecs.soton.ac.uk/11688/.
 
+Harnad, S. 1996. Implementing Peer Review on the Net: Scientific Quality Control in Scholarly Electronic Journals. In Peek, R. and Newby, G., Eds. Scholarly Publishing: The Electronic Frontier pp. 103-118. Cambridge, Mass., MIT Press. http://eprints.ecs.soton.ac.uk/2900/.
 
-60
-result of peer review, but is still in the format created by
-the author (i.e. not the publisher's formatted form).
+Harnad, S. 2005. Impact analysis in the open access era. http://openaccess.eprints.org/index.php?/archives/2005/10/10.html.
 
-Preprint: A journal article (or book chapter or book) that
-has not yet been peer-reviewed.
+Harnad, S. and Brody, T. 2004. Comparing the impact of open access (OA) vs. non-OA articles in the same journals. D-Lib Magazine, 10 (6), www.dlib.org/dlib/june04/harnad/06harnad.html.
 
-Repository: A database of digital research outputs. May
-be institutionally-based or be a service to a particular
-disciplinary, geographical or other type of community.
+Hitchcock, S., Woukeu, A , Brody, T , Carr, L , Hall, W. and Harnad, S. 2003. Evaluating Citebase, an open access Web-based citation-ranked search and impact discovery service. http://eprints.ecs.soton.ac.uk/8204/.
 
-Self-archiving: The process of depositing a digital
-research article or other digital research output into an
-Open Access repository.
+Houghton, J., Steele, C. and Sheehan, P. 2006. Research Communication Costs in Australia: Emerging Opportunities and Benefits, Report to the Department of Education, Science and Training, Canberra http://dspace.anu.edu.au/handle/1885/44485.
 
-Text mining: Computational process whereby texts are
-crawled by software that recognises entities, relationships
-and actions and can put these together in new ways to
-create new knowledge.
+Houghton, J. and Sheehan, P. 2006. The Economic Impact of Enhanced Access to Research Findings CSES Working Paper No.23, Victoria University, Melbourne (August 2006) http://www.cfses.com/documents/wp23.pdf.
 
+Houghton, J. and Sheehan, P. 2009. Estimating the Potential Impacts of Open Access to Research Findings. Economic Analysis & Policy. 39 (1), 1 March http://www.eap-journal.com/download.php?file=696.
 
+Houghton, J.W., Rasmussen, B., Sheehan, P.J., Oppenheim, C., Morris, A., Creaser, C., Greenwood, H., Summers, M. and Gourlay, A. 2009. Economic Implications of Alternative Scholarly Publishing Models: Exploring the Costs and Benefits, Report to The Joint Information Systems Committee (JISC) http://www.cfses.com/EI-ASPM/.
 
+Houghton, J., Swan, A. and Brown, S. 2011. Access to research and technical information in Denmark. Technical Report, School of Electronics & Computer Science, University of Southampton. http://eprints.ecs.soton.ac.uk/22603/.
 
-                                                               61
+International Social Science Council. 2010. World Social Science Report 2010. http://www.unesco.org/new/en/social-and-human-sciences/resources/reports/world-social-science-report/.
+
+Knowledge Exchange. 2009. Open Access -- what are the economic benefits? A comparison of the United Kingdom, Netherlands and Denmark. http://www.knowledge-exchange.info/Default.aspx?ID=316.
+
+Look, H. and Pinter, F. 2010. Open Access and humanities and social science monograph publishing. New Review of Academic Librarianship, 16, Suppl 1. Special Issue: Dissemination Models in Scholarly Communication. DOI:10.1080/13614533.2010.512244. http://www.tandfonline.com/doi/full/10.1080/13614533.2010.512244#tabModule.
+
+Lynch, C.A. 2006. Open Computation: Beyond Human-Reader-Centric Views of Scholarly Literatures. N. Jacobs (ed.). Open Access: Key Strategic, Technical and Economic Aspects. Oxford: Chandos Publishing. http://www.ischool.berkeley.edu/research/publications/2006/342/0.
+
+Research Information Network. 2009. Overcoming barriers: access to research information content. http://www.rin.ac.uk/system/files/attachments/overcoming_barriers_report.pdf.
+
+Rodriguez-Esteban, R. 2009. Biomedical text mining and its applications. PLoS Comput Biol 5(12): e1000597. doi:10.1371/journal.pcbi.1000597 http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000597.
+
+Ruusalepp, R. 2008. Infrastructure planning and data curation: a comparative study of international approaches to enabling the sharing of research data. Edinburgh, Digital Curation Centre. http://www.dcc.ac.uk/sites/default/files/documents/publications/reports/Data-Sharing-Report.pdf.
+
+Sale, A.H.J. 2006. Comparison of IR content policies in Australia. First Monday, 11 (4). http://eprints.utas.edu.au/264/.
+
+Suber, P. 2010. Open Access overview. http://www.earlham.edu/~peters/fos/overview.htm.
+
+Swan, A. 2007. Open Access and the progress of science. En espanol (Spanish version). American Scientist 95 (3), May-June 2007, pp197-199. http://eprints.ecs.soton.ac.uk/15958/.
+
+Swan, A. 2007. Open Access and the progress of science. American Scientist 95 (3), May-June 2007, pp197-199. http://eprints.ecs.soton.ac.uk/13860/.
+
+Swan, A. 2010. The open access citation advantage: studies and results to date. http://eprints.ecs.soton.ac.uk/18516/.
+
+Swan, A. 2007. The business of digital repositories. In Weenink, K., Waaijers, L. and van Godtsenhoven, K. (eds.), A DRIVER's Guide to European Repositories. Amsterdam, Amsterdam University Press. http://eprints.ecs.soton.ac.uk/14455/.
+
+Swan, A., Needham, P., Probets, S., Muir, A., Oppenheim, C., O"Brien, A., Hardy, R. and Rowland, F. 2005. Delivery, Management and Access Model for E-prints and Open Access Journals within Further and Higher Education. Report for the JISC. http://eprints.ecs.soton.ac.uk/11001/.
+
+Swan, A. and Brown, S. 2008. To share or not to share: research data outputs. Published by the Research Information Network. http://www.rin.ac.uk/our-work/data-management-and-curation/share-or-not-share-research-data-outputs.
+
+Swan, A. and Brown, S. 2005. Open access self-archiving: An author study. http://eprints.ecs.soton.ac.uk/10999/.
+
+UNESCO. UNESCO Science Report 2010. 2010. http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/unesco-science-report-2010/.
+
+Young, P. 2009. The Serials Crisis and Open Access: A White Paper for the Virginia Tech Commission on Research. http://scholar.lib.vt.edu/faculty_archives/YoungP/OAwhitepaper.pdf.
+
+** DONE GLOSSARY OF KEY TERMS AND ABBREVIATIONS
+
+*"BBB" definition of Open Access*: The amalgam of the three most important formal attempts to define Open Access, at meetings in Budapest (see BOAI), Bethesda and Berlin.
+
+*Big Deal*: A subscription to a package of multiple journals from one publisher. Usually purchased by libraries for a multi-year period.
+
+*BOAI*: Budapest Open Access Initiative. This is the first formal definition of Open Access, developed at an Open Society Institute (now Open Society Foundations)-funded meeting in Budapest, Hungary in December 2001 and published on 14 February 2002.
+
+*Creative Commons*: A non-profit organisation that develops, supports, and stewards legal and technical infrastructure to enable sharing of digital outputs, including by the development of a suite of licensing products.
+
+*Data mining*: Computational process whereby text or datasets are crawled by software that recognises entities, relationships and actions and can put these together in new ways to create new knowledge.
+
+*Double-dipping*: The practice where a publisher offers "gold" open Access in an otherwise subscription-based journal, without a commitment to reduce subscription charges in line with the new revenue stream. The author pays an article-processing fee and the publisher makes that article Open Access: the rest of the issue is only available to subscribers. Some publishers do reduce their subscription rates as revenue from APCs increases but most do not, and therefore "double-dip" into research community funds.
+
+*Eprint*: An electronic version of a journal article or book chapter.
+
+*"Gold" Open Access*: Open Access achieved by publishing articles in Open Access journals.
+
+*"Green" Open Access*: Open Access achieved by depositing items (journal articles, peer-reviewed conference papers and theses) in an open Access repository, a process known as "self-archiving".
+
+*Harvesting*: The collecting of objects or information from one or more remote sites into another site. Used, for example, in relation to the collection of articles from institutional repositories into a central database.
+
+*"Hybrid" Open Access*: Open Access on a single-article basis in an otherwise subscription-based journal. Authors can pay to make their own article Open Access while the rest of the journal remains toll-access. Offered by publishers that wish to maintain their subscription-based business but still offer an Open Access option, and may be seen as a transition mechanism towards full Open Access at some time in the future.
+
+*Metadata*: The information that describes an object. In scholarly communication terms the object could be an article, book, dataset, etc. The metadata (or bibliographic data) describe the authorship, provenance, publication location, date of publication, object type and so forth.
+
+*OAI-PMH*: Open Archives Initiative Protocol for Metadata Harvesting. A technical standard for metadata for Open Access repositories and Open Access journals. Adherence to this standard ensures interoperability.
+
+*Open Access journal*: A journal that makes its contents freely available online immediately at the time of publication and on a permanent basis.
+
+*Open Data*: In the scholarly communication context, Open Data are datasets produced by research that are made openly available. Some conditions on their use may apply depending on the need for privacy or similar restrictions.
+
+*Postprint*: A journal article (or book chapter or book) that has been peer-reviewed and revised appropriately as a result of peer review, but is still in the format created by the author (i.e. not the publisher's formatted form).
+
+*Preprint*: A journal article (or book chapter or book) that has not yet been peer-reviewed.
+
+*Repository*: A database of digital research outputs. May be institutionally-based or be a service to a particular disciplinary, geographical or other type of community.
+
+*Self-archiving*: The process of depositing a digital research article or other digital research output into an Open Access repository.
+
+*Text mining*: Computational process whereby texts are crawled by software that recognises entities, relationships and actions and can put these together in new ways to create new knowledge.
+
 ** TODO APPENDIX 1. Example policies
 
 
