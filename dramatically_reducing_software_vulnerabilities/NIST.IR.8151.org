@@ -28,6 +28,7 @@
 #+LATEX_HEADER:
 
 * Dramatically Reducing Software Vulnerabilities
+
 Report to the White House Office of Science and Technology Policy
 
 Paul E. Black
@@ -78,6 +79,7 @@ Thanks also to W. Konrad Vesey (william.k.vesey.ctr@mail.mil), Contractor, MIT L
 We thank Terry Cohen, Mark Cornwell, John Diamant, Jeremy Epstein, D. Richard Kuhn, Andrew Murren, Kenneth S Thompson, Jan Vandenbos, David Wheeler and Lok Yan for their significant comments and suggestions, which greatly improved this report. We also thank the many others who suggested improvements, asked questions and submitted comments.
 
 ** <<1>> 1 Introduction
+
 The call for a dramatic reduction in software vulnerability is being heard from multiple sources, including the February 2016 Federal Cybersecurity Research and Development Strategic Plan [fn:FCRDSP16]. This plan starts by describing a well-known risk: current systems perform increasingly vital tasks and are widely known to possess vulnerabilities. These vulnerabilities are often not easy to discover and difficult to correct. Cybersecurity has not kept pace, and the pace that is needed is rapidly accelerating. The plan defines goals for the near, mid and long term. This report addresses the first mid-term goal:
 
 #+BEGIN_QUOTE
@@ -97,6 +99,7 @@ Great strides have been made in defining software vulnerabilities, cataloging th
 Strengthening protection requires increasing assurance that the products people develop and deploy are highly resistant to malicious cyber activities, because they include very few vulnerabilities ... [[fn:FCRDSP16], p. 17]
 
 *** <<1.1>> 1.1 Scope of Report
+
 The goal of this report is to present a list of specific technical approaches that have the potential to make a dramatic difference reducing vulnerabilities - by stopping them before they occur, by finding them before they are exploited or by reducing their impact.
 
 + Stopping vulnerabilities before they occur generally includes improved methods for specifying, designing and building software.
@@ -119,7 +122,7 @@ Dramatic. This means approaches that are broadly applicable and that significant
 
 Technical. There are many different types of approaches to reducing software vulnerabilities, many of which are not primarily technical - from helping users meaningfully request security to funding research and operational activities and training all parties, who design, build, test and use software. During the development of this report, many ideas were put forward across this broad span. The report only addresses technical approaches in order to have a manageable scope, which builds on expertise available during the development of the report. These other areas are critical, too.
 
-During the drafting of this report, many excellent ideas were brought forth that are outside the scope of this report and are summarized in Section 4. Examples of these activities include:
+During the drafting of this report, many excellent ideas were brought forth that are outside the scope of this report and are summarized in Section [[4][4]]. Examples of these activities include:
 
 + Improved funding,
 + Improving education,
@@ -132,15 +135,19 @@ During the drafting of this report, many excellent ideas were brought forth that
 This report excludes a discussion of vulnerabilities in hardware. This is not to say that these are not critical. These can be addressed in another report. This report targets a broad range of software, including government-contracted software, proprietary and open source software. It covers software for general use, mobile devices and embedding in appliances and devices. The goal is to prevent vulnerabilities in new code, in addition to identifying and fixing vulnerabilities in existing code.
 
 *** <<1.2>> 1.2 Findings
+
 While the problem of reducing software vulnerabilities is a difficult one and clearly requires a mixture of technical, operational, managerial, psychological and cultural changes to address the problem, it is possible to make a dramatic difference. This report describes five mid-term approaches that have the potential to address technical aspects of the problem. The approaches included here are not a comprehensive list; they represent a wide range of potential approaches and highlight how reducing software vulnerabilities can be accomplished. All of these approaches will require improved research infrastructure, including significantly better metrics. As noted, they cannot be successful by themselves and will need to be integrated into the larger software developer and user communities. Furthermore, this report does not focus on current trends in secure software development that are already in significant use.
 
 *** <<1.3>> 1.3 Audience
+
 The primary audience for the report is the White House Office of Science and Technology Policy (OSTP). It is anticipated that other policy bodies, funders and researchers will find the report useful as they consider investments and programs to improve software quality. Since the report focuses on a three to seven-year time frame, it is not intended as a guide for software developers.
 
 *** <<1.4>> 1.4 Measures
+
 There are multiple efforts to define software vulnerabilities, their prevalence, their detectability and the efficacy of detection and mitigation techniques. The ability to measure software can play an important role in dramatically reducing software vulnerabilities. Industry requires evidence of the extent of such vulnerabilities, in addition to knowledge in determining which techniques are most effective in developing software with far fewer vulnerabilities. With effective measures that can function as market signals, industry can favor and select low vulnerability software, thus encouraging development of better software [fn:Grigg08]. Additionally, and more critically, industry requires guidance in identifying the best places in code to deploy mitigations or other actions. This evidence comes from measuring, in the broadest sense, or assessing the properties of software.
 
 *** <<1.5>> 1.5 Methodology
+
 In order to produce the list of approaches, the Office of Science and Technology Policy (OSTP) asked NIST to lead a community-based effort. The report was developed during an eight-month period. Given the compressed time frame, the focus of the report was kept to the criteria described above to highlight promising approaches rather than perform a comprehensive analysis. NIST consulted with multiple experts in the software assurance community including:
 
 + Two OSTP-hosted inter-agency roundtables;
@@ -151,9 +158,10 @@ Software Productivity, Sustainability, and Quality (SPSQ) Working Group of the N
 + Public comment from 4 to 18 October 2016.
 
 *** <<1.6>> 1.6 Report Organization
-The report is organized into two major sections. The first, Section 2, enumerates technical approaches and the second, Section 3, addresses measures.
 
-Section 2 has subsections for technical approaches to deal with vulnerabilities in software. These include formal methods, such as sound static program analyses, model checkers and Boolean Satisfiability (SAT) solvers. It also suggests having a directory of verified tools and verified code. This section addresses system level security, including operating system containers and microservices. Additive software analysis techniques are addressed. Finally, it discusses moving target defenses (MTD) and automatic software diversity. These include compile-time techniques, system or network techniques and operating system techniques.
+The report is organized into two major sections. The first, Section [[2][2]], enumerates technical approaches and the second, Section [[3][3]], addresses measures.
+
+Section [[2][2]] has subsections for technical approaches to deal with vulnerabilities in software. These include formal methods, such as sound static program analyses, model checkers and Boolean Satisfiability (SAT) solvers. It also suggests having a directory of verified tools and verified code. This section addresses system level security, including operating system containers and microservices. Additive software analysis techniques are addressed. Finally, it discusses moving target defenses (MTD) and automatic software diversity. These include compile-time techniques, system or network techniques and operating system techniques.
 
 Each subsection follows the same format:
 
@@ -163,14 +171,16 @@ Each subsection follows the same format:
 + Rationale for Potential Impact and
 + Further Reading, including papers and other materials.
 
-Section 3 covers software measures. It is designed to encourage the adoption of measurement and tools to address vulnerabilities in software. It addresses product measures and how to develop better code. It also addresses the criticality of software security and quality measures.
+Section [[3][3]] covers software measures. It is designed to encourage the adoption of measurement and tools to address vulnerabilities in software. It addresses product measures and how to develop better code. It also addresses the criticality of software security and quality measures.
 
-After those two major sections are Section 4, on crosscutting issues, such as engaging the research community, education and vehicles to transition the technical approaches to general use, and references in Section 5.
+After those two major sections are Section [[4][4]], on crosscutting issues, such as engaging the research community, education and vehicles to transition the technical approaches to general use, and references in Section [[5][5]].
 
 ** <<2>> 2 Technical Approaches
+
 There are many approaches at varying levels of maturity that show great promise for reducing the number of vulnerabilities in software. This report highlights five of them that are sufficiently mature and have shown success, so that it is possible to extrapolate into a three to seven-year horizon. This list is not meant to be exhaustive, but rather to show that it is possible to make significant progress in reducing vulnerabilities and to lay out paths to achieve this ambitious goal. One of the significant themes of the SPSQ workshop was the need to improve not just software, but also testing tools by applying formal techniques.
 
 *** <<2.1>> 2.1 Formal Methods
+
 Formal methods include all software analysis approaches based on mathematics and logic, including parsing, type checking, correctness proofs, model-based development and correct-by-construction. Formal methods can help software developers achieve greater assurance that entire classes of vulnerabilities are absent and can also help reduce unpredictable cycles of expensive testing and bug fixing.
 
 In the early days of programming, some practitioners proved the correctness of their programs. That is, given language semantics, they logically proved that their program had certain properties or gave certain results. As the use of software exploded and programs grew so large that purely manual proofs were infeasible, formal correctness arguments lost favor. In recent decades, developments, such as the breathtaking increase in processing capacity predicted by Moore's law, multi-core processors and cloud computing, made orders of magnitude more computing power readily available. Advances in algorithms for solving Boolean Satisfiability (SAT) problems, satisfiability modulo theories (SMT) [fn:Bjørner16], decision procedures (e.g., ordered binary decision diagrams - OBDD) and reasoning models (e.g., abstract interpretation and separation logic) dramatically slashed resources required to answer questions about software.
@@ -188,6 +198,7 @@ Despite their strengths, formal methods are less effective if there is no clear 
 Formal methods include many, many techniques at all stages of software development and in many different application areas. We do not list every potentially helpful formal method. Instead, we concentrate on a few methods that may contribute significantly in the mid-term.
 
 **** <<2.1.1>> 2.1.1 Sound Static Program Analysis
+
 Static analysis is the examination of software for specific properties without executing it. For our purposes, we only consider automated analysis. Heuristic analysis is faster than sound analysis, but lacks assurance that comes from a chain of logical reasoning. Some questions can only be answered by running the software under analysis, i.e., through dynamic analysis. Combining static and dynamic analysis yields a hybrid technique. In particular, executions may produce existence proofs of properties that cannot be confirmed using static techniques only.
 
 Many representations of software (e.g., requirements, architecture, source code and executables) may be statically analyzed. Source code analysis, however, is the most mature. One advantage of source code analysis is that the context of problems identified in source code can be communicated to software developers using a familiar representation: the code itself. When other representations are analyzed, an additional step is required to render a warning into a form that people can first understand and then relate to a program under analysis.
@@ -199,6 +210,7 @@ Formal specification and sound static analysis have shown significant applicabil
 These developments illustrate a few of the many uses of static analysis. Going forward, static analysis has the potential to efficiently preclude several classes of errors in newly-developed software and to reduce the uncertainty regarding resources needed to reach higher levels of assurance through testing.
 
 **** <<2.1.2>> 2.1.2 Model Checkers, SAT Solvers and Other "Light Weight" Decision Algorithms
+
 These algorithms can answer questions about desirable higher level properties, such as that a protocol only allows sensitive text to be read if one has a key, that security properties are preserved by the system, that an assignment of values satisfies multiple constraints or that there are no paths to breaches via (known) attacks. These algorithms can also be applied to analyze detailed design artifacts, such as finite (and infinite) state machines.
 
 Doyle's assessment is that model checkers can have excellent coverage and many properties can be represented [fn:Doyle16]. However, since the effort required increases exponentially with problem size, there is always an effectize size limit. Problems smaller than the limit can be solved quickly. Very large problems may require excessive resources or intensive human work to break the problem into reasonable pieces.
@@ -206,6 +218,7 @@ Doyle's assessment is that model checkers can have excellent coverage and many p
 Such techniques can be applied in essentially two ways. First, they can be used as part of software in production. For instance, instead of an ad hoc routine to find an efficient route for a delivery truck, an application can use a well-studied Traveling Salesman or spanning tree algorithm. Second, and perhaps more pertinent to the theme of this report, is to use the algorithms to design or verify software.
 
 **** <<2.1.3>> 2.1.3 Assertions, Pre- and Postconditions, Invariants, Aspects and Contracts
+
 Programmers generally have a body of information that gives them confidence that software will perform as expected. A neglected part of formal methods is to unambiguously record such insights. Variants go by different terms, such as contracts, assertions, preconditions, annotations, postconditions and invariants. It may cost programmers some extra thought to state exactly what is going on using a language similar to code expressions, but such statements help. Automated aids, such as Counterexample-Guided Abstraction Refinement (CEGAR), can help produce statements. These statements are activated ("compiled in") during development and testing, then may be deactivated before release.
 
 The benefit is that these formal statements of properties carried in the code may be used to cross- check the code. For example, tests may be generated directly from assertions. They may be activated to perform internal consistency checks during testing or production. Faults can therefore be detected much earlier and closer to erroneous code, instead of having to trace back from externally visible system failures. Assertion-based testing can detect up to 90 % of errors with an appropriate level of coverage of the input space [fn:duBousquet04]. Such statements also supply additional information to perform semi-automated proofs of program correctness. Unlike comments, which may not be updated when the code changes, these can be substantiated or enforced by a computer and, therefore, must continue to be accurate statements of program features and attributes.
@@ -213,11 +226,13 @@ The benefit is that these formal statements of properties carried in the code ma
 A striking example of how such formal statements could help is the 1996 failure of the first Ariane 5 rocket launched. The Ariane 5 used software from the successful Ariane 4. When the Ariane 4 was designed, analysis showed that a 16-bit integer could handle its speeds. However, higher Ariane 5 speed values overflowed the variable, leading to computer shut down and the loss of the vehicle. If the code had a precondition that the speed must fit in a 16-bit integer, "Any team worth its salt would have checked ... [preconditions, which] would have immediately revealed that the Ariane 5 calling software did not meet the expectation of the Ariane 4 routines that it called." [fn:Jézéquel97]
 
 **** <<2.1.4>> 2.1.4 Correct-by-Construction and Model-Based Development
+
 In model-based development, a software developer creates and modifies a model of a system. Behavior may be specified in a higher-level or domain-specific language or model, and then code is automatically generated. Much or all of the code is generated from the model. This is one correct-by-construction technique. This technique and others, such as design by refinement, aim to avoid whole classes of vulnerabilities entirely, since the developer rarely touches the code. Code synthesis like this is useful in fewer situations than other formal methods, since it may be impractical to develop the modeling superstructure and code generator for an area, e.g., a user interface with error recovery and help prompts. Such models or specifications may also generate test suites or oracles. They may also be used to validate or monitor system operation.
 
 When analysts can specify complete high-level models for entire systems, or even subsystems, we call the model a "domain-specific language" (DSL) and cease to consider it noteworthy. This represents a substantial use of formal methods. According to Doyle's assessment, program synthesis has an "A+" in coverage and "B" in effort and properties [fn:Doyle16].
 
 **** <<2.1.5>> 2.1.5 Directory of Verified Tools and Verified Code
+
 Software developers often must expend significant effort to qualify tools or develop program libraries with proven properties. Even when a later developer wishes to use the results of such work, there are no central clearing houses to consult. A list of verified tools, carefully constructed libraries and even reusable specifications and requirements can speed the adoption of formal methods. Such a tool library could facilitate wider use, with accompanying assurance, of software with dramatically reduced numbers of vulnerabilities.
 
 Many companies and government agencies evaluate the same tools or the same software for similar uses. Since it may be difficult to find out who may have done related evaluations, each entity must duplicate the work, sometimes with less knowledge and care than another has already applied. It is especially challenging since many contracts discourage sharing results [fn:Klass16]. A repository or list would be of great benefit. Knowing about related efforts, developers could contribute to one effort, instead of working on their own. As a code or "live" instantiation of a repository, the Open Web Application Security Project (OWASP) foundation coordinated a project to develop a shared application program interface (API) that encapsulated key security operation, called Enterprise Security API (ESAPI).
@@ -225,20 +240,25 @@ Many companies and government agencies evaluate the same tools or the same softw
 See Sect. [[2.4][2.4]] for a discussion of re-use of well-tested and well-analyzed code.
 
 **** <<2.1.6>> 2.1.6 Cyber Retrofitting: Putting Formal Methods to Work
+
 The preceding techniques can be put to use to develop new software, however reworking all legacy software is impractical. This is called "cyber retrofitting" in analogy to seismic retrofitting for greater earthquake resistance [fn:Fisher16]. The first step is to identify the most critical, key or foundational components in existing systems. SPSQ workshop participants also emphasized the use of formal methods for key modules rather than entire applications. A key component may be a compiler or run-time library, in addition to purpose-written code. These components are then closely examined or reengineered with the appropriate formal methods to gain higher levels of assurance, as was done for PolarSSL, now known as mbed TLS, [[fn:Bakker14], [fn:Regehr15]] in the wake of Heartbleed or the CompCert Verifying C Compiler [fn:Leroy06].
 
 Another small step in cyber retrofitting is to recompile components with automatic strengthening or hardening. For instance, a compiler can add bounds checks where possible on all questionable memory accesses to greatly reduce the number of unrecognized buffer overflows (BOF class) [fn:Bojanova16]. Such strengthening typically has little performance impact [fn:Flater15]. Compilers also can replace typical unsafe functions with safer "fortified" functions and can employ executable space protection, i.e., mark memory regions for data as non-executable.
 
 **** <<2.1.7>> 2.1.7 Maturity Level
+
 Today formal methods are used, often relatively invisibly, throughout the world. One of the most pervasive applications is the use of strong type checking, which is a formal method, within modern programming languages. Other, admittedly limited, uses are the algorithms of various software checking tools, some of them built into widely used development environments (e.g., that tag inconsistent use of variables, missing values or use of unsafe interfaces). In 2010, researchers at National ICT (Information Communications Technology) Australia (NICTA) demonstrated the formal verification of the seL4 microkernel comprising about 10 000 lines of C code [fn:Klein14]. The UK National Air Traffic Service (NATS) interim Future Area Controls Tools Support (iFACTS) has over 200 000 lines of SPARK source code, and "all code changes must prove OK before code can be committed" [fn:Chapman14].
 
 **** <<2.1.8>> 2.1.8 Basis for Confidence
+
 Assertions, contracts, invariants and other formal declarations have been significantly adopted in high-quality software. Their gradual improvement to encompass more advanced conditions and API checking is because they have already proven themselves in developer communities. For instance, Source code Annotation Language (SAL 2.0) is available in Visual Studio 2015. Many tools now perform static analysis. A natural progression is to promote more and more advanced forms of static and hybrid analysis. Software proving based on techniques such as pre- and post- condition satisfaction and proof-carrying code have seen initial adoption in critical software [fn:Souyris09]. They require more effort and cost, however, in some cases they have been shown to be cost effective in the long run: improvement in development time and cost in one-third of uses and fewer or no fixes to deployed systems [fn:Woodcock09].
 
 **** <<2.1.9>> 2.1.9 Rationale for Potential Impact
+
 The greatest potential impact is likely in costs avoided for components that, over time, become heavily relied upon. The Heartbleed debacle is an example of a modest code base with outsized importance: a judicious use of formal methods might have avoided the problem in the first place. Generally, higher quality software, such as can be produced using formal methods, can be used to lower long-term maintenance and replacement costs of software components. Unlike physical systems that wear out and eventually fail, software systems suffer failures when they are incorrect and the flaws are triggered by environmental factors, such as, particular sequences or combinations of inputs [fn:Woody14].
 
 **** <<2.1.10>> 2.1.10 Further Reading
+
 [fn:Armstrong14] Robert C. Armstrong, Ratish J. Punnoose, Matthew H. Wong and Jackson R. Mayo, "Survey of Existing Tools for Formal Verification," Sandia National Laboratories Report SAND2014-20533, December 2014. Available: http://prod.sandia.gov/techlib/access-control.cgi/2014/1420533.pdf Accessed 12 October 2016.
 
 [fn:Chapman14] Roderick Chapman and Florian Schanda, "Are We There Yet? 20 Years of Industrial Theorem Proving with SPARK," in Proc. Interactive Theorem Proving: 5th International Conference, ITP 2014, Held as Part of the Vienna Summer of Logic, VSL 2014, Vienna, Austria, July 14-17, 2014. Gerwin Klein and Ruben Gamboa, Eds., Lecture Notes in Computer Science, Vol. 8558, Springer, 2014, pp. 17-26, https://doi.org/10.1007/978-3-319-08970-6_2.
@@ -250,6 +270,7 @@ The greatest potential impact is likely in costs avoided for components that, ov
 [fn:Woodcock09] Jim Woodcock, Peter Gorm Larsen, Juan Bicarregui and John Fitzgerald, "Formal Methods: Practice and Experience," ACM Computing Surveys, Vol. 41, Issue 4, October 2009, pp. 1-36, https://doi.org/10.1145/1592434.1592436.
 
 *** <<2.2>> 2.2 System Level Security
+
 When software is executed, the system context for the running software defines the resources available to the software, the APIs needed to access those resources and how the software may access (and be accessed by) outside entities. These aspects of a system context may strongly affect the likelihood that software contains vulnerabilities (e.g., complex or buggy APIs increase the likelihood), the feasibility of an attacker exploiting vulnerabilities (e.g., more feasible if system services are reachable from outside) and the impact an attack could have (e.g., both damage to system resources and mission-specific costs).
 
 A long-standing goal of system designers is to build systems that are resistant to attack and that enforce desirable security policies on both programs and users. Started in 1965, the Multics system [fn:Corbato65] combined a number of ideas (e.g., virtual memory, multi-processing and memory segments) to implement a computing utility that could protect information from unauthorized access. Starting in the 1970s, a number of security policy models were introduced to formalize the security responsibilities of the system layer. In 1976, the Bell-LaPadula (BLP) model [fn:Bell76] provided a formal expression of mandatory security for protecting classified information: the BLP model allowed "high" (e.g., SECRET) processes access to "low" (e.g., UNCLASSIFIED) information for usability but prevented "low" processes from accessing "high" information. Goguen and Meseguer's noninterference model accounted for indirect information flows, also known as covert channels [fn:Goguen84]. Biba's integrity model expressed mandatory security for integrity: it prevented possibly-malicious (low-integrity) data from being observed by high-integrity processes, thus reducing the risk that high-integrity processing and data might become corrupted [fn:Biba77]. Boebert and Kain's type enforcement model provided a table-based access control mechanism to allow data to be transformed only by pre-approved programs [fn:Boebert85]. These models provided necessary clarity regarding desirable security properties, but using the models in real-scale systems posed usability problems for system administrators, and software implementations of the models still contained exploitable flaws.
@@ -259,6 +280,7 @@ In 1999, DARPA started the Intrusion Tolerant Systems (ITS) program predicated o
 Recent advances, both in hardware and software, raise the possibility of developing security- enforcing and intrusion tolerant systems that are both performance and cost effective. Such systems have the potential to suppress the harm that software vulnerabilities can cause. On the hardware side, the low cost multicore and system-on-a-chip processors are lowering the costs of redundancy. On the complementary software side, emerging architectural patterns are offering a new opportunity to build security and tolerance into the next generation of systems. Among numerous possible patterns, two that appear promising are operating system containers and microservices.
 
 **** <<2.2.1>> 2.2.1 Operating System Containers
+
 "A container is an object isolating some resources of the host, for the application or system running in it." [fn:LXC] A container is, in essence, a very light weight virtual machine whose resources (memory, disk and network) can be very flexibly shared with a host computer or other containers. A container provides some of the isolation properties of an independent computer or a full virtual machine, but a container can be launched in a fraction of a second on commodity hardware. A container will generally require significantly fewer computing and storage resources than a full virtual machine.
 
 Container-based isolation can clearly reduce the impact of software vulnerabilities if the isolation is strong enough. It is therefore important to gain assurance that container infrastructure components (e.g., control groups and name spaces in the Linux kernel) are robust in the face of malicious inputs. Users of containers need to model, analyze, test and validate these to build assurance that container configurations operate as intended.
@@ -270,6 +292,7 @@ Additionally, containers offer an opportunity to apply some of the traditional s
 Furthermore, because a container can be efficiently wrapped around a single run of a program, a container might be configured to grant a program only the minimum level of access to resources, thus following the principle of least privilege [fn:Saltzer75]. Least privilege is a fundamental principle for limiting the effects of software vulnerabilities and attacks. It is notoriously difficult, however, to specify the minimum resources that a program requires. Rather than trying to solve the problem in its full generality, one strategy is to develop analysis techniques and tools to generate custom container configurations that approximate least-privilege for important classes of programs. Due to the relative ease of deploying containers, such tool-assisted containers could bring much more effective access control and safety to mainstream systems.
 
 **** <<2.2.2>> 2.2.2 Microservices
+
 Microservices describe "An approach to designing software as a suite of small services, each running in its own process and communicating with lightweight mechanisms." [fn:Fowler14] The essential microservices idea is not new: it has been explored using web services and in operating systems based on microkernels such as the Mach microkernel [fn:Rashid86], the GNU Hurd [fn:Hurd16] and the Web Services Architecture [fn:WSA04]. The microservices approach, however, structures services according to different criteria. Microservices should implement individual business (or mission) capabilities, have independent refresh cycles, be relatively easy to replace and be programming-language agnostic[fn:Fowler14]. In short, each microservice should make economic and management sense on its own. At the same time, microservices may rely on one another, which can support well-defined modularity.
 
 This approach to system structure can result in a number of components whose interfaces are explicitly defined and whose dependencies are similarly explicitly defined.
@@ -283,17 +306,21 @@ The deployment of software as collections of microservices raises a fundamental 
 By making component dependencies and interactions more explicit, microservices appear to offer a new opportunity for interposition-based security enhancements. Wrapping layers inserted between microservice interactions would have the power to augment, transform, deny and monitor those interactions. Those powers could be used to restrict potential damage from software vulnerabilities, but interposition can also destabilize systems and impose slowdowns. A possible research thrust is to investigate interposition strategies that are compatible with microservice based systems. Microservices encourage a simplified interface between components (e.g., no memory sharing via global state). This simplification may enable microservice-based interposition to be performed with fewer associated effects on stability.
 
 **** <<2.2.3>> 2.2.3 Maturity Level
+
 Virtualization systems date from the 1960s. The LXC container form of virtualization began in 2008 and has been under active development since. A number of alternate lightweight virtualization systems exist, for example BSD Jails, OpenVZ and Oracle Solaris Zones. Containers are substantially deployed in clouds and on servers. [fn::Operating system containers are useful implementing mechanisms for some clouds, but cloud computing is distinct from operating system containers [fn:Mell11].]
 
 The current microservices terminology and design goals emerged by 2014. Earlier formulations, such as tasks running on microkernels, predate the CMU Mach project's initiation in 1985. Since then, microkernel technology has been a subject of ongoing research and has been integrated into significant commercial products, notably Apple's OS X.
 
 **** <<2.2.4>> 2.2.4 Basis for Confidence
+
 The base technologies are widely used, and there is a recognized need for more automation in the configuration of containers. So there could be demand pull. Because containers can be very quickly created, tested and deleted, there is a good case that extensive testing could be done on container configurations in a semi-automated manner. With respect to microservices, growing number of microservice frameworks indicates that the technology is increasing in popularity and that there is still room for enriching microservice frameworks and for having these enrichments adopted. Also, the modular nature of microservices may offer a pathway for deploying more secure versions of microservices without significantly disrupting service to clients.
 
 **** <<2.2.5>> 2.2.5 Rationale for Potential Impact
+
 Operating system containers and microservices are already a significant part of the national information infrastructure. Given the clear manageability, cost and performance advantages of using them, it is reasonable to expect their use to continue to expand. Security-enhanced versions of these technologies, if adopted, can therefore have a widespread effect on the exploitation of software vulnerabilities.
 
 **** <<2.2.6>> 2.2.6 Further Reading
+
 [fn:Fowler14] Martin Fowler, "Microservices: a definition of this new architectural term," 25 March 2014. Available: http://martinfowler.com/articles/microservices.html Accessed 13 October 2016.
 
 [fn:Lemon13] Lemon, "Getting Started with LXC on an Ubuntu 13.04 VPS," 6 August 2013. Available: https://www.digitalocean.com/community/tutorials/getting-started-with-lxc-on-an-ubuntu-13-04-vps Accessed 13 October 2016.
@@ -301,6 +328,7 @@ Operating system containers and microservices are already a significant part of 
 [fn:What] "What's LXC?", Available: https://linuxcontainers.org/lxc/introduction Accessed 13 October 2016.
 
 *** <<2.3>> 2.3 Additive Software Analysis Techniques
+
 Currently there are many different tools and techniques, both as open source and as proprietary software, to analyze software and to check for myriad problems. Many of them can be executed through a general Integrated Development Environment (IDE), such as Eclipse. But current tools face a number of impediments. IDEs sometimes do not offer an "information bus" for tools to share software properties. Each tool must do its own parsing, build its own abstract syntax tree (AST), list variables with their scopes and attributes and "decorate" an AST with proven facts or invariants. Some tools are built on a common infrastructure, such as LLVM or ROSE [fn:Rose16], so they share code, but they must still do much of the analysis over again. In addition, there are few standards that allow, for example, one parser to be swapped out for a new parser that runs faster.
 
 Additive software analysis refers to a comprehensive approach for addressing impediments to the use of multiple advanced software checking tools. The goal of additive software analysis is to foster a continuing accumulation of highly-usable analysis modules that add together over time to continually improve the state of the practice in deployed software analysis. Additive Software Analysis has three parts. First, it is documentary standards to allow algorithms and tools to exchange information about software. Second, it is a framework or architecture to enable modular and distributed development of software assurance and assessment tools. This framework has a function similar to the Knowledge Discovery Metamodel (KDM) [fn:KDM15] or what is termed a black board in Artificial Intelligence (AI). Third, it is conceptual approaches to aggregate, correlate or synthesize the results and capabilities of tools and algorithms. A key output of additive software analysis will be a new generation of user-facing tools to readily combine the outputs from different tools and techniques into unified, more comprehensive assessments of a piece of software.
@@ -308,6 +336,7 @@ Additive software analysis refers to a comprehensive approach for addressing imp
 A comprehensive additive software analysis capability must facilitate tools working together, provide building blocks to jumpstart new tool development and facilitate integration and interoperability among tools. Hence, it must include standards, a framework and techniques to combine analysis results.
 
 **** <<2.3.1>> 2.3.1 Software Information Expression and Exchange Standards
+
 Software assurance tools derive and store an enormous variety of information about programs. Unfortunately, there is no widely-accepted standard for exact definitions of the information or how it might be stored. Because of the lack of standards, developers must perform heroic feats to exchange information with fidelity between different analysis tools and algorithms.
 
 Merely passing bits back and forth between tools is of little benefit unless those bits convey information that is understood the same way by tools. For example, "error," "fault," "failure," "weakness," "bug" and "vulnerability" are related, but different, concepts. Without standards, if one tool reports a bug, another tool may understand "bug" to indicate a higher (or lower!) potential for successful attack than the first tool's assessment.
@@ -332,6 +361,7 @@ Intermediate Representation Tools may perform in-depth analyses on intermediate 
 Semantic Representations Tools that check functional correctness properties typically need a representation that is more suited to expressing logical program properties than the representations discussed above. While such representations are not as mature as ASTs and compiler IRs, a few have gained popularity in recent years. For instance, the intermediate verification language Boogie [fn:Barnett05], which provides features such as parametric polymorphism, universal and existential quantification, nondeterministic choice and partial orderings, has become a popular backend for sophisticated checkers of both low-level languages, such as C and C++, and higher-level object-oriented languages, such as Eiffel and C#. Boogie programs can be translated into the SMT-LIB format [fn:SMTLIB15], which allows them to be checked with any theorem prover that accepts the SMT-LIB format. Another example of a common language for semantic representations is Datalog [fn:Whaley05], which has been used to build a variety of tools for checking array bound overflows, finding race conditions in multithreaded programs and checking web application security.
 
 **** <<2.3.2>> 2.3.2 Tool Development Framework or Architecture
+
 To foster new tool development, additive software analysis requires initial building blocks. The key initial building block is a framework that can tie the capabilities of tools or techniques together. Just as Eclipse greatly facilitates the improvement of IDE technology for developing code, a framework for additive software analysis will aim to enable synergistic development of software assurance and testing tools. This "framework" may be a separate tool, or it may be a plugin or update to an existing IDE.
 
 Broadly speaking, there are two common methods for frameworks to transmit information between program analysis tools. The first method integrates a checker as a plugin into an existing compiler toolchain. Modern compiler frameworks, e.g., gcc, Clang and Frama-C, make it easy to write new plugins. Furthermore, plugins are often allowed to update an AST or intermediate form, thus allowing plugins to make the results of their analysis available for use by other plugins. For instance, the Frama-C compiler framework provides a library of plugins that includes use-def and pointer-alias analyses that are often necessary for writing semantic analyzers. The second method relies on a common format that is written to disk or sent via network to pass information. An example of this is the Evidential Tool Bus [fn:Rushby05] that allows multiple analysis engines produced by different vendors to exchange logical conclusions in order to perform sophisticated program analyses. Information could be attached to the code to become "assurance-carrying code" [fn:Woody16]. An additive framework would support both information transmission approaches in order to reuse existing efforts as much as possible.
@@ -339,6 +369,7 @@ Broadly speaking, there are two common methods for frameworks to transmit inform
 The framework capabilities referred to in this section focus on information exchange among tools, rather than development capabilities of frameworks discussed in Sect. [[2.4][2.4]].
 
 **** <<2.3.3>> 2.3.3 Strategy to Combine Analysis Results
+
 With standards in place and a framework, we can get increased benefit by adding together or combining different software analyses. There are three general ways that results of software analysis can be added together. The first case is simply more information. Suppose the programmer already has a tool to check for injection bugs (INJ class) [fn:Bojanova16]. Adding a tool to check for deadlocks could give the programmer more information.
 
 The second case is confirmatory or contradictory. The programmer may have two different heuristics to find faulty operation (FOP class) bugs [fn:Bojanova16] that have independent chances of reporting true FOP bugs and false positives. The framework could be used to correlate the outputs of the two heuristics to produce a single result with fewer false positives. In contrast, one tool may say that a statement is reachable, while another tool says that it is not. This contradiction may indicate differences in assumptions or an error in a tool. A set of deduction rules used in one tool may be consistent in isolation, but inconsistent with rules from another tool.
@@ -346,6 +377,7 @@ The second case is confirmatory or contradictory. The programmer may have two di
 The third case of additive software analysis is synergy. A research group with expertise in formal reasoning about memory use and data structures could build upon a component developed by a group that specializes in "parsing" binary code, thus creating a tool that reasons about the memory use of binaries. Developers can experiment with hybrid and concolic assurance tools more quickly. For instance, a tool may use a static analyzer to get the code locations that may have problems then, using constraint satisfiers and symbolic execution, create inputs that trigger a failure at each location.
 
 **** <<2.3.4>> 2.3.4 Technology to Combine Analysis Results
+
 Once trained, such neural networks might serve as vulnerability detection engines in their own right. Incorrect conclusions from manual analysis is both time- and resource-intensive. To be effective, the above strategies to combine results must be instantiated in tools with appropriate technology. For instance, Code Dx [fn:CodeDx15] is a tool that matches, consolidates and presents the output of analysis tools. Even more powerful would be applying machine learning techniques, such as those in Microsoft's Cognitive Services and Computational Network Toolkit and Google's TensorFlow.
 
 The underlying hardware required to perform both the training and inference stages of deep learning and neural networks has dramatically dropped in price. Cloud services now provide high-end graphics processor unit (GPU) instances on demand. This computing capability dramatically increases the speed of machine learning algorithms, allowing for training with much larger datasets and significantly faster training and feedback loops. Organizations that have amassed large corpora of vulnerability, exploit, malware, rootkit and backdoor information can mine this information with well-known data science techniques to derive new insights and value.
@@ -355,19 +387,23 @@ Once trained, such neural networks might serve as vulnerability detection engine
 This detection capability could augment existing tool chains. More importantly, results from other analysis tools could be an additional source of information for training and analysis of these powerful techniques. These same networks, given enough resources, can also analyze vast swaths of source code with the same goal of identifying and prioritizing risky components.
 
 **** <<2.3.5>> 2.3.5 Maturity Level
+
 Many commonly used compilers, such as gcc, Clang and Frama-C, provide built-in support for adding plugins that process and update AST and IR representations. Additionally, large communities have developed extensive libraries of plugins and created wiki sites with tutorials and reference manuals that lower the bar for new users to become involved. In the case of semantic representations, the communities are smaller and the bar to entry is higher, although languages like Boogie have been successfully used as the engine by several research groups for building checkers for diverse languages, such as C [fn:VCC13] and Eiffel [fn:Tschannen11], and even an operating system [fn:Yang10].
 
 There are many current software information exchange systems, such as LLVM, ROSE, gcc's GENERIC or GIMPLE and the Knowledge Discovery Metamodel (KDM). Formats to consolidate the output of tools, such as Tool Output Integration Framework (TOIF) and Software Assurance Findings Expression Schema (SAFES) [fn:Barnum12], already implicitly indicate classes of useful knowledge about software.
 
 **** <<2.3.6>> 2.3.6 Basis for Confidence
+
 The leading static analysis tools today have low false positive rates, which has led to increasing adoption throughout industry and government organizations. This in turn has motivated compiler teams to add support for plugins that can operate on internal program representations. There are large and active user communities that are documenting interfaces and creating libraries of plugins that can be combined to build complex analyzers. Indeed, the challenge is not whether an additive software analysis approach might work, but in which to invest and how to tie them together.
 
 **** <<2.3.7>> 2.3.7 Rationale for Potential Impact
+
 Early static analysis tools checked mostly syntactic properties of programs, enforcing coding guidelines and looking for patterns that corresponded to simple runtime errors, such as dereferencing a null pointer or using a variable before assignment. As analyzers became more sophisticated, they increasingly relied on more complex analyses of program structure and data flow. Common frameworks that allow users to build small analysis engines that can share and combine results will make it possible to build sophisticated analyzers. Such analyzers can find subtle errors that are hard to find using traditional testing and simulation techniques.
 
 Such frameworks and standards should allow modular and distributed development and permit existing modules to be replaced by superior ones. They should also facilitate synergy between groups of researchers. They should accelerate the growth of an "ecosystem" for tools and the development of next-generation "hybrid" tools. A hybrid tool might use a static analyzer module to find problematic code locations, and then use a constraint satisfier module and a symbolic execution engine to create inputs that trigger failures. A growing, shared set of problematic and virtuous programming patterns and idioms may ultimately be checked by tools [fn:Kastrinis13].
 
 **** <<2.3.8>> 2.3.8 Further Reading
+
 [fn:Bojanova16] Irena Bojanova, Paul E. Black, Yaacov Yesha and Yan Wu, "The Bugs Framework (BF): A Structured Approach to Express Bugs," 2016 IEEE International Conference on Software Quality, Reliability, and Security (QRS 2016), Vienna, Austria, 1-3 August 2016, https://doi.org/10.1109/QRS.2016.29.
 
 [fn:Kastrinis13] George Kastrinis and Yannis Smaragdakis, "Hybrid Context-Sensitivity for Points - To Analysis," Proc. 34th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '13), 2013, pp. 423-434, https://doi.org/2499370.2462191.
@@ -375,6 +411,7 @@ Such frameworks and standards should allow modular and distributed development a
 [fn:Rushby05] John Rushby, "An Evidential Tool Bus," in Proc. 7th international conference on Formal Methods and Software Engineering (ICFEM'05), Springer, 2005, p. 36, https://doi.org/10.1007/11576280_3.
 
 *** <<2.4>> 2.4 More Mature Domain-Specific Software Development Frameworks
+
 Briefly stated, the goal of this approach is to promote the use (and reuse) of well-tested, well-analyzed code, and thus to reduce the incidence of exploitable vulnerabilities.
 
 The idea of reusable software components, organized into component libraries or repositories as mentioned in Sect. [[4.3.6][4.3.6]], dates from at least 1968 [fn:McIlroy68]. To make software reusable, sharable software components can be packaged in a variety of building blocks, e.g., standalone programs, services, micro-services, modules, plugins, libraries of functions, frameworks, languages (noted in Sect. [[2.1.4][2.1.4]]), classes and macro definitions. A set of such (legacy) building blocks typically forms the starting point for new software development efforts. Or, more colloquially expressed: hardly anything is created from scratch. The vulnerability of new software systems, therefore, depends crucially on the selection and application of the most appropriate existing components and on the interaction of new code with legacy components.
@@ -406,9 +443,11 @@ A second significant development is the mainstreaming of software development (i
 Although these are significant challenges, the current state of the art provides opportunities to leverage existing code and skills resources while augmenting them with new techniques and tools.
 
 **** <<2.4.1>> 2.4.1 Rapid Framework Adoption
+
 Framework adoption is clearly impeded by the need to learn great quantities of accidental information. Gabriel defines "habitability" as "the characteristic of source code that enables programmers, coders, bug-fixers and people coming to the code later in its life to understand its construction and intentions and to change it comfortably and confidently." [fn:Gabriel96] Recognizing the challenge of achieving habitability, Gabriel suggests the use of software patterns to help developers quickly understand existing code, as well as to flag the use of negative practices. Although not a panacea, patterns (e.g. [fn:Gamma95]) can help bridge the conceptual gap between framework providers and framework consumers. One approach to facilitating this is to develop a set of patterns that encompass popular domains. An informal survey in September 2016 of the top 10 most popular ("star'd") and most "forked" repositories on GitHub shows significant framework activity around Web application development, Front- end Web development, operating system kernels, cross platform application frameworks, virtual machine management, programming languages and asynchronous http servers. One approach to speeding adoption is to formulate software patterns for some of these domains, with a focus on harmonizing the accidental information between frameworks (so it need not be learned multiple times) and to produce documentation for common use cases. Experiments can then measure the effectiveness by comparing framework uptake both with and without the new pattern information.
 
 **** <<2.4.2>> 2.4.2 Advanced Test Methods
+
 With the unique exception of civil aviation (where software is built and tested according to stringent Federal Aviation Administration (FAA) standards), commercial software often receives only minimal testing. This is particularly true in industries where time to market is the predominant goal. Testing may be limited to only basic assurances that required functions have been implemented, sometimes called "happy path" or positive testing that demonstrates features, but does not provide assurance that undesirable behavior is absent.
 
 Advanced testing approaches hold the promise to substantially increase framework robustness, and furthermore, to build assurance for compositions of frameworks under various assumptions regarding dependencies. Many frameworks currently employ only ad hoc testing. Others employ standard unit testing [fn:Beck94], practiced at varying levels of completeness. Automated testing, such as QuickCheck [fn:Claessen02] or various fuzzing tools, is available for most languages.
@@ -416,20 +455,25 @@ Advanced testing approaches hold the promise to substantially increase framework
 Recent advances in the measurement of traditional test suite coverage provide an opportunity to compare frameworks. Combinatorial testing compresses huge numbers of combinations of input values into a small number of tests [fn:Kuhn10]. The many ways in which frameworks may be customized or configured suggest a possible approach for gaining new confidence in the use of software frameworks. By demonstrating high quality compositions, such testing also has potential to highlight framework similarities, reduce learning curves and enable broader adoption of well-tested, well-analyzed code.
 
 **** <<2.4.3>> 2.4.3 Conflict Resolution in Multi-Framework Composition
+
 In some cases, multiple frameworks can be used together concurrently without conflict. In others, the composition details that allow concurrent use may be fragile. Dominant framework patterns, such as inversion of control (IoC) [fn:Busoli07]-also known as the Hollywood principle: "don't call us; we'll call you," may exacerbate this, because each framework may assume that it is defining the flow of control in an entire application. One approach for mitigating this is to virtualize framework operations using, for example, lightweight operating system containers [fn:LXC] and then establish communication links between concurrently executing frameworks.
 
 Another approach to conflict resolution is to employ software translation to rewrite frameworks, so that their overlapping elements become distinct. Pilot efforts can demonstrate the feasibility of these and other deconfliction strategies and compare their costs and effects on application vulnerability.
 
 **** <<2.4.4>> 2.4.4 Maturity Level
+
 The literature of software patterns is quite extensive and software testing is a relatively mature subfield of computer science, practiced now for over 40 years. Frameworks themselves are now a dominant unit of software sharing. The three techniques listed above, patterns, testing and frameworks, are under continuous use and refinement.
 
 **** <<2.4.5>> 2.4.5 Basis for Confidence
+
 There is little doubt that patterns can be documented for several significant frameworks; rapid uptake may be a more incremental than revolutionary improvement, but incremental improvements should flow from investments in pattern documentation. The advanced testing techniques that would be brought to bear on framework compositions, are relatively mature, increasing confidence that framework integrations can be effectively tested.
 
 **** <<2.4.6>> 2.4.6 Rationale for Potential Impact
+
 Code reuse is pervasive and seemingly accelerating; by investing in very popular frameworks, any improvements will be widely relevant.
 
 **** <<2.4.7>> 2.4.7 Further Reading
+
 [fn:Software16] "Software framework." Available: https://en.wikipedia.org/wiki/Software_framework Accessed 13 October 2016.
 
 [fn:TodoMVC16] "TodoMVC: Helping you select an MV* framework." Available: http://todomvc.com/ Accessed 13 October 2016.
@@ -437,6 +481,7 @@ Code reuse is pervasive and seemingly accelerating; by investing in very popular
 [fn:Wayner15] Peter Wayner, "7 reasons why frameworks are the new programming languages," 30 March 2015. Available: http://www.infoworld.com/article/2902242/application-development/7-reasons-why-frameworks-are-the-new-programming-languages.html Accessed 13 October 2016.
 
 *** <<2.5>> 2.5 Moving Target Defenses (MTD) and Automatic Software Diversity
+
 This approach is a collection of techniques to automatically vary software's detailed structures and properties such that an attacker has much greater difficulty exploiting any weakness. To illustrate, consider one recently-proposed technique in this family: heap memory randomization [fn:Iyer10]. When a program requests a buffer, the easiest thing is to return a chunk of the next available memory. This puts buffers in the same relative location. Knowing this, an attacker can exploit a buffer overflow weakness (i.e., BOF class) [fn:Bojanova16] in one buffer to, for instance, read the password in another buffer that is always 384 bytes beyond it. Heap memory randomization allocates a random additional amount of memory during each allocation. This puts buffers in different (unpredictable) relative locations, so that the above exploit is much harder or possibly impossible.
 
 The goal of software diversity and moving target defense (MTD) is to reduce an attacker's ability to exploit vulnerabilities in software, not to reduce the number of weaknesses in software. This reduction may be achieved by changing the "attack surface," that is, the interface accessible by the attacker either across time (changes during operation) or across copies (diversity). Reduction may also include regenerating system components that have been compromised [fn:Knight12].
@@ -444,6 +489,7 @@ The goal of software diversity and moving target defense (MTD) is to reduce an a
 Diversification must, of course, be safe. That is, changes have no effect on normal behavior, other than perhaps higher use of resources. Even with this constraint we can trade computing power for increased granularity or thoroughness of diversification. The increased granularity is presumed to offer better protection against exploitation of unknown vulnerabilities, because of the higher probability of affecting the location or value of some piece of information essential to an attack. This tradeoff is similar to that for static analysis, referred to in Sect. [[2.1.1][2.1.1]] and 2.1.2: the more resources invested, the higher the amount of assurance. The difference is that static analysis finds specific vulnerabilities so that they can be corrected, while diversity-inducing transformations increase the difficulty of exploiting whole classes of vulnerabilities.
 
 **** <<2.5.1>> 2.5.1 Compile-Time Techniques
+
 Compile-time techniques are those applied automatically by a compiler. They may result in the same executable for each compilation, such that the executable then chooses random behaviors or memory layouts at run time, or they may result in a different executable at each compilation.
 
 Some specific techniques are data structure layout randomization, different orders of parameters in function calls, address space layout randomization (ASLR) [fn:PaX01], instruction set randomization, data value randomization, application keyword tagging and varied instruction ordering with operation obfuscation and refactoring.
@@ -453,24 +499,31 @@ The program information that is useful for proving that these diversifications a
 Unfortunately, no tools do this today. Analysis software is usually run by the programmer, at development time. Diversification typically only displays its benefit in the system test phase or in the operation phase when it demonstrates resilience. At worst, diversification adds ambiguity to test results and makes it more difficult to track down root causes of failures. To counteract this disconnect between effort and benefit, programs that use diversification should be specifically acknowledged, so customers know that they employ an extra layer of resilience. Compilers that produced extremely diverse results would also reduce the chance of adversaries discovering vulnerabilities by examining differences between the new and previous versions of a program: they would be too different [fn:Franz10].
 
 **** <<2.5.2>> 2.5.2 System or Network Techniques
+
 Some techniques at the system or network level are network address space randomization and protocol diversity [fn:Rowe12]. These are likely to be dynamic in that they change on a regular basis. In many cases, these are built on the assumption of a shared secret map from services to addresses or a shared secret key, so an application can authenticate and get current information.
 
 **** <<2.5.3>> 2.5.3 Operating System Interface Techniques
+
 An operating system (OS) may present different interfaces to different processes. These could be dynamic, such as a random interrupt number assigned for each system service, or static, in which the OS has several choices for each set of services. In the dynamic case, the linker/loader can adjust each new executable to the assignments made for the process. As an example of the static case, an OS presents a new process with a set of j memory management APIs, a set of k process services, a set of m networking functions and a set of n I/O calls. Invasive code trying to execute through that process would have to deal with j × k × m × n different OS interfaces to succeed.
 
 **** <<2.5.4>> 2.5.4 Maturity Level
+
 Some moving target defenses are the default in many operating systems and compilers today. There are intense research and entire conferences focused on understanding limitations, costs and benefits of current techniques and developing new and better techniques.
 
 **** <<2.5.5>> 2.5.5 Basis for Confidence
+
 The benefit in terms of number of attacks foiled, attackers discouraged or additional attacker resources required is not known. However, many MTD techniques can be applied automatically, e.g. by the compiler, at little cost of resources or run time.
 
 **** <<2.5.6>> 2.5.6 Rationale for Potential Impact
+
 MTD techniques can be applied to most programs and systems today, even static embedded systems. Thus, the scope of benefits is extremely large. The impact is not clear since most techniques increase attacker's costs, not strictly eliminate vulnerabilities.
 
 **** <<2.5.7>> 2.5.7 Further Reading
+
 [fn:Okhravi13] H. Okhravi, M. A. Rabe, T. J. Mayberry, W. G. Leonard, T. R. Hobson, D. Bigelow and W. W. Streilein, "Survey of Cyber Moving Targets," Massachusetts Institute of Technology Lincoln Laboratory. Technical Report 1166, 25 September 2013. Available: https://www.ll.mit.edu/mission/cybersec/publications/publication-files/full_papers/2013_09_23_OkhraviH_TR_FP.pdf Accessed 13 October 2016.
 
 ** <<3>> 3 Measures and Metrics
+
 This section deals with measures, assessments, metrics, appraisals, judgements, evaluations, etc. in the broadest sense. Hence, code reviews, software testing and other techniques have a place in this section. As we discuss later, there is a dearth of precisely defined, rigorously validated measures. Worse, most existing measures are only moderately predictive of the high-level properties that we wish to determine in software. There is not even extensive and detailed data, such as numbers and types of vulnerabilities, upon which measurement research might be based.
 
 We have three areas of attention. First, encouraging the use of measures. All the extraordinary measures in the world do not help if nobody uses them. Also, nobody can act on measures if the measures are not produced and available. The Federal Government might motivate and encourage the use of software product measures. Vehicles include procurement, contracting, liability, insurance and also standards, as explained in Sect. [[4.3][4.3]]. The benefit of measures is amplified when they are revised, interpreted and used in a disciplined software development process [fn:Curtis16]. Indeed, the widespread use of good measures is one of the few ways with the potential to break out of the cycle of crash-and-patch and get ahead of attackers [fn:Grigg08].
@@ -488,6 +541,7 @@ Much of this section is informed by the results of the workshop. Ideas were ofte
 We distinguish between base measures and derived measures. A base measure is a simple, basic assessment or count with a clear value. A derived measure, on the other hand, is "a function of two or more values of base measures" [fn:ISO15939] or a mathematical transformation of a base measure [fn:ISO25040]. Derived measures are often surrogates for properties that we would like to be able to determine. For instance, number of buffer overflow (BOF class) [fn:Bojanova16] weaknesses is a base measure with a reasonably clear definition. In contrast, code security is a derived measure that is only weakly predicted by the number of BOFs. The absence of flaws does not indicate the presence of excellence.
 
 *** <<3.1>> 3.1 A Taxonomy of Software Measures
+
 Software measures may be classified along four dimensions. The first dimension is how "high-level" is the measure. Low-level measures are below semantics, such as size of a program, number of paths and function fan in/fan out. High-level measures deal more with what the program is meant to accomplish. The second dimension is static or dynamic. Static measures are those that apply to the source code or "binary" itself. Dynamic measures apply to the execution of the program. The third dimension is the point of view. It may be either an exterior view, sometimes called black box or functional, or an interior view in which the code is considered, referred to as white ("clear" or "transparent") box or structural. The fourth dimension is the object of the measure: bugs, code quality and conformance.
 
 Along the first dimension, measures may be divided into whether they are low level or high level. Low-level measures are widely applicable. High-level measures, in contrast, deal with the relation between the program, as an object, and the developer or user, as a sentient subject. Quality arises in this interaction between object and subject [fn:Pirsig74]. Analogously to low-and high-level measures, there are low-level vulnerabilities and there are high-level vulnerabilities. Some low-level vulnerabilities are buffer overflow, integer overflow and failure to supply default switch cases. These low-level vulnerabilities can be discerned directly from the code. That is, one can inspect the code or have a program inspect the code and decide whether there is a possibility of a BOF given particular inputs. There is no need to refer to a specification, requirement or security policy to determine whether a buffer overflow is possible.
@@ -505,6 +559,7 @@ Determining how much testing is enough also shows the difference between interio
 The fourth dimension to classify measures conceptually divides them into three types. The first type of measure is presence (or absence) of particular weaknesses, such as buffer overflow (BOF class) or injection (INJ class) [fn:Bojanova16]. Note that the absence of flaws does not indicate, for instance, resilient architecture. The second type is quality measures meant to determine the excellence of code, or parts of it. However, we only have proxies for "quality," for example maintainability, portability and the presence of assertions. Even many of these proxies can only be estimated indirectly. These first two types are product quality characteristics [fn:ISO25010]. The third type is conformance to specification or correctness. This third type of measure is for quality in use characteristics [fn:ISO25010] and must be specific to each task. General requirement languages and checking approaches are available. Because of the profound differences between these three types, there is no one security or vulnerability measure that guarantees excellent code.
 
 *** <<3.2>> 3.2 Software Assurance: The Object of Software Measures
+
 Assurance that software will function as it should, comes from three sources. The first is the development process. If software is developed by a team who has clear requirements, are well trained and have demonstrated building good software with low vulnerability rates, then we have confidence or assurance that software they produce is likely to have few vulnerabilities. The second source of assurance is our analysis of the software. For instance, code reviews, acceptance tests and static analysis can assure us that vulnerabilities are likely to be rare in the software. We can trade off these two sources of assurance. If we have little information about the development process or the development process has not yielded good software in the past, we must do much more analysis and testing to achieve confidence in the quality of the software. In contrast, if we have confidence in the development team and the development process, we only need to do minimal analysis in order to be sure that the software follows past experience.
 
 The third source of software assurance is a resilient execution environment. If we do not have confidence in the quality of the software, then we can run it in a container, as explained in Sect. [[2.2.1][2.2.1]], give it few system privileges and have other programs monitor the execution. If any vulnerabilities are triggered, the damage to the system is controlled.
@@ -514,6 +569,7 @@ We may express our assurance with a mathematical formula: ~A = f(p, s, e)~, wher
 As we said before, if we do not have information about the process, then extra work in analysis can raise our overall assurance. On the other hand, if we have great confidence in the process (and people) that developed the software, we do not need as much work in analysis.
 
 *** <<3.3>> 3.3 Software Metrology
+
 To have a coherent, broadly useful system of measures, one must have a solid theoretical foundation, that is, a philosophy of software measurement. This philosophy must have a solid mathematical foundation, for instance, to use sensible statistics [fn:Böhme08]. This section addresses questions such as, what is software metrology? What is its purpose? What are the challenges unique to measuring software, in contrast to physical measurement? What are possible solutions or potential approaches?
 
 Software measures have well-known theoretical limitations. Analogous to Heisenberg's Uncertainty Principle in Physics, Computer Science has the Halting Problem, Rice's Theorem and related results that show that it is impossible to correctly determine interesting measures for all possible programs. Although this is a caution, it does not mean that all useful, precise, accurate measurement is impossible. There are several ways to avoid these theoretical road blocks. First, we may be satisfied with relative properties. It may be helpful to be able to determine that the new version of a program is more secure (or less!) than the previous version. We need not have an absolute measure of the security of a program. Second, a measure might apply only to programs that have "reasonable" structures. A measure may still be useful even if it does not apply to programs consisting solely of millions of conditional go-to statements with seemingly capricious computations interspersed. Nobody (should) write programs like that. Finally, society may decide that for certain applications, we will only build measurable software. Civil architects are not allowed to design buildings with arbitrary arches, domes, cantilevers and facades. They are required to run analyses showing that the design withstands expected loads and forces before construction can start. Currently most programmers learn to write "elegant" software, then try to show that it works. The expectation might change so that professionals only write software that definitely satisfies its constraints and requirements.
@@ -525,6 +581,7 @@ We might contrast software metrology with physical metrology. In physical metrol
 Currently metrology relegates counting the number of entities to a second-class method of determining properties. Such counted quantities are all considered to be the same dimension one, sometimes called dimensionless quantities, although they may be different kinds.
 
 *** <<3.4>> 3.4 Product Measures
+
 As much as good process is essential to the production of code with few vulnerabilities, the ultimate capability is to measure the code itself. As pointed out in the introduction to this section, measures of the software itself inform process improvement.
 
 Security or vulnerability measurement in the broadest sense includes both testing and checking. We need such measurements to determine whether the goals of this report are met! Adopting any one technique given in this report may not reduce vulnerabilities dramatically. The lack of reduction may merely be the result of certain details of how the technique is employed, or it may be that the technique is just not applicable. When several techniques are adopted, it is even harder to distinguish the effects of each or joint effects.
@@ -534,6 +591,7 @@ Such measurement cannot be left until the final deployment. They must be include
 It is possible that software quality and security measures may be the wrong emphasis to reduce software vulnerabilities. Such measures may fade in emphasis as other software measures have, for example cohesion and McCabe Cyclomatic Complexity. It may turn out that the best approach is like Clean Room, in which measures inform a decision to accept or reject and do not purport to establish an absolute certification of freedom from errors.
 
 **** <<3.4.1>> 3.4.1 Existing Measures
+
 There are hundreds of proposed software measures, such as lines of code, class coupling, number of closed classes, function points, change density and cohesion. Most of these are not precisely defined and are not rigorously validated. Worse yet, most of these are only moderately predictive of the high-level properties that we wish to determine in software. For instance, lines of code (LoC) capture only some of the variance in program capability. LoC for the same specification in the same language varies by as much as a factor of four, even when all programmers have similar expertise. On the other hand, LoC has a remarkably robust correlation with the number of bugs in a program. (This suggests that higher level and domain-specific languages, which allow a programmer to express functionality more succinctly, lead to fewer bugs in general.)
 
 Even something as seemingly simple as counting the number of bugs in a program is surprisingly complicated [fn:Black11b]. It is difficult to even subjectively define what is a bug. For example, one can write a binary search that is never subject to integer overflow, but the code is hard to understand. Dividing by zero may have a well-defined behavior, resulting in the special value "NaN," but that is generally not a useful result. Bugs are often a cascade of several difficulties. Suppose (1) an unchecked user input leads to (2) an integer overflow that leads to (3) a buffer being allocated that is too small that causes (4) a buffer overflow that finally leads to (5) information exposure. Do we count this as one bug or five? If a programmer makes a systematic mistake in several places, e.g., not releasing a resource after use, is that one problem or several? Rather than being the exception, these kinds of complications are the rule in software [fn:Okun08].
@@ -543,6 +601,7 @@ For any realistic program, it is infeasible to test every single possible input.
 There are far too many proposed measures to evaluate or even list here. We can state that, as alluded to above, measures should be firmly based on well-established science and have a rational foundation in metrology to have the greatest utility [fn:Flater16].
 
 **** <<3.4.2>> 3.4.2 Better Code
+
 Two presentations at the Software Measures and Metrics to Reduce Security Vulnerabilities (SwMM-RSV) workshop, Andrew Walenstein's "Measuring Software Analyzability" and James Kupsch's "Dealing with Code that is Opaque to Static Analysis," point the direction to new software measures. Both stressed that code should be amenable to automatic analysis. Both presented approaches to define what it means that code is readily analyzed, why analyzability contributes to reduced vulnerabilities and how analyzability could be measured and increased. There are subsets of programming languages that are designed to be analyzable, such as SPARK, or to be less error-prone, such as Less Hatton's SaferC. Workshop participants generally favored using better languages, for example, functional languages, such as F# or ML. However, there was no particular suggestion of the language, or languages, of the future.
 
 We note that with few exceptions, such as Ada 2012 [fn:Barnes13], which has SPARK, new languages have poor tool support. Supporting the construction of tools is vital for the adoption and safe use of new languages.
@@ -550,9 +609,11 @@ We note that with few exceptions, such as Ada 2012 [fn:Barnes13], which has SPAR
 While code-based measures are important, we can expect complementary results from measures for other aspects of software. Some aspects are the software architecture and design erosion measures, linguistic aspects of the code, developers' backgrounds and measures related to the software requirements.
 
 **** <<3.4.3>> 3.4.3 Measures of Binaries and Executables
+
 Some workshop participants were of the opinion that there is a significant need for measures of binaries or executables. With today's optimizing compilers and with the dependence on many libraries delivered in binary, solely examining source code leaves many avenues for appearance of all sorts of vulnerabilities.
 
 **** <<3.4.4>> 3.4.4 More Useful Tool Outputs
+
 There are many powerful and useful software assurance tools available today. No single tool meets all needs. Accordingly, users should use several tools. This is difficult because tools have different output formats and use different terms and classes. Tool outputs should be standardized. That is, the more there is common nomenclature, presentation and detail, the more feasible it is for users to combine tool results with other software assurance information and to choose a combination of tools that is most beneficial for them.
 
 In addition, tools can supply more information about their analysis. Tools could indicate which parts of code are thoroughly checked and which parts are not, for instance, because of complexity or heuristics. This checking information could be attached to the code as "assurance- carrying code" [fn:Woody16], analogous to proof-carrying code.
@@ -560,6 +621,7 @@ In addition, tools can supply more information about their analysis. Tools could
 Participants felt the need for scientifically valid research about tool strengths and limitations, mechanisms to allow publication of third party evaluation of tools, a common forum to share insights about tools and, perhaps, even a list of verified or certified tools.
 
 *** <<3.5>> 3.5 Further Reading
+
 [fn:Barritt16] Keith Barritt, "3 Lessons: FDA/FTC Enforcement Against Mobile Medical Apps," 14 January 2016. Available: http://www.meddeviceonline.com/doc/lessons-fda-ftc-enforcement/against-mobile-medical-apps-0001 Accessed 12 October 2016.
 
 [fn:FTC16] Federal Trade Commission, "Mobile Health App Developers: FTC Best Practices," April 2016. Available: http://www.ftc.gov/tips-advice/business-center/guidance/mobile-health-app-developers-ftc-best-practices Accessed 13 October 2016.
@@ -567,6 +629,7 @@ Participants felt the need for scientifically valid research about tool strength
 [fn:Perini16] Barti Perini, Stephen Shook and Girish Seshagiri, "Reducing Software Vulnerabilities - The Number One Goal for Every Software Development Organization, Team, and Individual," ISHIPI Technical Report, 22 July 2016.
 
 ** <<4>> 4 Non-Technical Approaches and Summary
+
 In response to the February 2016 Federal Cybersecurity Research and Development Strategic Plan, OSTP asked NIST to identify ways to dramatically reduce software vulnerabilities. NIST worked with the software assurance community to identify five promising approaches. This report presents some background for each of the approaches along with a summary statement of the maturity of the approach and the rationale for why it might make a dramatic difference. Further reading was provided for each approach. Hopefully other approaches will be identified in the future.
 
 These approaches are focused on technical activities with a three to seven-year horizon. Many critical aspects of improving software, such as creating better specifications, using the testing tools available today, understanding and controlling dependencies and creating and following project guidelines, were not addressed. While these areas fall outside the scope of the report, they are critical both now and in the future. Similarly, the report does not address research and development that is needed as part of a broader understanding of software and vulnerabilities. Topics such as identifying sources of vulnerabilities, how vulnerabilities manifest as bugs and improved scanning during development are also critical, but, again, outside the scope of this report.
@@ -574,15 +637,19 @@ These approaches are focused on technical activities with a three to seven-year 
 This section of the report outlines some of the needed steps for moving forward by engaging the broader community, including researchers, funders, developers, managers and customers/users. This section addresses: 1) engaging and supporting the research community, 2) education and training and 3) empowering customers and users of software to meaningfully participate by not only asking for quality, but pushing it.
 
 *** <<4.1>> 4.1 Engaging the Research Community
+
 There are many approaches to engaging the research community beyond simply funding secure software research.
 
 **** <<4.1.1>> 4.1.1 Grand Challenges, Prizes and Awards
+
 Many organizations have announced grand challenges, some of which are general research goals and some are competitions. More secure software can be the focus of challenges or a side benefit, that is, the competition could be focused on a non-security goal, but require the winner to produce secure software. For example, the DARPA Cyber Grand Challenge scores reflected how well software found vulnerabilities and protected the host [fn:DARPA16]. Other challenges might focus on particular techniques, such as abstract interpretation or symbolic execution or analysis of new programming languages. Many organizations use bug bounty programs to provide incentives to the research community to find and notify organizations about bugs.
 
 **** <<4.1.2>> 4.1.2 Research Infrastructure
+
 There are several very successful repositories of data related to secure software, such as the National Vulnerability Database. However, many more are needed. There could be repositories to share related research as well as open repositories of source code, as mentioned in Sect. [[4.3.6][4.3.6]]. There is also a need for a better understanding of weaknesses and bugs. For example, what proportion of vulnerabilities result from implementation errors and what proportion from design errors? The SPSQ workshop participants called for more in-depth understanding of defects and vulnerabilities. Specific issues included the need for empirical data about the types and prevalence of vulnerabilities, the effectiveness of programming and testing techniques and the benefits and costs of "safer" languages. New languages require new analysis tools and, in some cases, new analysis algorithms. A robust research infrastructure can also be used to study other factors that may affect software quality, including management practices, education and training, levels of complexity and programmer overload. Researchers need to be able to replicate results and test across different types of code. All of these activities require a large and public research infrastructure.
 
 *** <<4.2>> 4.2 Education and Training
+
 The role of education and training cannot be overstated. There is no technological substitute for developer discipline. Education is not just about teaching developers how to write better software. It also includes educating users how to specify better software and managers how to set up environments that result in higher quality software.
 
 In addition, education and training are the primary mechanism for transitioning the technical approaches discussed in this report from the research community to both the development community and to the user/customer community.
@@ -622,12 +689,15 @@ Guide Career Development and Workforce Planning. Employers need help to address 
 + Collaborating internationally to share best practices in cybersecurity career development and workforce planning.
 
 *** <<4.3>> 4.3 Consumer-Enabling Technology Transfer
+
 One of the drivers for better software is if users, consumers and purchasers of software demand it. While the user community clearly wants higher quality software, it is difficult for them to meaningfully ask for it and know if they received it, and thus signal the development of low vulnerability software. The market needs improved measures that are customer-focused, as well as other policy and economic approaches. For a measure to significantly inform customers, it requires pervasiveness, understandability, simplicity and efficiency. An example is the 5-Star Safety Rating of the National Highway Traffic Safety Administration (NHTSA). Once ratings consistently appeared on new automobiles, one- and two-star rated cars rapidly became scarce [fn:Rice08]. Policy and economic approaches are outside the scope of this report, but they are critical to successful technology transfer for improved software. This section outlines some of these approaches that were discussed during the various workshops.
 
 **** <<4.3.1>> 4.3.1 Contracting and Procurement
+
 The Federal Government could lead a significant improvement in software quality by requiring software quality during contracting and procurement and by changing general expectations. Model contract language can include incentives for software to adhere to higher coding and assurance standards or punitive measures for egregious violations of those standards. Sample procurement language for cybersecurity and secure software has been published by the defense community [fn:Marien16], the financial sector, the automotive sector and the medical sector. The evaluation must include provisions for "fitness for purpose" that factor in considerations for secure software.
 
 **** <<4.3.2>> 4.3.2 Liability
+
 There is much discussion in the software community about liability, including during the Software Measures and Metrics to Reduce Security Vulnerabilities (SwMM-RSV) workshop.
 
 Many participants felt that companies developing software should be contractually liable for vulnerabilities discovered after delivery. Many did not believe that there should be legal liability at this time. On the other hand, the language of such liability clauses needs to be strict enough to, as one participant wrote, "hold companies accountable for sloppy and easily-avoidable errors, flaws and mistakes."
@@ -635,21 +705,27 @@ Many participants felt that companies developing software should be contractuall
 Defining "sloppy and easily avoidable" is not a trivial matter. An additional complicating factor is that liability includes a concept of who is responsible. Responsibility may be hard to determine in the case of "open source" or freely available software.
 
 **** <<4.3.3>> 4.3.3 Insurance
+
 Cyber insurance is a growing area as cyber continues to grow in importance. The Financial Services Sector Coordinating Council (FSSCC) for Critical Infrastructure Protection and Homeland Security produced a 26-page document, entitled "Purchasers' Guide to Cyber Insurance Products," defining what this kind of insurance is, explaining why organizations need it, describing how it can be procured and giving other helpful information.
 
 **** <<4.3.4>> 4.3.4 Vendor-Customer Relations
+
 It would help end users if software has a "bill of materials" such that those using it could respond to a new threat in which some part of the software became a vector of attack. Users are sometimes prohibited by software licenses from publishing evaluations or comparisons with other tools. Georgetown University recently published a study of this issue [fn:Klass16]. The study was sponsored by the Department of Homeland Security (DHS) Science & Technology Directorate (S&T), Cyber Security Division through the Security and Software Engineering Research Center (S2ERC).
 
 **** <<4.3.5>> 4.3.5 Standards
+
 The development and adoption of standards and guidelines, as well as conformity assessment programs, are used across multiple industries to address quality. The US system of voluntary industry consensus standards allows for great flexibility to address needs. In some cases, the Government (federal, state or local) set regulatory standards and communities self-regulate. For example, the Institute of Electrical and Electronics Engineers (IEEE) released a Building Code for Medical Device Software Security in 2015 [fn:Haigh15] and has launched an effort to develop a similar best practice document for energy and power distribution systems. Carl Landwehr proposed a "building code for building code" [fn:Landwehr15]. Another example is NIST's Framework for Improving Critical Infrastructure Cybersecurity [fn:Framework14].
 
 **** <<4.3.6>> 4.3.6 Testing and Code Repositories
+
 We explained the advantages of additional repositories of well-tested code in both Sections 2.1 and 2.4. In-depth testing of software is difficult and time-consuming, but necessary for key modules that are in common usage. Participants at the SPSQ workshop pointed out the value of both government and community-based efforts to test critical software. Code repositories promote code re-use and encourage organizations to test code by providing a location where the results can be published. Repositories could store some assurance level measure along with the code or even have built-in code measures tools. Repositories can also contain examples of projects with low bug densities, such as Tokeneer [fn:Barnes06].
 
 **** <<4.3.7>> 4.3.7 Threat Analysis
+
 Threat analysis, sometimes called "threat modeling" or "risk analysis," is a means of assessing risks or threats [fn:Fundamental08]. Through threat analysis, software can be designed to avoid the introduction of some vulnerabilities and reduce the severity of others. For instance, one form of threat analysis is documenting attack surfaces to understand how adversaries might use interfaces to elevate privilege. Without performing threat analysis, preferably at both the architectural and design levels, software can contain vulnerabilities that might otherwise be avoided [fn:Shostack14]. Architectural threat analysis can significantly increase the security robustness and resilience of the architecture of software and its high-level designs to dramatically reduce the number and severity of vulnerabilities [fn:Diamant11].
 
 *** <<4.4>> 4.4 Conclusions
+
 The call for a dramatic reduction in software vulnerability is heard from multiple sources, including the 2016 Cybersecurity National Action Plan. This report has identified five approaches for achieving this goal. Each approach meets three criteria: 1) have a potential for dramatic improvement in software quality, 2) could make a difference in a three to seven-year time frame and 3) are technical activities. The identified approaches use multiple strategies:
 
 + Stopping vulnerabilities before they occur, including improved methods for specifying and building software;
@@ -669,6 +745,7 @@ Moving Target Defenses (MTD) and Automatic Software Diversity. This approach is 
 A critical need for improving security is to have software with fewer and less exploitable vulnerabilities. The measures, techniques and approaches we have described will be able to do this. Higher quality software, however, does not get created in a vacuum. There must be a robust research infrastructure, education and training and customer demand. Higher quality software is a necessary step, but it is insufficient. A robust operation and maintenance agenda that spans a system's lifecycle is still needed.
 
 *** <<4.5>> 4.5 Table of Acronyms
+
 | ACM    | Association for Computing Machinery                            |
 | AI     | Artificial Intelligence                                        |
 | API    | Application Program Interface                                  |
@@ -731,6 +808,7 @@ A critical need for improving security is to have software with fewer and less e
 | TOIF   | Tool Output Integration Framework                              |
 
 ** <<5>> 5 References
+
 [fn:Anderson72] James P. Anderson, "Computer Security Technology Planning Study," Air Force ESD-TR-73-51, Vol. II, October 1972.
 
 [fn:Armstrong14] Robert C. Armstrong, Ratish J. Punnoose, Matthew H. Wong and Jackson R. Mayo, "Survey of Existing Tools for Formal Verification," Sandia National Laboratories Report SAND2014-20533, December 2014. Available: http://prod.sandia.gov/techlib/access-control.cgi/2014/1420533.pdf Accessed 12 October 2016.
